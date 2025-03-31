@@ -165,9 +165,9 @@ Date,Action,Symbol,Company,Reason,Reason2
 12-May-20,Removed,CPRI,Capri Holdings,Market cap change,Market capitalization change.[49]
 12-May-20,Removed,AGN,Allergan,Acquired,Allergan acquired by AbbVie.[49]
 6-Apr-20,Removed,M,Macy's,Market cap change,Market capitalization change.[50]
-6-Apr-20,Removed,RTN,Raytheon Company,Spot fill for OTIS,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[50]
-3-Apr-20,Added,OTIS,Otis Worldwide,Acquired,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[50]
-3-Apr-20,Added,CARR,Carrier,Acquired,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[50]
+6-Apr-20,Removed,RTN,Raytheon Company,Acquired,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[50]
+3-Apr-20,Added,OTIS,Otis Worldwide,Spin off,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[50]
+3-Apr-20,Added,CARR,Carrier,Spin off,United Technologies spun off Otis and Carrier and acquired Raytheon Company.[50]
 1-Apr-20,Added,HWM,Howmet Aerospace,Larger due to a merger,Arconic separated into 2 companies - Howmet remained on the index.[51]
 1-Apr-20,Removed,ARNC,Arconic,Removed due to spin off,Arconic separated into 2 companies - Howmet remained on the index.[51]
 2-Mar-20,Added,IR,Ingersoll Rand,Acquired,"Gardner Denver acquired Ingersoll Rand's industrial businesses then changed its name to the ""new"" Ingersoll Rand Inc.[52][53]"
