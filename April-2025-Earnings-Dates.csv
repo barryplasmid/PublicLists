@@ -1,0 +1,177 @@
+No.,Symbol,Company,Sector,Industry,Country,Market Cap,P/E,Book/sh,Cash/sh,Dividend Yield,Short Ratio,Total Debt/Equity,Profit Margin,Performance (Quarter),Performance (YTD),Beta,Earnings Date,Volume,Price,Change
+1,AA,Alcoa Corp,Basic Materials,Aluminum,USA,7075.31,,19.96,4.86,1.46%,2.11,0.54,0.005,-0.277,-0.277,2.26,4/16/2025 16:30,9025452,27.33,-11.38%
+2,ABT,Abbott Laboratories,Healthcare,Medical Devices,USA,228288.99,17.18,27.52,4.59,1.80%,3.17,0.32,0.318,0.164,0.164,0.74,4/16/2025 8:30,6239225,131.63,-0.23%
+3,ACI,Albertsons Companies Inc,Consumer Defensive,Grocery Stores,USA,13273.58,12.88,5.81,0.39,2.26%,3.09,4.22,0.013,0.167,0.167,0.46,4/15/2025 8:30,7863855,22.91,2.14%
+4,AEM,Agnico Eagle Mines Ltd,Basic Materials,Gold,Canada,54569.38,28.7,41.52,1.86,1.36%,3.19,0.06,0.229,0.387,0.387,0.54,4/24/2025 16:30,4655727,108.49,0.89%
+5,ALLY,Ally Financial Inc,Financial,Credit Services,USA,10135.47,12.7,37.92,,3.64%,2.86,1.38,0.049,-0.084,-0.084,1.11,4/17/2025 8:30,7592287,33,-10.86%
+6,ALV,Autoliv Inc,Consumer Cyclical,Auto Parts,Sweden,6563.11,10.52,29.29,4.26,3.29%,1.92,0.91,0.062,-0.096,-0.096,1.38,4/16/2025 8:30,1175764,84.77,-6.17%
+7,APH,Amphenol Corp,Technology,Electronic Components,USA,75930.34,32.67,8.1,2.75,1.07%,1.59,0.74,0.159,-0.098,-0.098,1.13,4/23/2025 8:30,9717071,62.66,-7.72%
+8,ARE,Alexandria Real Estate Equities Inc,Real Estate,REIT - Office,USA,14929.16,47.91,103.88,3.23,6.21%,2.62,0.83,0.099,-0.116,-0.116,1.26,4/28/2025 16:30,1790727,86.25,-6.59%
+9,ASB,Associated Banc-Corp,Financial,Banks - Regional,USA,3317.75,25.79,26.55,,4.61%,2.68,0.8,0.052,-0.162,-0.162,0.77,4/24/2025 16:30,1630233,20.03,-11.45%
+10,ASML,ASML Holding NV,Technology,Semiconductor Equipment & Materials,Netherlands,245099.95,29.98,48.65,33.55,1.22%,0.97,0.27,0.268,-0.101,-0.101,1.76,4/16/2025 8:30,2877114,623.22,-6.84%
+11,AUB,Atlantic Union Bankshares Corp,Financial,Banks - Regional,USA,3605.04,11.93,35.01,,4.98%,5.08,0.2,0.147,-0.280,-0.280,0.79,4/24/2025 8:30,1970436,27.28,-11.02%
+12,AVTR,Avantor Inc,Healthcare,Medical Instruments & Supplies,USA,10677.88,15.03,8.75,0.38,,4.71,0.71,0.105,-0.256,-0.256,1.06,4/25/2025 8:30,17685180,15.67,-3.81%
+13,AXP,American Express Co,Financial,Credit Services,USA,173748.96,17.69,43.11,57.97,1.32%,2.92,1.69,0.135,-0.165,-0.165,1.24,4/17/2025 8:30,7736239,247.82,-9.97%
+14,AYI,Acuity Inc,Industrials,Electrical Equipment & Parts,USA,7964.59,19.5,81.3,12.85,0.23%,2.92,0.47,0.105,-0.119,-0.119,1.59,4/3/2025 8:30,1366866,257.26,-3.43%
+15,BAC,Bank Of America Corp,Financial,Banks - Diversified,USA,283046.11,11.58,35.79,,2.92%,2.27,2.26,0.128,-0.153,-0.153,1.28,4/15/2025 8:30,115497878,37.22,-11.06%
+16,BANR,Banner Corp,Financial,Banks - Regional,USA,2016.59,12,51.49,,3.35%,3.63,0.34,0.203,-0.124,-0.124,0.88,4/16/2025 16:30,322451,58.52,-8.41%
+17,BK,Bank Of New York Mellon Corp,Financial,Banks - Diversified,USA,57373.3,13.76,51.52,,2.44%,2.37,1.62,0.109,0.040,0.040,1.04,4/11/2025 8:30,5262466,79.91,-5.12%
+18,BKR,Baker Hughes Co,Energy,Oil & Gas Equipment & Services,USA,40455.97,13.72,17.07,4.69,2.24%,2.86,0.4,0.107,-0.004,-0.004,0.91,4/22/2025 16:30,11060505,40.86,-9.04%
+19,BKU,BankUnited Inc,Financial,Banks - Regional,USA,2306.07,10.01,37.65,,3.85%,3.25,1.33,0.132,-0.192,-0.192,1.29,4/28/2025 8:30,1395496,30.85,-10.58%
+20,BLK,Blackrock Inc,Financial,Asset Management,USA,137810.72,21.13,306.52,82.2,2.41%,2.11,0.3,0.305,-0.134,-0.134,1.42,4/11/2025 8:30,903345,887.65,-7.71%
+21,BMI,Badger Meter Inc,Technology,Scientific & Technical Instruments,USA,5438.66,43.7,20.61,10.04,0.77%,7.45,0.01,0.151,-0.128,-0.128,0.85,4/17/2025 8:30,267280,184.92,-5.54%
+22,BMY,Bristol-Myers Squibb Co,Healthcare,Drug Manufacturers - General,USA,117650.01,,8.05,5.34,4.28%,3.18,3.13,-0.185,0.022,0.022,0.37,4/24/2025 8:30,13246913,57.82,-2.99%
+23,BRX,Brixmor Property Group Inc,Real Estate,REIT - Retail,USA,7641.83,22.4,9.77,1.24,4.64%,4.97,1.84,0.263,-0.103,-0.103,1.24,4/28/2025 16:30,3783941,24.97,-6.51%
+24,C,Citigroup Inc,Financial,Banks - Diversified,USA,118670.19,10.61,101.62,,3.67%,2.4,2.85,0.067,-0.104,-0.104,1.28,4/15/2025 8:30,39469487,63.05,-12.14%
+25,CADE,Cadence Bank,Financial,Banks - Regional,USA,5037.95,9.95,29.44,,3.85%,4.77,0.04,0.174,-0.200,-0.200,0.87,4/21/2025 16:30,1730752,27.57,-9.49%
+26,CAG,Conagra Brands Inc,Consumer Defensive,Packaged Foods,USA,12782.64,39.19,18.44,0.1,5.23%,3.27,0.93,0.028,-0.035,-0.035,0.17,4/3/2025 8:30,11473418,26.78,1.52%
+27,CALM,"Cal-Maine Foods, Inc",Consumer Defensive,Farm Products,USA,4559.8,7.23,41.71,16.25,4.60%,5.74,0,0.204,-0.097,-0.097,0.18,4/8/2025 16:30,833333,92.97,-0.12%
+28,CBRE,CBRE Group Inc,Real Estate,Real Estate Services,USA,37156.64,39.38,27.85,4.07,,2.73,0.7,0.027,-0.057,-0.057,1.29,4/24/2025 8:30,2680194,123.84,-7.09%
+29,CFG,Citizens Financial Group Inc,Financial,Banks - Regional,USA,15832.99,11.97,50.26,,4.77%,2.8,0.55,0.110,-0.172,-0.172,1.06,4/16/2025 8:30,6962257,36.22,-13.06%
+30,CHDN,"Churchill Downs, Inc",Consumer Cyclical,Gambling,USA,8011.65,19.2,14.74,3.44,0.39%,2.79,4.59,0.155,-0.184,-0.184,0.99,4/23/2025 16:30,828147,109.02,-2.48%
+31,CHTR,Charter Communications Inc,Communication Services,Telecom Services,USA,58372.2,10.47,109.81,3.19,,10.01,6.17,0.092,0.075,0.075,1.12,4/25/2025 8:30,1445467,368.4,-2.87%
+32,CL,Colgate-Palmolive Co,Consumer Defensive,Household & Personal Products,USA,77864.09,27.33,0.26,1.55,2.18%,2.04,40.15,0.144,0.056,0.056,0.39,4/25/2025 8:30,5483421,96,2.62%
+33,CMA,"Comerica, Inc",Financial,Banks - Regional,USA,6989.32,10.61,46.79,,5.41%,2.81,1.07,0.139,-0.139,-0.139,0.93,4/21/2025 8:30,2919561,53.27,-10.08%
+34,CMCSA,Comcast Corp,Communication Services,Telecom Services,USA,135058.13,8.61,22.59,1.94,3.69%,2.2,1.23,0.131,-0.048,-0.048,0.96,4/24/2025 8:30,26834110,35.72,-2.43%
+35,CME,CME Group Inc,Financial,Financial Data & Stock Exchanges,USA,96712.3,27.74,73.66,8.36,3.87%,2.54,0.14,0.568,0.156,0.156,0.46,4/23/2025 8:30,4242858,268.36,2.22%
+36,CMG,Chipotle Mexican Grill,Consumer Cyclical,Restaurants,USA,67875.28,44.95,2.69,1.05,,1.68,1.24,0.136,-0.170,-0.170,1.12,4/23/2025 16:30,12639708,50.08,-3.73%
+37,CNC,Centene Corp,Healthcare,Healthcare Plans,USA,31891.7,10.29,53.26,,2.59%,2.21,0.74,0.020,0.061,0.061,0.48,4/25/2025 8:30,8566242,64.29,5.86%
+38,COF,Capital One Financial Corp,Financial,Credit Services,USA,62820.61,14.16,159.44,,1.53%,5.89,0.67,0.083,-0.080,-0.080,1.14,4/22/2025 16:30,13576312,164.04,-9.96%
+39,CSX,CSX Corp,Industrials,Railroads,USA,52754.03,15.62,6.58,0.53,1.64%,2.03,1.52,0.240,-0.133,-0.133,1.22,4/16/2025 16:30,21170848,27.99,-5.88%
+40,DAL,"Delta Air Lines, Inc",Industrials,Airlines,USA,25005.19,7.26,23.66,5.01,1.34%,2.03,1.49,0.056,-0.360,-0.360,1.46,4/9/2025 8:30,18127870,38.71,-10.74%
+41,DGX,"Quest Diagnostics, Inc",Healthcare,Diagnostics & Research,USA,18936.19,22.17,61.06,4.95,1.79%,2.47,1.05,0.088,0.131,0.131,0.53,4/22/2025 8:30,1828614,170.63,1.59%
+42,DHI,D.R. Horton Inc,Consumer Cyclical,Residential Construction,USA,38542.64,8.64,78.53,9.74,1.30%,2,0.21,0.127,-0.125,-0.125,1.46,4/17/2025 8:30,4161386,122.31,-4.42%
+43,DHR,Danaher Corp,Healthcare,Diagnostics & Research,USA,141587.61,37.43,68.9,2.9,0.61%,1.79,0.35,0.163,-0.138,-0.138,0.8,4/22/2025 8:30,5413397,197.9,-3.54%
+44,DOW,Dow Inc,Basic Materials,Chemicals,USA,22142.55,20.09,24.67,3.76,8.89%,3.14,1.02,0.026,-0.216,-0.216,0.92,4/24/2025 8:30,18080863,31.46,-9.83%
+45,DPZ,Dominos Pizza Inc,Consumer Cyclical,Restaurants,USA,15907.76,27.78,-115.58,13.48,1.53%,2.62,,0.124,0.105,0.105,1.17,4/28/2025 8:30,740380,463.78,-0.98%
+46,EGP,"Eastgroup Properties, Inc",Real Estate,REIT - Industrial,USA,8625.58,35.6,63.52,0.34,3.46%,4.55,0.48,0.354,0.033,0.033,1.06,4/23/2025 16:30,593255,165.8,-5.61%
+47,ERIC,Telefonaktiebolaget L M Ericsson ADR,Technology,Communication Equipment,Sweden,22970.48,2077.78,2.56,1.66,3.98%,2.27,0.48,0.001,-0.072,-0.072,1,4/15/2025 8:30,29123158,7.48,-3.98%
+48,EWBC,"East West Bancorp, Inc",Financial,Banks - Regional,USA,10787.23,9.35,55.79,,3.03%,3.01,0.47,0.262,-0.186,-0.186,0.89,4/22/2025 16:30,2810432,77.92,-14.14%
+49,FAF,First American Financial Corp,Financial,Insurance - Specialty,USA,6675.99,51.79,47.66,,3.34%,2.82,0.36,0.022,0.037,0.037,1.3,4/23/2025 16:30,1847777,64.76,-3.34%
+50,FAST,Fastenal Co,Industrials,Industrial Distribution,USA,44734.92,38.93,6.31,0.45,2.17%,4.2,0.13,0.153,0.085,0.085,1.02,4/11/2025 8:30,5668440,78.01,0.00%
+51,FCFS,FirstCash Holdings Inc,Financial,Credit Services,USA,5698.49,22.21,45.9,3.91,1.19%,2.2,1,0.076,0.229,0.229,0.65,4/24/2025 8:30,548350,127.31,4.28%
+52,FHN,First Horizon Corporation,Financial,Banks - Regional,USA,8848.66,12.69,16,,3.59%,2.01,0.56,0.148,-0.146,-0.146,0.59,4/16/2025 8:30,7637953,17.21,-12.42%
+53,FITB,Fifth Third Bancorp,Financial,Banks - Regional,USA,23697.47,11.31,26.17,,4.26%,5.06,1,0.155,-0.161,-0.161,0.9,4/17/2025 8:30,7037982,35.47,-10.47%
+54,FNB,F.N.B. Corp,Financial,Banks - Regional,USA,4348.98,9.56,17.52,,4.11%,3.74,0.72,0.178,-0.182,-0.182,0.9,4/16/2025 16:30,4757771,12.09,-11.43%
+55,FR,"First Industrial Realty Trust, Inc",Real Estate,REIT - Industrial,USA,6805.78,23.06,20.14,0.38,3.48%,1.68,0.84,0.429,-0.002,-0.002,1.08,4/16/2025 16:30,2622802,50.03,-7.44%
+56,FSV,FirstService Corp,Real Estate,Real Estate Services,Canada,7588.93,56.33,26.24,5.36,0.64%,1.58,1.32,0.026,-0.077,-0.077,1.06,4/24/2025 8:30,148244,167.01,-2.61%
+57,FTI,TechnipFMC plc,Energy,Oil & Gas Equipment & Services,USA,12402.65,15.38,7.31,2.77,0.76%,2.01,0.58,0.093,0.019,0.019,0.99,4/24/2025 8:30,8728048,29.49,-9.60%
+58,FULT,Fulton Financial Corp,Financial,Banks - Regional,USA,2958.92,10.33,16.5,,4.50%,3.6,0.61,0.153,-0.158,-0.158,0.77,4/15/2025 16:30,2390965,16.24,-9.48%
+59,GE,GE Aerospace,Industrials,Aerospace & Defense,USA,201381.5,31.41,18.01,13.6,0.73%,2.79,1.05,0.143,0.125,0.125,1.32,4/22/2025 8:30,12750477,187.63,-6.08%
+60,GEV,GE Vernova Inc,Utilities,Utilities - Renewable,USA,82124.62,52.91,34.6,29.74,0.22%,1.18,0.11,0.044,-0.095,-0.095,1.36,4/23/2025 8:30,5752183,297.66,-10.02%
+61,GILD,"Gilead Sciences, Inc",Healthcare,Drug Manufacturers - General,USA,139964.43,306.16,15.51,9.29,2.76%,2.57,1.41,0.017,0.217,0.217,0.27,4/24/2025 16:30,10045247,112.39,0.45%
+62,GS,"Goldman Sachs Group, Inc",Financial,Capital Markets,USA,158885.36,12.61,350.05,,2.45%,1.45,5.52,0.107,-0.107,-0.107,1.31,4/14/2025 8:30,5193888,511.23,-9.21%
+63,HAL,Halliburton Co,Energy,Oil & Gas Equipment & Services,USA,19436.57,7.91,12.1,3.02,3.15%,2.31,0.83,0.109,-0.177,-0.177,1.16,4/22/2025 8:30,20916683,22.39,-12.88%
+64,HBAN,"Huntington Bancshares, Inc",Financial,Banks - Regional,USA,19661.75,11.04,12.21,,4.73%,3.14,0.87,0.152,-0.173,-0.173,0.91,4/17/2025 8:30,31270165,13.46,-11.51%
+65,HOMB,Home Bancshares Inc,Financial,Banks - Regional,USA,5128.57,12.85,19.92,,3.11%,4.59,0.31,0.275,-0.087,-0.087,0.78,4/16/2025 16:30,1636624,25.83,-8.99%
+66,HWC,Hancock Whitney Corp,Financial,Banks - Regional,USA,4093.65,9,47.93,,3.53%,4.23,0.23,0.223,-0.131,-0.131,1.07,4/15/2025 16:30,1172628,47.53,-10.27%
+67,IBKR,Interactive Brokers Group Inc,Financial,Capital Markets,USA,67392.27,23.03,39.3,161.11,0.63%,1.25,0.03,0.080,-0.097,-0.097,1.19,4/15/2025 16:30,2138147,159.48,-8.51%
+68,IBM,International Business Machines Corp,Technology,Information Technology Services,USA,225779.58,37.94,29.48,15.97,2.84%,3.87,2.14,0.096,0.108,0.108,0.62,4/23/2025 16:30,5309626,243.49,-2.60%
+69,INFY,Infosys Ltd ADR,Technology,Information Technology Services,India,72059.06,21.77,2.49,0.87,3.40%,9.01,0.09,0.173,-0.209,-0.209,0.96,4/17/2025 8:30,16271510,17.35,-5.66%
+70,ISRG,Intuitive Surgical Inc,Healthcare,Medical Instruments & Supplies,USA,177206.17,77.12,46.08,11.2,,2.35,0.01,0.278,-0.052,-0.052,1.71,4/22/2025 16:30,2728982,494.61,-2.45%
+71,ITGR,Integer Holdings Corp,Healthcare,Medical Devices,USA,3901.97,34.57,48.27,1.38,,6.38,0.68,0.069,-0.124,-0.124,1.04,4/24/2025 8:30,888373,116.07,-4.14%
+72,JBHT,"J.B. Hunt Transport Services, Inc",Industrials,Integrated Freight & Logistics,USA,13624.11,24.5,39.92,0.47,1.34%,3.6,0.45,0.047,-0.202,-0.202,1.32,4/15/2025 16:30,1704536,136.23,-10.83%
+73,JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,USA,385141.87,27.57,29.7,10.18,3.14%,2.63,0.53,0.158,0.105,0.105,0.4,4/15/2025 8:30,13249313,159.82,2.87%
+74,JPM,JPMorgan Chase & Co,Financial,Banks - Diversified,USA,639441.48,11.58,116.07,,2.40%,2.26,2.28,0.201,-0.046,-0.046,1.07,4/11/2025 8:30,17188469,228.69,-6.97%
+75,KDP,Keurig Dr Pepper Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA,48341.03,33.88,17.87,0.43,2.59%,2.17,0.71,0.094,0.109,0.109,0.53,4/24/2025 8:30,22674798,35.63,1.39%
+76,KEY,Keycorp,Financial,Banks - Regional,USA,15604.29,,14.16,,5.87%,1.89,0.81,-0.033,-0.176,-0.176,1.06,4/17/2025 8:30,20373968,14.12,-12.13%
+77,KMX,Carmax Inc,Consumer Cyclical,Auto & Truck Dealerships,USA,11759.54,26,40.36,5.29,,5.99,3.13,0.018,-0.065,-0.065,1.43,4/10/2025 8:30,4514441,76.46,-7.62%
+78,LBRT,Liberty Energy Inc,Energy,Oil & Gas Equipment & Services,USA,2129.85,7.04,12.23,0.12,2.40%,3.77,0.27,0.073,-0.340,-0.340,0.67,4/16/2025 16:30,5647607,13.12,-18.41%
+79,LEVI,Levi Strauss & Co,Consumer Cyclical,Apparel Manufacturing,USA,5716.79,27.51,4.98,1.74,3.82%,2.51,1.12,0.033,-0.165,-0.165,1.15,4/7/2025 16:30,4566801,14.44,-13.69%
+80,LKQ,LKQ Corp,Consumer Cyclical,Auto Parts,USA,10905.77,16.13,23.22,0.91,2.84%,3.69,0.93,0.048,0.148,0.148,0.96,4/24/2025 8:30,2995259,42.18,-2.77%
+81,LUV,Southwest Airlines Co,Industrials,Airlines,USA,17104.2,40.63,17.44,14.72,2.60%,3.19,0.78,0.017,-0.142,-0.142,1.15,4/24/2025 8:30,18933618,28.86,-9.42%
+82,LW,Lamb Weston Holdings Inc,Consumer Defensive,Packaged Foods,USA,8497.1,23.55,11.45,0.55,2.41%,2.86,2.52,0.058,-0.109,-0.109,0.45,4/3/2025 8:30,10401352,59.57,10.01%
+83,LYB,LyondellBasell Industries NV,Basic Materials,Specialty Chemicals,United Kingdom,20412.69,15.24,38.48,10.47,8.58%,2.37,1.04,0.034,-0.150,-0.150,0.84,4/25/2025 8:30,6910015,63.11,-10.67%
+84,MAN,ManpowerGroup,Industrials,Staffing & Employment Services,USA,2552.95,18.21,45.46,10.9,5.57%,4.22,0.63,0.008,-0.054,-0.054,1.03,4/17/2025 8:30,1378792,54.62,-7.06%
+85,MAS,Masco Corp,Industrials,Building Products & Equipment,USA,13598.74,17.09,-1.32,2.99,1.94%,2.99,,0.105,-0.116,-0.116,1.22,4/23/2025 8:30,4439033,64.15,-9.72%
+86,MEDP,Medpace Holdings Inc,Healthcare,Diagnostics & Research,USA,9265.26,24.07,27.01,21.97,,3.64,0.18,0.192,-0.085,-0.085,1.55,4/21/2025 16:30,564137,304.11,-2.29%
+87,MGRC,McGrath Rentcorp,Industrials,Rental & Leasing Services,USA,2630.66,11.36,45.76,0.03,1.81%,2.47,0.54,0.254,-0.042,-0.042,0.65,4/24/2025 16:30,145701,107.15,-5.36%
+88,MHO,MI Homes Inc,Consumer Cyclical,Residential Construction,USA,2958.18,5.54,108.62,30.3,,2.43,0.36,0.125,-0.179,-0.179,1.74,4/23/2025 8:30,385013,109.1,-5.72%
+89,MMC,"Marsh & McLennan Cos., Inc",Financial,Insurance Brokers,USA,119968.61,29.86,27.15,4.88,1.41%,2.4,1.64,0.166,0.150,0.150,0.83,4/17/2025 8:30,2117312,244.27,0.26%
+90,MOH,Molina Healthcare Inc,Healthcare,Healthcare Plans,USA,19322.18,17.29,80.29,,,2.4,0.71,0.029,0.214,0.214,0.63,4/23/2025 16:30,1509661,353.24,7.53%
+91,MRK,Merck & Co Inc,Healthcare,Drug Manufacturers - General,USA,218224.26,12.83,18.32,5.45,3.84%,2.31,0.83,0.268,-0.132,-0.132,0.44,4/24/2025 8:30,12684130,86.39,-0.24%
+92,MS,Morgan Stanley,Financial,Capital Markets,USA,174075.5,13.58,58.98,,3.57%,1.99,3.64,0.124,-0.142,-0.142,1.3,4/11/2025 8:30,15186058,107.93,-9.51%
+93,MSM,"MSC Industrial Direct Co., Inc",Industrials,Industrial Distribution,USA,4198.37,19.81,24.6,0.74,4.64%,4.91,0.43,0.057,0.006,0.006,0.88,4/3/2025 8:30,1376875,75.16,-5.20%
+94,MTB,M & T Bank Corp,Financial,Banks - Regional,USA,26840.37,11.16,160.9,,3.37%,3.33,0.49,0.183,-0.131,-0.131,0.56,4/14/2025 8:30,2143532,163.36,-9.10%
+95,MTH,Meritage Homes Corp,Consumer Cyclical,Residential Construction,USA,4780.33,6.22,71.49,9.08,2.04%,2.76,0.27,0.123,-0.134,-0.134,1.5,4/23/2025 16:30,1131066,66.61,-6.76%
+96,NCNO,Ncino Inc,Technology,Software - Application,USA,2528.12,,9.39,1.04,,7.36,0.22,-0.070,-0.354,-0.354,0.7,4/1/2025 16:30,5955843,21.71,-3.90%
+97,NDAQ,Nasdaq Inc,Financial,Financial Data & Stock Exchanges,USA,42439.97,38.26,19.46,1.08,1.43%,1.95,0.89,0.151,-0.046,-0.046,1.01,4/24/2025 8:30,3600920,73.79,-5.76%
+98,NFLX,Netflix Inc,Communication Services,Entertainment,USA,392274.62,46.25,57.84,22.41,,1.77,0.73,0.224,0.029,0.029,1.62,4/17/2025 16:30,5864622,917.05,-1.97%
+99,NOC,Northrop Grumman Corp,Industrials,Aerospace & Defense,USA,74573.77,18.13,105.48,30.07,1.67%,2.24,1.2,0.102,0.098,0.098,0.14,4/22/2025 8:30,1056006,515.17,0.58%
+100,NOK,Nokia Corp ADR,Technology,Communication Equipment,Finland,26758.29,20.43,3.98,1.6,3.03%,2.28,0.23,0.064,0.124,0.124,0.94,4/24/2025 8:30,26862691,4.98,-6.92%
+101,NOV,NOV Inc,Energy,Oil & Gas Equipment & Services,USA,5091.56,8.31,16.71,3.23,3.22%,5.5,0.37,0.072,-0.084,-0.084,1.25,4/28/2025 16:30,5855965,13.37,-12.61%
+102,NTRS,Northern Trust Corp,Financial,Asset Management,USA,17660.53,9.27,60.74,,3.38%,2.62,1.3,0.128,-0.116,-0.116,1.19,4/22/2025 8:30,2009204,90.58,-8.25%
+103,NUE,Nucor Corp,Basic Materials,Steel,USA,25333.62,13.07,87.17,17.94,2.01%,1.57,0.35,0.066,-0.059,-0.059,1.75,4/28/2025 16:30,4247548,109.79,-10.76%
+104,NXPI,NXP Semiconductors NV,Technology,Semiconductors,Netherlands,43592.22,17.67,36.11,12.98,2.56%,2.89,1.21,0.199,-0.173,-0.173,1.39,4/28/2025 16:30,6169107,171.88,-11.25%
+105,ODFL,"Old Dominion Freight Line, Inc",Industrials,Trucking,USA,33103.9,28.44,19.93,0.51,0.75%,6.14,0.04,0.204,-0.117,-0.117,1.3,4/23/2025 8:30,2683791,155.75,-8.44%
+106,OZK,Bank OZK,Financial,Banks - Regional,USA,4412.5,6.33,47.43,,4.42%,12.7,0.17,0.252,-0.126,-0.126,0.85,4/16/2025 16:30,2707968,38.9,-11.09%
+107,PB,Prosperity Bancshares Inc,Financial,Banks - Regional,USA,6298.77,13.11,78.07,,3.53%,3.04,0.47,0.268,-0.123,-0.123,0.71,4/23/2025 8:30,684523,66.12,-7.56%
+108,PCG,PG&E Corp,Utilities,Utilities - Regulated Electric,USA,37839.2,14.95,13.02,0.55,0.55%,1.88,1.94,0.101,-0.145,-0.145,0.62,4/24/2025 8:30,25301088,17.25,-1.03%
+109,PECO,Phillips Edison & Company Inc,Real Estate,REIT - Retail,USA,4990.19,72.88,18.54,0.06,3.44%,6.19,0.96,0.094,-0.037,-0.037,0.57,4/24/2025 16:30,1063634,36.06,-3.40%
+110,PEP,PepsiCo Inc,Consumer Defensive,Beverages - Non-Alcoholic,USA,207603.93,21.79,13.15,6.76,3.69%,2.63,2.65,0.104,-0.005,-0.005,0.47,4/24/2025 8:30,8216247,151.37,1.51%
+111,PG,Procter & Gamble Co,Consumer Defensive,Household & Personal Products,USA,404229,27.47,21.49,4.36,2.33%,2.31,0.68,0.180,0.028,0.028,0.41,4/24/2025 8:30,9393270,172.39,1.71%
+112,PGR,Progressive Corp,Financial,Insurance - Property & Casualty,USA,168241.61,19.9,43.67,,1.28%,2.28,0.28,0.112,0.220,0.220,0.4,4/16/2025 8:30,3831425,287,2.05%
+113,PHM,PulteGroup Inc,Consumer Cyclical,Residential Construction,USA,19704.98,6.64,59.74,8.2,0.88%,2.16,0.19,0.172,-0.102,-0.102,1.38,4/22/2025 8:30,2705761,97.75,-6.31%
+114,PKG,Packaging Corp Of America,Consumer Cyclical,Packaging & Containers,USA,16986.8,21.19,49.04,8.76,2.68%,1.21,0.63,0.095,-0.160,-0.160,0.86,4/22/2025 16:30,1537469,189.16,-6.06%
+115,PLD,Prologis Inc,Real Estate,REIT - Industrial,USA,96531.72,25.78,58.18,1.39,4.00%,3.22,0.62,0.454,-0.039,-0.039,1.26,4/16/2025 8:30,7613156,101.59,-9.57%
+116,PM,Philip Morris International Inc,Consumer Defensive,Tobacco,USA,251995.73,35.85,-7.56,2.74,3.45%,2.19,,0.187,0.347,0.347,0.54,4/23/2025 8:30,10581525,162.07,3.78%
+117,PNC,PNC Financial Services Group Inc,Financial,Banks - Regional,USA,63830.46,11.73,122.94,,4.07%,1.89,1.19,0.162,-0.164,-0.164,1.05,4/15/2025 8:30,3408474,161.29,-8.88%
+118,PNFP,Pinnacle Financial Partners Inc,Financial,Banks - Regional,USA,7104.58,15.35,80.46,,1.02%,3.08,0.44,0.153,-0.197,-0.197,0.99,4/14/2025 16:30,1033611,91.83,-14.07%
+119,POR,Portland General Electric Co,Utilities,Utilities - Regulated Electric,USA,4852.09,14.67,34.7,0.11,4.70%,3.74,1.35,0.099,0.016,0.016,0.59,4/25/2025 8:30,1897744,44.31,-0.72%
+120,PRCT,Procept BioRobotics Corp,Healthcare,Medical Devices,USA,3002.97,,7.35,6.09,,6.22,0.2,-0.407,-0.320,-0.320,1.08,4/24/2025 8:30,1394485,54.78,-5.13%
+121,PSMT,Pricesmart Inc,Consumer Defensive,Discount Stores,USA,2659.96,19.07,37.79,7.35,1.54%,4.08,0.21,0.027,-0.059,-0.059,0.78,4/9/2025 16:30,217096,86.75,-2.62%
+122,R,"Ryder System, Inc",Industrials,Rental & Leasing Services,USA,5784.98,12.56,74.07,3.69,2.11%,2.84,2.85,0.039,-0.117,-0.117,0.92,4/23/2025 8:30,729683,138.59,-8.62%
+123,RCI,Rogers Communications Inc,Communication Services,Telecom Services,Canada,14026.7,11.05,13.49,1.16,5.32%,9.14,4.58,0.084,-0.152,-0.152,0.75,4/23/2025 8:30,2025830,26.07,3.08%
+124,REXR,Rexford Industrial Realty Inc,Real Estate,REIT - Industrial,USA,8177.08,29.8,36.26,0.25,4.85%,3.57,0.42,0.282,-0.072,-0.072,1.12,4/16/2025 16:30,3820128,35.87,-8.98%
+125,RF,Regions Financial Corp,Financial,Banks - Regional,USA,17756.17,10.15,17.79,,5.23%,5.12,0.39,0.190,-0.166,-0.166,0.97,4/17/2025 8:30,12987722,19.61,-10.94%
+126,RH,RH,Consumer Cyclical,Specialty Retail,USA,2779.08,41.44,-8.74,1.63,,2.28,,0.023,-0.620,-0.620,2.33,4/2/2025 16:30,12789465,149.39,-40.09%
+127,RJF,"Raymond James Financial, Inc",Financial,Asset Management,USA,26695.67,12.72,57.89,67.56,1.33%,4.31,0.37,0.141,-0.161,-0.161,1.04,4/23/2025 16:30,2127831,130.28,-8.18%
+128,RPM,"RPM International, Inc",Basic Materials,Specialty Chemicals,USA,14475.5,22.23,21.13,2.09,1.47%,2.09,0.86,0.089,-0.085,-0.085,1.07,4/8/2025 8:30,875300,112.59,-4.24%
+129,RS,Reliance Inc,Basic Materials,Steel,USA,14584.27,17.83,134.41,6.01,1.65%,2.99,0.2,0.063,0.023,0.023,0.9,4/24/2025 8:30,409213,275.32,-6.32%
+130,SAP,Sap SE ADR,Technology,Software - Application,Germany,308376.4,92.82,40.33,9.84,0.95%,2.59,0.23,0.091,0.074,0.074,1.36,4/22/2025 16:30,1937331,264.34,-2.61%
+131,SCHW,Charles Schwab Corp,Financial,Capital Markets,USA,139592.23,25.07,22.01,38.54,1.49%,1.48,0.95,0.211,0.012,0.012,0.9,4/17/2025 8:30,13517861,74.87,-4.73%
+132,SFBS,ServisFirst Bancshares Inc,Financial,Banks - Regional,USA,4037.43,17.79,29.62,,1.79%,16.18,1.29,0.232,-0.127,-0.127,0.82,4/21/2025 16:30,268557,73.97,-10.02%
+133,SFNC,Simmons First National Corp,Financial,Banks - Regional,USA,2370.21,15.54,28.08,,4.56%,3.54,0.35,0.105,-0.151,-0.151,0.92,4/16/2025 16:30,1044957,18.84,-8.32%
+134,SKX,"Skechers U S A, Inc",Consumer Cyclical,Footwear & Accessories,USA,7312.41,11.79,28.66,8.27,,3.2,0.51,0.071,-0.272,-0.272,1.04,4/24/2025 16:30,10488525,48.96,-17.06%
+135,SLB,Schlumberger Ltd,Energy,Oil & Gas Equipment & Services,USA,53319.92,12.62,15.08,3.43,2.90%,4.51,0.6,0.123,0.023,0.023,1.03,4/25/2025 8:30,40728763,39.21,-7.06%
+136,SLG,SL Green Realty Corp,Real Estate,REIT - Office,USA,3981.13,1093.78,49.33,4.39,5.85%,7.37,1.24,0.006,-0.224,-0.224,1.58,4/16/2025 16:30,1512063,52.72,-9.85%
+137,SMPL,Simply Good Foods Co,Consumer Defensive,Packaged Foods,USA,3507.84,24.8,17.58,1.21,,3.55,0.22,0.104,-0.109,-0.109,0.73,4/9/2025 8:30,1457252,34.72,0.29%
+138,SNV,Synovus Financial Corp,Financial,Banks - Regional,USA,5652.84,13.15,33.35,,3.90%,3.09,0.36,0.128,-0.217,-0.217,1.14,4/16/2025 16:30,3211627,40.1,-14.24%
+139,SNY,Sanofi ADR,Healthcare,Drug Manufacturers - General,France,133714.13,22.81,32.01,3.2,4.10%,2.15,0.23,0.135,0.133,0.133,0.54,4/24/2025 8:30,1842284,54.62,1.24%
+140,STLD,Steel Dynamics Inc,Basic Materials,Steel,USA,17397.02,11.85,59.12,4.92,1.71%,1.42,0.37,0.088,0.017,0.017,1.46,4/22/2025 16:30,1878302,116.06,-8.87%
+141,STRA,Strategic Education Inc,Consumer Defensive,Education & Training Services,USA,2027.81,17.62,67.85,7.83,2.92%,2.62,0.08,0.092,-0.120,-0.120,0.52,4/24/2025 8:30,278813,82.25,-3.82%
+142,STT,State Street Corp,Financial,Asset Management,USA,23893.89,10.06,77.95,,3.77%,1.77,1.49,0.117,-0.156,-0.156,1.44,4/17/2025 8:30,3020111,82.83,-7.55%
+143,STZ,Constellation Brands Inc,Consumer Defensive,Beverages - Brewers,USA,32800.24,48.59,43.26,0.41,2.22%,1.33,1.55,0.067,-0.179,-0.179,0.74,4/9/2025 16:30,2639586,181.49,-0.68%
+144,SW,Smurfit WestRock plc,Consumer Cyclical,Packaging & Containers,Ireland,22223.83,34.96,33.49,1.64,3.78%,4.01,0.84,0.015,-0.207,-0.207,1.04,4/4/2025 8:30,6127756,42.71,-9.24%
+145,SXT,Sensient Technologies Corp,Basic Materials,Specialty Chemicals,USA,3185.79,25.53,25.16,0.63,2.29%,2.39,0.63,0.080,0.054,0.054,0.6,4/25/2025 8:30,425295,75.07,-0.79%
+146,T,"AT&T, Inc",Communication Services,Telecom Services,USA,205296.04,19.17,14.54,0.47,3.90%,2.37,1.38,0.088,0.256,0.256,0.41,4/23/2025 8:30,48912278,28.6,1.63%
+147,TBBB,BBB Foods Inc,Consumer Defensive,Discount Stores,Mexico,3150.6,,1.79,1.92,,1.48,2.11,0.005,-0.007,-0.007,0.62,4/9/2025 16:30,916849,28.08,3.05%
+148,TECK,Teck Resources Ltd,Basic Materials,Other Industrial Metals & Mining,Canada,17152.46,75.7,35.81,10.48,1.08%,2.55,0.38,0.024,-0.159,-0.159,0.78,4/24/2025 8:30,6735554,34.08,-9.36%
+149,TFC,Truist Financial Corporation,Financial,Banks - Regional,USA,48351.67,11.13,43.9,,5.69%,3.18,1.03,0.183,-0.146,-0.146,0.8,4/17/2025 8:30,17871845,37.04,-10.88%
+150,TMHC,Taylor Morrison Home Corp,Consumer Cyclical,Residential Construction,USA,5859.07,6.95,57.38,4.79,,1.85,0.37,0.108,-0.059,-0.059,1.68,4/23/2025 8:30,1181156,57.59,-6.08%
+151,TMUS,T-Mobile US Inc,Communication Services,Telecom Services,USA,305862.08,27.69,53.94,4.94,1.35%,3.79,1.85,0.139,0.214,0.214,0.67,4/24/2025 16:30,5652121,267.89,1.26%
+152,TRV,Travelers Companies Inc,Financial,Insurance - Property & Casualty,USA,59651.76,12.25,122.97,,1.64%,2.63,0.3,0.107,0.092,0.092,0.54,4/16/2025 8:30,1519659,263.1,-0.53%
+153,TSM,Taiwan Semiconductor Manufacturing ADR,Technology,Semiconductors,Taiwan,816155.39,22.37,25.42,14.25,1.67%,1.88,0.24,0.405,-0.203,-0.203,1.22,4/17/2025 8:30,28370483,157.38,-7.64%
+154,TXT,Textron Inc,Industrials,Aerospace & Defense,USA,12145,15.47,39.37,7.93,0.12%,2.95,0.55,0.060,-0.126,-0.126,1.2,4/24/2025 8:30,1977196,66.87,-7.74%
+155,UAL,United Airlines Holdings Inc,Industrials,Airlines,USA,19715.67,6.39,38.66,44.25,,2.06,2.65,0.055,-0.380,-0.380,1.4,4/15/2025 16:30,16694385,60.23,-15.61%
+156,UCB,United Community Banks Inc,Financial,Banks - Regional,USA,3039.86,12.47,28.01,,3.89%,5.31,0.14,0.164,-0.212,-0.212,0.77,4/22/2025 8:30,1303138,25.45,-8.81%
+157,UMC,United Micro Electronics ADR,Technology,Semiconductors,Taiwan,16175.22,11.05,4.59,1.4,5.87%,6.12,0.22,0.203,-0.008,-0.008,1.05,4/23/2025 8:30,16393674,6.44,-4.17%
+158,UNF,Unifirst Corp,Industrials,Specialty Business Services,USA,3073.91,21.4,119.35,11.26,0.81%,1.24,0.03,0.061,0.006,0.006,0.88,4/2/2025 8:30,339808,172.17,-2.82%
+159,UNH,Unitedhealth Group Inc,Healthcare,Healthcare Plans,USA,494347.14,34.78,101.27,,1.61%,2.16,0.88,0.036,0.068,0.068,0.54,4/17/2025 8:30,6457925,540.44,3.30%
+160,UNP,Union Pacific Corp,Industrials,Railroads,USA,134229.3,20.2,27.95,1.74,2.41%,2.77,1.92,0.278,-0.018,-0.018,1.06,4/24/2025 8:30,5754982,223.97,-6.08%
+161,USB,U.S. Bancorp,Financial,Banks - Regional,USA,60435.23,10.24,33.19,,5.23%,2.05,1.28,0.140,-0.189,-0.189,0.99,4/16/2025 8:30,16695417,38.79,-9.81%
+162,VLO,Valero Energy Corp,Energy,Oil & Gas Refining & Marketing,USA,35939.71,13.47,77.85,14.89,3.93%,4.16,0.47,0.021,-0.068,-0.068,0.93,4/24/2025 8:30,9514556,114.29,-14.47%
+163,VLY,Valley National Bancorp,Financial,Banks - Regional,USA,4538.24,11.72,12.67,,5.43%,3.29,0.5,0.101,-0.106,-0.106,1.08,4/24/2025 8:30,10075920,8.1,-10.60%
+164,VZ,Verizon Communications Inc,Communication Services,Telecom Services,USA,192046.7,11,23.57,1.07,6.00%,3.18,1.7,0.130,0.141,0.141,0.38,4/22/2025 8:30,30474829,45.62,1.97%
+165,WAB,Westinghouse Air Brake Technologies Corp,Industrials,Railroads,USA,29655.82,28.76,58.91,4.19,0.56%,2.2,0.42,0.102,-0.084,-0.084,1.13,4/23/2025 8:30,1217569,173.58,-6.63%
+166,WBA,Walgreens Boots Alliance Inc,Healthcare,Pharmaceutical Retailers,USA,9563.97,,11.51,1.38,7.49%,1.81,3.09,-0.059,0.185,0.185,0.74,4/8/2025 8:30,22722538,11.06,-1.07%
+167,WCN,Waste Connections Inc,Industrials,Waste Management,Canada,51603.1,83.79,30.46,0.24,0.64%,2.24,1.07,0.069,0.165,0.165,0.65,4/23/2025 16:30,2125287,199.95,1.69%
+168,WDFC,WD-40 Co,Basic Materials,Specialty Chemicals,USA,3372.07,47.71,16.7,4.05,1.44%,8,0.51,0.117,0.026,0.026,0.16,4/8/2025 8:30,146717,248.93,0.44%
+169,WFC,Wells Fargo & Co,Financial,Banks - Diversified,USA,214422.96,12.22,48.8,,2.60%,2.22,1.6,0.147,-0.065,-0.065,1.12,4/11/2025 8:30,25880259,65.67,-9.12%
+170,WFRD,Weatherford International plc,Energy,Oil & Gas Equipment & Services,USA,3307.95,6.73,17.82,13.38,1.95%,2.05,1.39,0.092,-0.366,-0.366,1.55,4/22/2025 16:30,2013026,45.41,-16.31%
+171,WHR,Whirlpool Corp,Consumer Cyclical,"Furnishings, Fixtures & Appliances",USA,4769.66,,48.78,23.02,8.13%,5.47,2.73,-0.020,-0.248,-0.248,1.15,4/23/2025 16:30,3215348,86.12,-5.13%
+172,WIT,Wipro Ltd. ADR,Technology,Information Technology Services,India,34088.66,27.34,0.92,0.56,2.62%,9.95,0.24,0.140,-0.175,-0.175,1.02,4/16/2025 8:30,5806397,2.92,-5.50%
+173,WM,"Waste Management, Inc",Industrials,Waste Management,USA,95284.39,34.79,20.55,1.05,1.37%,2.33,3.02,0.125,0.174,0.174,0.68,4/28/2025 16:30,2216126,236.83,0.97%
+174,WRB,W.R. Berkley Corp,Financial,Insurance - Property & Casualty,USA,26655.8,16.13,22.09,,1.10%,4.08,0.36,0.129,0.201,0.201,0.44,4/21/2025 16:30,2311164,70.29,0.77%
+175,WY,Weyerhaeuser Co,Real Estate,REIT - Specialty,USA,19910.04,50.52,13.39,0.94,3.00%,2.95,0.54,0.056,-0.026,-0.026,1.14,4/24/2025 16:30,5364348,27.43,-6.95%
+176,ZION,Zions Bancorporation N.A,Financial,Banks - Regional,USA,6464.75,8.84,40.97,,3.95%,3.62,0.82,0.146,-0.192,-0.192,0.85,4/21/2025 16:30,3190744,43.81,-13.14%
