@@ -1,26 +1,26 @@
 No.,Symbol,Company,Index,Sector,Industry,Country,Market Cap,P/E,Book/sh,Cash/sh,Dividend Yield,EPS Surprise,Revenue Surprise,Short Ratio,Total Debt/Equity,Profit Margin,Performance (Quarter),Performance (YTD),Beta,Earnings Date,Average Volume,Target Price,Price,Change
-1,CHT,Chunghwa Telecom ADR,-,Communication Services,Telecom Services,Taiwan,30087.46,25.99,15.14,2.28,0.039,0.096,0.010,7.33,0.11,0.162,0.035,0.030,0.21,1/23/2025 16:30,117.81,37.73,38.78,-0.93%
-2,RDY,Dr. Reddy's Laboratories Ltd. ADR,-,Healthcare,Drug Manufacturers - Specialty & Generic,India,10569.17,16.5,4.45,0.84,0.007,-0.060,0.020,7.09,0.16,0.173,-0.198,-0.197,0.34,1/23/2025 16:30,2101.45,15.55,12.69,-2.56%
+1,CHT,Chunghwa Telecom ADR,-,Communication Services,Telecom Services,Taiwan,30087.46,25.99,15.14,2.28,0.039,0.096,0.01,7.33,0.11,0.162,0.035,0.03,0.21,1/23/2025 16:30,117.81,37.73,38.78,-0.93%
+2,RDY,Dr. Reddy's Laboratories Ltd. ADR,-,Healthcare,Drug Manufacturers - Specialty & Generic,India,10569.17,16.5,4.45,0.84,0.007,-0.06,0.02,7.09,0.16,0.173,-0.198,-0.197,0.34,1/23/2025 16:30,2101.45,15.55,12.69,-2.56%
 3,NVR,NVR Inc,S&P 500,Consumer Cyclical,Residential Construction,USA,20773.76,13.79,1449.28,897.5,,0.082,0.012,3.05,0.24,0.163,-0.126,-0.145,1.01,1/28/2025 8:30,27.71,8923.33,6996.88,-1.74%
-4,HLI,Houlihan Lokey Inc,-,Financial,Capital Markets,USA,10511.04,28.62,29.66,11.41,0.015,0.081,0.050,2.11,0.21,0.160,-0.136,-0.137,0.83,1/28/2025 16:30,446.63,170,149.82,-3.87%
+4,HLI,Houlihan Lokey Inc,-,Financial,Capital Markets,USA,10511.04,28.62,29.66,11.41,0.015,0.081,0.05,2.11,0.21,0.16,-0.136,-0.137,0.83,1/28/2025 16:30,446.63,170,149.82,-3.87%
 5,FFIV,F5 Inc,S&P 500,Technology,Software - Infrastructure,USA,14669.62,25.32,55.66,19.96,,0.143,0.071,2.08,0.08,0.206,-0.017,0.012,0.99,1/28/2025 16:30,625.54,293.11,254.45,-3.67%
 6,HES,Hess Corporation,S&P 500,Energy,Oil & Gas E&P,USA,39594.74,14.25,36.38,3.79,0.016,0.179,0.098,3.54,0.84,0.215,-0.084,-0.038,0.63,1/29/2025 8:30,2129.3,167.08,128.01,-7.22%
 7,EXP,Eagle Materials Inc,-,Basic Materials,Building Materials,USA,7280.01,15.63,44.81,0.94,0.005,-0.081,-0.028,3.07,0.7,0.209,-0.085,-0.114,1.36,1/29/2025 8:30,401.47,272.19,218.7,-2.87%
 8,TER,"Teradyne, Inc",S&P 500,Technology,Semiconductor Equipment & Materials,USA,11616.12,21.77,17.43,3.73,0.007,0.045,0.016,1.41,0.03,0.193,-0.473,-0.426,1.68,1/29/2025 16:30,3366.28,114.36,72.22,-9.08%
 9,MSFT,Microsoft Corporation,"DJIA, NDX, S&P 500",Technology,Software - Infrastructure,USA,2791385.8,30.24,40.71,9.63,0.009,0.035,0.011,2.01,0.34,0.354,-0.116,-0.109,0.97,1/29/2025 16:30,25019.34,496.81,375.49,-3.84%
-10,CP,Canadian Pacific Kansas City Limited,-,Industrials,Railroads,Canada,67152.42,24.82,35.67,0.55,0.008,0.042,0.000,2.69,0.48,0.255,-0.056,-0.006,1.08,1/29/2025 16:30,3527.34,87.2,71.92,-1.72%
-11,DLB,Dolby Laboratories Inc,-,Industrials,Specialty Business Services,USA,6951.2,26.6,26.03,6.35,0.018,0.020,0.031,1.95,0.02,0.200,-0.065,-0.077,0.96,1/29/2025 16:30,515.63,100,72.12,-3.01%
+10,CP,Canadian Pacific Kansas City Limited,-,Industrials,Railroads,Canada,67152.42,24.82,35.67,0.55,0.008,0.042,0,2.69,0.48,0.255,-0.056,-0.006,1.08,1/29/2025 16:30,3527.34,87.2,71.92,-1.72%
+11,DLB,Dolby Laboratories Inc,-,Industrials,Specialty Business Services,USA,6951.2,26.6,26.03,6.35,0.018,0.02,0.031,1.95,0.02,0.2,-0.065,-0.077,0.96,1/29/2025 16:30,515.63,100,72.12,-3.01%
 12,PH,Parker-Hannifin Corp,S&P 500,Industrials,Specialty Industrial Machinery,USA,71983.41,23.13,101.88,3.07,0.012,0.044,-0.015,1.41,0.69,0.159,-0.129,-0.121,1.35,1/30/2025 8:30,894.85,742.06,559.03,-6.22%
-13,DOV,Dover Corp,S&P 500,Industrials,Specialty Industrial Machinery,USA,21799.76,8.18,50.68,13.46,0.013,0.059,-0.011,1.36,0.45,0.330,-0.151,-0.152,1.28,1/30/2025 8:30,1056.46,213.06,159.05,-4.11%
+13,DOV,Dover Corp,S&P 500,Industrials,Specialty Industrial Machinery,USA,21799.76,8.18,50.68,13.46,0.013,0.059,-0.011,1.36,0.45,0.33,-0.151,-0.152,1.28,1/30/2025 8:30,1056.46,213.06,159.05,-4.11%
 14,CSWI,CSW Industrials Inc,RUT,Industrials,Specialty Industrial Machinery,USA,4689.36,33.38,62.2,12.74,0.003,0.032,0.008,3.61,0.07,0.155,-0.226,-0.208,0.97,1/30/2025 8:30,135.4,364.5,279.41,-3.02%
 15,DT,Dynatrace Inc,-,Technology,Software - Application,USA,12879.53,27.02,8.53,3.37,,0.121,0.023,2.15,0.03,0.295,-0.176,-0.208,0.95,1/30/2025 8:30,3278.64,64.79,43.03,-4.52%
-16,V,Visa Inc,"DJIA, S&P 500",Financial,Credit Services,USA,629206.26,32.9,19.13,9.43,0.008,0.033,0.017,4.43,0.54,0.535,0.030,0.019,0.96,1/30/2025 16:30,7099.07,381.69,322.08,-3.11%
+16,V,Visa Inc,"DJIA, S&P 500",Financial,Credit Services,USA,629206.26,32.9,19.13,9.43,0.008,0.033,0.017,4.43,0.54,0.535,0.03,0.019,0.96,1/30/2025 16:30,7099.07,381.69,322.08,-3.11%
 17,DECK,Deckers Outdoor Corp,S&P 500,Consumer Cyclical,Footwear & Accessories,USA,16556.99,17.71,17.33,14.76,,0.162,0.054,1.85,0.1,0.191,-0.474,-0.463,1.09,1/30/2025 16:30,3483.23,206.08,109.09,-6.01%
-18,ETN,Eaton Corporation plc,S&P 500,Industrials,Specialty Industrial Machinery,Ireland,105325.95,28.3,47.06,5.31,0.015,0.008,-0.013,1.67,0.54,0.153,-0.221,-0.190,1.12,1/31/2025 8:30,3959.55,347.74,268.85,-5.20%
+18,ETN,Eaton Corporation plc,S&P 500,Industrials,Specialty Industrial Machinery,Ireland,105325.95,28.3,47.06,5.31,0.015,0.008,-0.013,1.67,0.54,0.153,-0.221,-0.19,1.12,1/31/2025 8:30,3959.55,347.74,268.85,-5.20%
 19,NVS,Novartis AG ADR,-,Healthcare,Drug Manufacturers - General,Switzerland,193534.18,17.37,22.3,7.09,0.038,0.097,0.025,1.36,0.71,0.237,0.018,0.048,0.61,1/31/2025 8:30,2377.32,117.35,101.99,-1.79%
 20,EQR,Equity Residential Properties Trust,S&P 500,Real Estate,REIT - Residential,USA,24961.69,23.95,29.06,0.16,0.044,1.659,0.013,2.93,0.76,0.349,-0.055,-0.111,0.92,2/3/2025 16:30,1790.4,77.54,63.8,-4.58%
 21,RMBS,Rambus Inc,RUT,Technology,Semiconductors,USA,4945.74,27.83,10.49,4.48,,-0.183,0.039,4.44,0.03,0.323,-0.194,-0.129,1.22,2/3/2025 16:30,1046.08,76.43,46.03,-11.97%
-22,MLI,"Mueller Industries, Inc",RUT,Industrials,Metal Fabrication,USA,8060.84,13.71,24.38,9.58,0.012,0.080,0.034,4.4,0.01,0.161,-0.088,-0.083,1.03,2/4/2025 8:30,888.75,105,72.78,-3.88%
+22,MLI,"Mueller Industries, Inc",RUT,Industrials,Metal Fabrication,USA,8060.84,13.71,24.38,9.58,0.012,0.08,0.034,4.4,0.01,0.161,-0.088,-0.083,1.03,2/4/2025 8:30,888.75,105,72.78,-3.88%
 23,AME,Ametek Inc,S&P 500,Industrials,Specialty Industrial Machinery,USA,36401.27,26.61,41.85,1.62,0.008,0.011,-0.032,1.54,0.24,0.198,-0.116,-0.125,1.13,2/4/2025 8:30,1484.89,198.64,157.75,-2.02%
 24,GOOG,Alphabet Inc,"NDX, S&P 500",Communication Services,Internet Content & Information,USA,1884229.12,19.37,26.62,7.91,0.004,0.015,-0.002,1.77,0.09,0.286,-0.203,-0.182,1.01,2/4/2025 16:30,21804.89,211.34,155.82,-3.25%
 25,GOOGL,Alphabet Inc,"NDX, S&P 500",Communication Services,Internet Content & Information,USA,1885254.18,19.09,26.62,7.8,0.003,0.014,-0.002,1.98,0.09,0.286,-0.208,-0.188,1,2/4/2025 16:30,33974.28,211.07,153.63,-3.20%
@@ -28,115 +28,115 @@ No.,Symbol,Company,Index,Sector,Industry,Country,Market Cap,P/E,Book/sh,Cash/sh,
 27,ATO,Atmos Energy Corp,S&P 500,Utilities,Utilities - Regulated Gas,USA,23672.72,21.33,80.52,3.71,0.023,0.013,-0.129,5,0.67,0.259,0.069,0.071,0.74,2/4/2025 16:30,971.98,155.7,149.14,0.17%
 28,CSL,Carlisle Companies Inc,-,Industrials,Building Products & Equipment,USA,14781.67,8.96,55.48,17.07,0.012,0.011,-0.028,3.47,0.82,0.355,-0.102,-0.092,1.07,2/4/2025 16:30,496.62,450,334.81,-2.25%
 29,JKHY,"Jack Henry & Associates, Inc",S&P 500,Technology,Information Technology Services,USA,12377.29,30.62,27.1,0.35,0.013,0.014,-0.004,3.34,0.1,0.178,-0.021,-0.031,0.76,2/4/2025 16:30,682.41,188,169.79,-0.54%
-30,APAM,Artisan Partners Asset Management Inc,RUT,Financial,Asset Management,USA,2810.24,9.82,5.55,3.34,0.093,0.108,0.015,3.83,0.77,0.200,-0.157,-0.178,1.64,2/4/2025 16:30,571.07,40.69,35,-5.76%
+30,APAM,Artisan Partners Asset Management Inc,RUT,Financial,Asset Management,USA,2810.24,9.82,5.55,3.34,0.093,0.108,0.015,3.83,0.77,0.2,-0.157,-0.178,1.64,2/4/2025 16:30,571.07,40.69,35,-5.76%
 31,TROW,T. Rowe Price Group Inc,S&P 500,Financial,Asset Management,USA,19083.95,9.38,46.4,11.92,0.059,-0.033,-0.023,5,0.03,0.288,-0.239,-0.241,1.51,2/5/2025 8:30,2011.08,94.08,85.87,-4.76%
-32,UBER,Uber Technologies Inc,S&P 500,Technology,Software - Application,USA,147397.3,15.38,10.23,3.6,,5.460,0.017,2.35,0.53,0.224,0.086,0.169,1.44,2/5/2025 8:30,23722.94,89.77,70.48,-3.02%
-33,FI,"Fiserv, Inc",S&P 500,Technology,Information Technology Services,USA,113714.52,37.83,47.99,2.21,,0.010,-0.010,2.76,0.95,0.153,-0.008,-0.009,0.96,2/5/2025 8:30,3263.75,255.38,203.58,-3.23%
+32,UBER,Uber Technologies Inc,S&P 500,Technology,Software - Application,USA,147397.3,15.38,10.23,3.6,,5.46,0.017,2.35,0.53,0.224,0.086,0.169,1.44,2/5/2025 8:30,23722.94,89.77,70.48,-3.02%
+33,FI,"Fiserv, Inc",S&P 500,Technology,Information Technology Services,USA,113714.52,37.83,47.99,2.21,,0.01,-0.01,2.76,0.95,0.153,-0.008,-0.009,0.96,2/5/2025 8:30,3263.75,255.38,203.58,-3.23%
 34,IEX,Idex Corporation,S&P 500,Industrials,Specialty Industrial Machinery,USA,12538.81,24.95,50,8.46,0.017,0.009,0.001,1.73,0.52,0.155,-0.205,-0.207,1.06,2/5/2025 8:30,624.23,224.75,165.98,-4.50%
-35,NVO,Novo Nordisk ADR,-,Healthcare,Drug Manufacturers - General,Denmark,204643.08,18.53,4.49,1.09,0.032,0.066,0.075,1.69,0.72,0.348,-0.290,-0.293,0.66,2/5/2025 8:30,8665.67,112.81,60.83,-6.54%
+35,NVO,Novo Nordisk ADR,-,Healthcare,Drug Manufacturers - General,Denmark,204643.08,18.53,4.49,1.09,0.032,0.066,0.075,1.69,0.72,0.348,-0.29,-0.293,0.66,2/5/2025 8:30,8665.67,112.81,60.83,-6.54%
 36,RYN,Rayonier Inc,-,Real Estate,REIT - Specialty,USA,3767.2,10.23,11.91,2.2,0.052,0.371,0.116,3.54,0.67,0.284,-0.062,-0.075,1.11,2/5/2025 16:30,1183.95,31.33,24.14,-1.95%
-37,AMG,Affiliated Managers Group Inc,-,Financial,Asset Management,USA,4473.11,10.41,113.02,33.57,0.000,0.086,-0.012,3.21,0.79,0.250,-0.154,-0.173,1.07,2/6/2025 8:30,238.77,179.57,152.89,-4.34%
-38,COP,Conoco Phillips,S&P 500,Energy,Oil & Gas E&P,USA,104294.91,10.57,50.79,4.84,0.038,0.078,0.020,2.14,0.39,0.169,-0.188,-0.168,0.64,2/6/2025 8:30,9062.08,127.89,82.5,-9.84%
-39,LIN,Linde Plc,"NDX, S&P 500",Basic Materials,Specialty Chemicals,United Kingdom,204494.5,31.75,80.49,10.26,0.014,0.009,-0.016,2.31,0.59,0.199,0.030,0.033,1.01,2/6/2025 8:30,2444.95,502.28,432.42,-3.04%
+37,AMG,Affiliated Managers Group Inc,-,Financial,Asset Management,USA,4473.11,10.41,113.02,33.57,0,0.086,-0.012,3.21,0.79,0.25,-0.154,-0.173,1.07,2/6/2025 8:30,238.77,179.57,152.89,-4.34%
+38,COP,Conoco Phillips,S&P 500,Energy,Oil & Gas E&P,USA,104294.91,10.57,50.79,4.84,0.038,0.078,0.02,2.14,0.39,0.169,-0.188,-0.168,0.64,2/6/2025 8:30,9062.08,127.89,82.5,-9.84%
+39,LIN,Linde Plc,"NDX, S&P 500",Basic Materials,Specialty Chemicals,United Kingdom,204494.5,31.75,80.49,10.26,0.014,0.009,-0.016,2.31,0.59,0.199,0.03,0.033,1.01,2/6/2025 8:30,2444.95,502.28,432.42,-3.04%
 40,PBH,Prestige Consumer Healthcare Inc,RUT,Healthcare,Drug Manufacturers - Specialty & Generic,USA,3970.46,18.78,36.07,1.03,,0.038,0.009,4.4,0.57,0.191,0.078,0.026,0.45,2/6/2025 8:30,358.11,89,80.15,-3.65%
-41,WMS,Advanced Drainage Systems Inc,-,Industrials,Building Products & Equipment,USA,8084.27,17.43,20.24,6.3,0.006,-0.090,0.022,3.42,0.91,0.159,-0.094,-0.099,1.3,2/6/2025 8:30,673.4,146.67,104.21,-4.15%
+41,WMS,Advanced Drainage Systems Inc,-,Industrials,Building Products & Equipment,USA,8084.27,17.43,20.24,6.3,0.006,-0.09,0.022,3.42,0.91,0.159,-0.094,-0.099,1.3,2/6/2025 8:30,673.4,146.67,104.21,-4.15%
 42,MKTX,MarketAxess Holdings Inc,S&P 500,Financial,Capital Markets,USA,7891.08,28.77,36.89,15.94,0.015,0.031,-0.001,1.69,0.05,0.335,-0.047,-0.074,0.9,2/6/2025 8:30,718.31,228.83,209.35,3.03%
 43,VCTR,Victory Capital Holdings Inc,RUT,Financial,Asset Management,USA,3413.46,12.23,17.62,1.99,0.035,0.061,0.011,5.26,0.88,0.317,-0.154,-0.181,1.06,2/6/2025 16:30,311.9,71.75,53.61,-7.46%
 44,EXPO,Exponent Inc,RUT,Industrials,Engineering & Construction,USA,3981.87,37.05,8.29,5.09,0.015,0.141,0.035,4.9,0.19,0.195,-0.122,-0.121,0.95,2/6/2025 16:30,305.99,108,78.36,-1.80%
-45,PINS,Pinterest Inc,-,Communication Services,Internet Content & Information,USA,17788.68,9.7,7.03,3.71,,-0.130,0.012,2.05,0.04,0.511,-0.150,-0.096,0.82,2/6/2025 16:30,13020.94,43.18,26.23,-6.80%
+45,PINS,Pinterest Inc,-,Communication Services,Internet Content & Information,USA,17788.68,9.7,7.03,3.71,,-0.13,0.012,2.05,0.04,0.511,-0.15,-0.096,0.82,2/6/2025 16:30,13020.94,43.18,26.23,-6.80%
 46,ONTO,Onto Innovation Inc,-,Technology,Semiconductor Equipment & Materials,USA,5738.01,28.68,39.11,17.3,,0.073,0.013,1.38,0.01,0.204,-0.394,-0.301,1.51,2/6/2025 16:30,1092.21,231.88,116.46,-12.68%
 47,REG,Regency Centers Corporation,S&P 500,Real Estate,REIT - Retail,USA,12439.36,32.25,35.93,0.34,0.042,-0.051,0.012,4.65,0.75,0.266,-0.029,-0.079,1.04,2/6/2025 16:30,1146.91,79.82,68.11,-2.22%
-48,CARR,Carrier Global Corp,S&P 500,Industrials,Building Products & Equipment,USA,50626.21,14.01,16.03,4.6,0.016,0.074,-0.030,2.36,0.91,0.164,-0.144,-0.142,1.33,2/11/2025 8:30,5871.43,77.68,58.6,-3.58%
-49,WPC,W. P. Carey Inc,-,Real Estate,REIT - Diversified,USA,12383.08,27.03,38.52,2.92,0.063,-0.426,0.030,3.55,0.98,0.291,0.032,0.038,0.83,2/11/2025 16:30,1308.89,63.6,56.55,-3.35%
+48,CARR,Carrier Global Corp,S&P 500,Industrials,Building Products & Equipment,USA,50626.21,14.01,16.03,4.6,0.016,0.074,-0.03,2.36,0.91,0.164,-0.144,-0.142,1.33,2/11/2025 8:30,5871.43,77.68,58.6,-3.58%
+49,WPC,W. P. Carey Inc,-,Real Estate,REIT - Diversified,USA,12383.08,27.03,38.52,2.92,0.063,-0.426,0.03,3.55,0.98,0.291,0.032,0.038,0.83,2/11/2025 16:30,1308.89,63.6,56.55,-3.35%
 50,MLM,"Martin Marietta Materials, Inc",S&P 500,Basic Materials,Building Materials,USA,28852.36,14.63,154.65,10.99,0.007,0.045,-0.009,3.2,0.64,0.305,-0.085,-0.084,0.89,2/12/2025 8:30,580.56,609.98,473.19,-1.75%
 51,WAT,Waters Corp,S&P 500,Healthcare,Diagnostics & Research,USA,18594.02,29.21,30.79,5.48,,0.017,0.018,2.72,0.93,0.216,-0.164,-0.156,1.15,2/12/2025 8:30,535.5,406.5,312.97,-7.00%
 52,BAM,Brookfield Asset Management Ltd,-,Financial,Asset Management,USA,75570.5,35.56,7.73,0.01,0.038,0.032,-0.167,5.42,0.07,1.122,-0.172,-0.148,1.6,2/12/2025 8:30,2007.51,56.76,46.15,-1.84%
 53,GOLD,Barrick Gold Corp,-,Basic Materials,Gold,Canada,33262.09,15.79,14.06,2.37,0.021,0.105,-0.076,0.66,0.19,0.166,0.221,0.248,0.25,2/12/2025 8:30,24554.23,23.16,19.34,2.87%
-54,KGC,Kinross Gold Corp,-,Basic Materials,Gold,Canada,16857.03,17.81,5.58,0.51,0.009,-0.172,-0.026,0.44,0.21,0.184,0.320,0.478,0.65,2/12/2025 16:30,21959.06,14.14,13.7,5.22%
+54,KGC,Kinross Gold Corp,-,Basic Materials,Gold,Canada,16857.03,17.81,5.58,0.51,0.009,-0.172,-0.026,0.44,0.21,0.184,0.32,0.478,0.65,2/12/2025 16:30,21959.06,14.14,13.7,5.22%
 55,GMAB,Genmab ADR,-,Healthcare,Biotechnology,Denmark,11355.94,10.2,8.02,4.61,,1.325,0.001,1.32,0.03,0.363,-0.195,-0.144,1.05,2/12/2025 16:30,1626.23,30.77,17.87,-5.10%
 56,MSA,MSA Safety Inc,-,Industrials,Security & Protection Services,USA,5535.75,19.57,29.03,4.21,0.015,0.003,-0.036,2.82,0.49,0.158,-0.123,-0.149,0.97,2/12/2025 16:30,177.22,185.75,141,-1.79%
-57,CSCO,"Cisco Systems, Inc","DJIA, NDX, S&P 500",Technology,Communication Equipment,USA,223323.84,24.6,11.45,4.62,0.029,0.033,0.009,2.63,0.71,0.170,-0.052,-0.052,0.89,2/12/2025 16:30,23357.78,70.44,56.14,-3.43%
-58,RGLD,"Royal Gold, Inc",-,Basic Materials,Gold,USA,11316.01,34.07,47.48,2.97,0.011,0.100,0.079,3.38,0,0.462,0.262,0.304,0.5,2/12/2025 16:30,511.3,179,171.96,4.51%
-59,PAYC,Paycom Software Inc,S&P 500,Technology,Software - Application,USA,11973.19,23.5,28.19,7.02,0.004,0.177,0.026,3.17,0.05,0.267,0.049,0.020,0.81,2/12/2025 16:30,690.52,223.93,209.09,-4.31%
+57,CSCO,"Cisco Systems, Inc","DJIA, NDX, S&P 500",Technology,Communication Equipment,USA,223323.84,24.6,11.45,4.62,0.029,0.033,0.009,2.63,0.71,0.17,-0.052,-0.052,0.89,2/12/2025 16:30,23357.78,70.44,56.14,-3.43%
+58,RGLD,"Royal Gold, Inc",-,Basic Materials,Gold,USA,11316.01,34.07,47.48,2.97,0.011,0.1,0.079,3.38,0,0.462,0.262,0.304,0.5,2/12/2025 16:30,511.3,179,171.96,4.51%
+59,PAYC,Paycom Software Inc,S&P 500,Technology,Software - Application,USA,11973.19,23.5,28.19,7.02,0.004,0.177,0.026,3.17,0.05,0.267,0.049,0.02,0.81,2/12/2025 16:30,690.52,223.93,209.09,-4.31%
 60,CTRE,CareTrust REIT Inc,RUT,Real Estate,REIT - Healthcare Facilities,USA,5211.48,35.48,15.55,1.14,0.045,-0.058,0.028,3.34,0.14,0.421,0.032,0.027,0.91,2/12/2025 16:30,1870.32,31.62,27.77,1.32%
 61,GPN,"Global Payments, Inc",S&P 500,Technology,Software - Infrastructure,USA,20442.15,13.47,89.59,11.13,0.013,-0.004,-0.008,3.28,0.77,0.155,-0.254,-0.258,0.95,2/13/2025 8:30,2385.83,127.25,83.14,-7.89%
-62,WST,"West Pharmaceutical Services, Inc",S&P 500,Healthcare,Medical Instruments & Supplies,USA,14668.66,30.33,37.1,6.7,0.003,0.059,0.011,1.41,0.11,0.170,-0.398,-0.381,1.15,2/13/2025 8:30,1015.59,277.67,202.91,-0.31%
-63,AMAT,Applied Materials Inc,"NDX, S&P 500",Technology,Semiconductor Equipment & Materials,USA,111187,17.9,22.92,10.11,0.012,0.044,0.003,2.28,0.35,0.230,-0.227,-0.159,1.69,2/13/2025 16:30,7674.42,207.3,136.86,-8.60%
+62,WST,"West Pharmaceutical Services, Inc",S&P 500,Healthcare,Medical Instruments & Supplies,USA,14668.66,30.33,37.1,6.7,0.003,0.059,0.011,1.41,0.11,0.17,-0.398,-0.381,1.15,2/13/2025 8:30,1015.59,277.67,202.91,-0.31%
+63,AMAT,Applied Materials Inc,"NDX, S&P 500",Technology,Semiconductor Equipment & Materials,USA,111187,17.9,22.92,10.11,0.012,0.044,0.003,2.28,0.35,0.23,-0.227,-0.159,1.69,2/13/2025 16:30,7674.42,207.3,136.86,-8.60%
 64,ABNB,Airbnb Inc,"NDX, S&P 500",Consumer Cyclical,Travel Services,USA,71631.94,27.48,13.5,16.87,,0.261,0.024,2.81,0.27,0.239,-0.132,-0.136,1.13,2/13/2025 16:30,5711.39,153.21,113.6,-6.36%
-65,COIN,Coinbase Global Inc,-,Financial,Financial Data & Stock Exchanges,USA,42278.37,17.55,40.52,38.7,,1.065,0.234,0.99,0.45,0.357,-0.360,-0.329,3.61,2/13/2025 16:30,9479.65,283.58,166.53,-5.96%
-66,BHP,BHP Group Limited ADR,-,Basic Materials,Other Industrial Metals & Mining,Australia,109550.95,9.66,17.95,3.89,0.050,-0.130,0.005,3.47,0.44,0.212,-0.114,-0.116,1,2/17/2025 16:30,2996.01,50.5,43.17,-2.65%
-67,CEG,Constellation Energy Corporation,"NDX, S&P 500",Utilities,Utilities - Renewable,USA,64284.88,17.26,42.06,9.99,0.008,0.128,-0.180,1.87,0.68,0.159,-0.159,-0.083,1,2/18/2025 8:30,4973.63,321.42,205.18,-4.77%
+65,COIN,Coinbase Global Inc,-,Financial,Financial Data & Stock Exchanges,USA,42278.37,17.55,40.52,38.7,,1.065,0.234,0.99,0.45,0.357,-0.36,-0.329,3.61,2/13/2025 16:30,9479.65,283.58,166.53,-5.96%
+66,BHP,BHP Group Limited ADR,-,Basic Materials,Other Industrial Metals & Mining,Australia,109550.95,9.66,17.95,3.89,0.05,-0.13,0.005,3.47,0.44,0.212,-0.114,-0.116,1,2/17/2025 16:30,2996.01,50.5,43.17,-2.65%
+67,CEG,Constellation Energy Corporation,"NDX, S&P 500",Utilities,Utilities - Renewable,USA,64284.88,17.26,42.06,9.99,0.008,0.128,-0.18,1.87,0.68,0.159,-0.159,-0.083,1,2/18/2025 8:30,4973.63,321.42,205.18,-4.77%
 68,BIDU,Baidu Inc ADR,-,Communication Services,Internet Content & Information,China,22469.78,8.76,129.03,68.1,,0.341,0.029,1.56,0.3,0.174,-0.013,-0.048,0.4,2/18/2025 8:30,5899.27,108.33,80.28,-0.39%
-69,DVN,Devon Energy Corp,S&P 500,Energy,Oil & Gas E&P,USA,18022.66,6.07,22.28,1.3,0.036,0.155,0.047,1.65,0.64,0.186,-0.210,-0.152,1.06,2/18/2025 16:30,9984.37,48.07,27.77,-10.62%
+69,DVN,Devon Energy Corp,S&P 500,Energy,Oil & Gas E&P,USA,18022.66,6.07,22.28,1.3,0.036,0.155,0.047,1.65,0.64,0.186,-0.21,-0.152,1.06,2/18/2025 16:30,9984.37,48.07,27.77,-10.62%
 70,ANET,Arista Networks Inc,S&P 500,Technology,Computer Hardware,USA,91221.03,32.49,7.92,6.58,,0.145,0.015,1.89,0.01,0.407,-0.374,-0.346,1.39,2/18/2025 16:30,11856.71,114.3,72.33,-4.82%
 71,TRMB,Trimble Inc,S&P 500,Technology,Scientific & Technical Instruments,USA,14312.47,9.55,23.9,3.01,,0.006,0.041,2.97,0.26,0.408,-0.197,-0.176,1.68,2/19/2025 8:30,1669.52,88.38,58.23,-5.30%
 72,AU,AngloGold Ashanti Plc,-,Basic Materials,Gold,United Kingdom,19551.48,16.67,13.17,2.87,0.044,-0.148,-0.069,1.94,0.32,0.173,0.542,0.682,0.52,2/19/2025 8:30,2710.67,36.38,38.83,6.62%
-73,RIO,Rio Tinto plc ADR,-,Basic Materials,Other Industrial Metals & Mining,United Kingdom,68610.92,7.78,34.02,7.11,0.069,-0.017,-0.018,2.2,0.25,0.215,-0.067,-0.070,0.74,2/19/2025 16:30,3401.98,82.33,54.72,-1.59%
-74,LOPE,Grand Canyon Education Inc,-,Consumer Defensive,Education & Training Services,USA,4857.91,21.86,27.16,11.3,,0.005,0.010,1.82,0.14,0.219,0.033,0.033,0.8,2/19/2025 16:30,199.52,199.33,169.12,-2.84%
+73,RIO,Rio Tinto plc ADR,-,Basic Materials,Other Industrial Metals & Mining,United Kingdom,68610.92,7.78,34.02,7.11,0.069,-0.017,-0.018,2.2,0.25,0.215,-0.067,-0.07,0.74,2/19/2025 16:30,3401.98,82.33,54.72,-1.59%
+74,LOPE,Grand Canyon Education Inc,-,Consumer Defensive,Education & Training Services,USA,4857.91,21.86,27.16,11.3,,0.005,0.01,1.82,0.14,0.219,0.033,0.033,0.8,2/19/2025 16:30,199.52,199.33,169.12,-2.84%
 75,NDSN,Nordson Corp,S&P 500,Industrials,Specialty Industrial Machinery,USA,10271.07,22.98,50.55,2.29,0.018,-0.013,-0.038,3.2,0.8,0.169,-0.107,-0.138,0.91,2/19/2025 16:30,376.63,242.29,180.47,-3.64%
-76,BMRN,Biomarin Pharmaceutical Inc,-,Healthcare,Biotechnology,USA,10708.32,25.52,29.66,5.96,,0.199,0.049,2.74,0.11,0.150,-0.179,-0.146,0.3,2/19/2025 16:30,1711.77,97.73,56.13,-5.55%
-77,CWAN,Clearwater Analytics Holdings Inc,RUT,Technology,Software - Application,USA,5916.6,13.97,4.29,0.99,,0.144,0.051,3.44,0.07,0.940,-0.157,-0.164,0.79,2/19/2025 16:30,2641.43,35.78,23,-4.03%
+76,BMRN,Biomarin Pharmaceutical Inc,-,Healthcare,Biotechnology,USA,10708.32,25.52,29.66,5.96,,0.199,0.049,2.74,0.11,0.15,-0.179,-0.146,0.3,2/19/2025 16:30,1711.77,97.73,56.13,-5.55%
+77,CWAN,Clearwater Analytics Holdings Inc,RUT,Technology,Software - Application,USA,5916.6,13.97,4.29,0.99,,0.144,0.051,3.44,0.07,0.94,-0.157,-0.164,0.79,2/19/2025 16:30,2641.43,35.78,23,-4.03%
 78,IDA,"Idacorp, Inc",-,Utilities,Utilities - Regulated Electric,USA,6214.24,20.96,61.73,6.83,0.031,0.118,-0.156,4.3,0.92,0.158,0.042,0.053,0.58,2/20/2025 8:30,334.35,124.75,115.04,0.26%
 79,NICE,NICE Ltd ADR,-,Technology,Software - Application,Israel,9425.47,22.19,56.75,25.79,,0.024,0.009,2.29,0.16,0.162,-0.095,-0.117,1.02,2/20/2025 8:30,681.97,207.93,149.92,-2.29%
 80,LAUR,Laureate Education Inc,RUT,Consumer Defensive,Education & Training Services,USA,2864.91,9.79,6.36,0.65,0.053,0.219,0.029,3.33,0.45,0.189,0.017,0.039,0.6,2/20/2025 8:30,831.29,23.62,19,-2.86%
-81,ATHM,Autohome Inc ADR,-,Communication Services,Internet Content & Information,China,3110.71,13.89,29.18,26.47,0.066,-0.279,-0.015,3.1,0,0.230,-0.005,-0.010,0.03,2/20/2025 8:30,524.78,31.61,25.68,0.73%
-82,GFI,Gold Fields Ltd ADR,-,Basic Materials,Gold,South Africa,21015.07,17.29,5.81,0.96,0.039,0.000,0.000,1.44,0.57,0.239,0.633,0.779,0.6,2/20/2025 8:30,3659.98,22.56,23.48,8.96%
-83,NTES,NetEase Inc ADR,-,Communication Services,Electronic Gaming & Multimedia,China,59151.95,14.83,30.25,30.96,0.025,0.198,-0.017,1.85,0.09,0.282,0.030,0.065,0.69,2/20/2025 8:30,1542.22,118.46,95.04,1.37%
+81,ATHM,Autohome Inc ADR,-,Communication Services,Internet Content & Information,China,3110.71,13.89,29.18,26.47,0.066,-0.279,-0.015,3.1,0,0.23,-0.005,-0.01,0.03,2/20/2025 8:30,524.78,31.61,25.68,0.73%
+82,GFI,Gold Fields Ltd ADR,-,Basic Materials,Gold,South Africa,21015.07,17.29,5.81,0.96,0.039,0,0,1.44,0.57,0.239,0.633,0.779,0.6,2/20/2025 8:30,3659.98,22.56,23.48,8.96%
+83,NTES,NetEase Inc ADR,-,Communication Services,Electronic Gaming & Multimedia,China,59151.95,14.83,30.25,30.96,0.025,0.198,-0.017,1.85,0.09,0.282,0.03,0.065,0.69,2/20/2025 8:30,1542.22,118.46,95.04,1.37%
 84,CPRT,"Copart, Inc","NDX, S&P 500",Industrials,Specialty Business Services,USA,55813.51,38.8,8.59,3.93,,0.076,0.028,3.68,0.01,0.323,0.018,0.007,1.2,2/20/2025 16:30,4677.78,63.5,57.77,-1.28%
-85,OLED,Universal Display Corp,-,Technology,Electronic Components,USA,5184.1,23.49,34.05,10.38,0.017,-0.094,0.082,1.83,0.01,0.342,-0.280,-0.253,1.47,2/20/2025 16:30,801.34,188.67,109.21,-12.75%
+85,OLED,Universal Display Corp,-,Technology,Electronic Components,USA,5184.1,23.49,34.05,10.38,0.017,-0.094,0.082,1.83,0.01,0.342,-0.28,-0.253,1.47,2/20/2025 16:30,801.34,188.67,109.21,-12.75%
 86,BVN,Compania de Minas Buenaventura S.A. ADR,-,Basic Materials,Other Precious Metals & Mining,Peru,3583.8,8.91,13.36,1.89,0.017,-0.528,0.008,4.08,0.18,0.349,0.119,0.226,0.44,2/21/2025 8:30,1094.43,15.68,14.12,1.47%
-87,KSPI,Kaspi.kz JSC ADR,-,Technology,Software - Infrastructure,Kazakhstan,15866.67,7.24,15.22,,0.034,-0.010,-0.008,1.36,0.09,0.410,-0.128,-0.118,,2/24/2025 8:30,340.18,124.37,83.5,-5.54%
+87,KSPI,Kaspi.kz JSC ADR,-,Technology,Software - Infrastructure,Kazakhstan,15866.67,7.24,15.22,,0.034,-0.01,-0.008,1.36,0.09,0.41,-0.128,-0.118,,2/24/2025 8:30,340.18,124.37,83.5,-5.54%
 88,WDS,Woodside Energy Group Ltd ADR,-,Energy,Oil & Gas E&P,Australia,22804.91,6.44,18.67,2.07,0.067,0.113,0.028,1.87,0.33,0.256,-0.239,-0.229,0.69,2/24/2025 16:30,967.78,16.86,12.03,-3.84%
-89,ASR,Grupo Aeroportuario Del Sureste S.A. ADR,-,Industrials,Airports & Air Services,Mexico,7423.88,10.82,94.11,38.42,0.069,0.054,0.064,2.09,0.25,0.434,0.028,0.040,0.77,2/24/2025 16:30,52.55,303.63,268.01,-0.34%
-90,BSM,Black Stone Minerals L.P,-,Energy,Oil & Gas E&P,USA,2891.53,11.93,3.93,0.01,0.110,0.099,0.121,4.53,0.03,0.635,-0.063,-0.062,0.32,2/24/2025 16:30,449.67,17,13.69,-3.89%
-91,TCOM,Trip.com Group Ltd ADR,-,Consumer Cyclical,Travel Services,China,35584.33,15.74,30.63,16.74,0.003,0.121,0.033,3.54,0.28,0.320,-0.158,-0.204,0.11,2/24/2025 16:30,4202.74,73.97,54.65,-0.25%
-92,PSA,Public Storage,S&P 500,Real Estate,REIT - Industrial,USA,48434.5,25.96,30.57,2.55,0.045,0.250,-0.005,4.12,0.96,0.399,-0.066,-0.078,0.94,2/24/2025 16:30,784.35,329.39,276.11,-2.19%
+89,ASR,Grupo Aeroportuario Del Sureste S.A. ADR,-,Industrials,Airports & Air Services,Mexico,7423.88,10.82,94.11,38.42,0.069,0.054,0.064,2.09,0.25,0.434,0.028,0.04,0.77,2/24/2025 16:30,52.55,303.63,268.01,-0.34%
+90,BSM,Black Stone Minerals L.P,-,Energy,Oil & Gas E&P,USA,2891.53,11.93,3.93,0.01,0.11,0.099,0.121,4.53,0.03,0.635,-0.063,-0.062,0.32,2/24/2025 16:30,449.67,17,13.69,-3.89%
+91,TCOM,Trip.com Group Ltd ADR,-,Consumer Cyclical,Travel Services,China,35584.33,15.74,30.63,16.74,0.003,0.121,0.033,3.54,0.28,0.32,-0.158,-0.204,0.11,2/24/2025 16:30,4202.74,73.97,54.65,-0.25%
+92,PSA,Public Storage,S&P 500,Real Estate,REIT - Industrial,USA,48434.5,25.96,30.57,2.55,0.045,0.25,-0.005,4.12,0.96,0.399,-0.066,-0.078,0.94,2/24/2025 16:30,784.35,329.39,276.11,-2.19%
 93,ZM,Zoom Communications Inc,-,Technology,Software - Application,USA,21116.08,21.6,29.22,25.57,,0.081,0.008,2.33,0.01,0.217,-0.134,-0.152,0.8,2/24/2025 16:30,2698.38,91.18,69.18,-3.69%
-94,CTRA,Coterra Energy Inc,S&P 500,Energy,Oil & Gas E&P,USA,18857.9,16.44,17.85,2.98,0.036,0.132,-0.010,3.14,0.29,0.205,-0.091,-0.034,0.33,2/24/2025 16:30,7135.69,34.89,24.68,-4.60%
-95,FANG,Diamondback Energy Inc,"NDX, S&P 500",Energy,Oil & Gas E&P,USA,35881.99,7.85,129.68,0.57,0.033,0.089,0.045,1.89,0.35,0.300,-0.275,-0.243,1.06,2/24/2025 16:30,2719.97,202.71,123.97,-8.12%
-96,VNOM,Viper Energy Inc,-,Energy,Oil & Gas Midstream,USA,8006.78,9.95,16.38,0.12,0.076,3.440,0.029,3.08,0.64,0.420,-0.266,-0.249,1.06,2/24/2025 16:30,1903.66,57.62,36.53,-7.81%
+94,CTRA,Coterra Energy Inc,S&P 500,Energy,Oil & Gas E&P,USA,18857.9,16.44,17.85,2.98,0.036,0.132,-0.01,3.14,0.29,0.205,-0.091,-0.034,0.33,2/24/2025 16:30,7135.69,34.89,24.68,-4.60%
+95,FANG,Diamondback Energy Inc,"NDX, S&P 500",Energy,Oil & Gas E&P,USA,35881.99,7.85,129.68,0.57,0.033,0.089,0.045,1.89,0.35,0.3,-0.275,-0.243,1.06,2/24/2025 16:30,2719.97,202.71,123.97,-8.12%
+96,VNOM,Viper Energy Inc,-,Energy,Oil & Gas Midstream,USA,8006.78,9.95,16.38,0.12,0.076,3.44,0.029,3.08,0.64,0.42,-0.266,-0.249,1.06,2/24/2025 16:30,1903.66,57.62,36.53,-7.81%
 97,MGEE,"MGE Energy, Inc",RUT,Utilities,Utilities - Regulated Electric,USA,3187.43,26.21,33.71,0.61,0.021,-0.274,-999,6.6,0.65,0.178,-0.043,-0.072,0.79,2/25/2025 8:30,162,74.5,87.24,-2.04%
 98,AWI,Armstrong World Industries Inc,-,Industrials,Building Products & Equipment,USA,5751.21,21.96,17.38,1.82,0.009,0.083,0.044,2.03,0.79,0.183,-0.073,-0.064,1.36,2/25/2025 8:30,321.41,164,132.32,-2.37%
 99,CHRD,Chord Energy Corp,-,Energy,Oil & Gas E&P,USA,5139.09,5.43,144.87,0.62,0.071,0.259,0.286,2.43,0.1,0.161,-0.295,-0.261,1.03,2/25/2025 16:30,953.42,149.89,86.39,-9.06%
 100,NHI,"National Health Investors, Inc",RUT,Real Estate,REIT - Healthcare Facilities,USA,3333.67,22.91,29.91,0.52,0.051,0.284,-0.035,7.3,0.84,0.408,0.055,0.031,0.81,2/25/2025 16:30,224.6,80.67,71.46,0.00%
 101,UTHR,United Therapeutics Corp,-,Healthcare,Drug Manufacturers - Specialty & Generic,USA,12645.48,11.45,143.74,72.74,,-0.033,0.002,3.56,0.05,0.415,-0.232,-0.202,0.59,2/26/2025 8:30,480.83,409.9,281.56,-3.83%
 102,DTM,DT Midstream Inc,-,Energy,Oil & Gas Midstream,USA,9173.03,25.11,45.66,0.67,0.037,-0.181,-0.017,2.93,0.76,0.361,-0.146,-0.092,0.81,2/26/2025 8:30,1249.26,106.85,90.29,-2.96%
-103,GHC,Graham Holdings Co,RUT,Consumer Defensive,Education & Training Services,USA,3945.28,5.49,982.54,265.24,0.006,4.676,-0.018,2.2,0.28,0.150,0.034,0.038,0.91,2/26/2025 8:30,20.51,765,904.77,-3.25%
-104,VIST,Vista Energy S.A.B. de C.V ADR,-,Energy,Oil & Gas E&P,Mexico,3381.51,7.47,17.01,8.03,0.006,-0.006,0.021,1.8,0.95,0.290,-0.371,-0.343,1.07,2/26/2025,980.64,67.79,35.53,-7.44%
+103,GHC,Graham Holdings Co,RUT,Consumer Defensive,Education & Training Services,USA,3945.28,5.49,982.54,265.24,0.006,4.676,-0.018,2.2,0.28,0.15,0.034,0.038,0.91,2/26/2025 8:30,20.51,765,904.77,-3.25%
+104,VIST,Vista Energy S.A.B. de C.V ADR,-,Energy,Oil & Gas E&P,Mexico,3381.51,7.47,17.01,8.03,0.006,-0.006,0.021,1.8,0.95,0.29,-0.371,-0.343,1.07,2/26/2025 8:30,980.64,67.79,35.53,-7.44%
 105,SNPS,"Synopsys, Inc","NDX, S&P 500",Technology,Software - Infrastructure,USA,62512.13,29.89,60.18,24.66,,0.086,0.003,3.23,0.07,0.348,-0.195,-0.167,1.17,2/26/2025 16:30,1333.34,627.95,404.3,-5.69%
-106,GRBK,Green Brick Partners Inc,RUT,Consumer Cyclical,Residential Construction,USA,2448.74,6.53,35.46,3.59,,0.145,0.021,3.16,0.21,0.180,-0.008,-0.026,1.95,2/26/2025 16:30,330.55,70,55.03,-2.39%
+106,GRBK,Green Brick Partners Inc,RUT,Consumer Cyclical,Residential Construction,USA,2448.74,6.53,35.46,3.59,,0.145,0.021,3.16,0.21,0.18,-0.008,-0.026,1.95,2/26/2025 16:30,330.55,70,55.03,-2.39%
 107,JOE,St. Joe Co,RUT,Real Estate,Real Estate - Diversified,USA,2436.6,32.91,12.42,1.52,0.013,-999,-999,2.82,0.61,0.184,-0.049,-0.069,1.37,2/26/2025 16:30,266.18,19,41.85,-3.39%
 108,CRM,Salesforce Inc,"DJIA, S&P 500",Technology,Software - Application,USA,243853.75,39.89,63.59,14.6,0.005,0.065,-0.005,1.63,0.2,0.164,-0.224,-0.241,1.41,2/26/2025 16:30,7294.45,374.02,253.75,-4.31%
-109,A,Agilent Technologies Inc,S&P 500,Healthcare,Diagnostics & Research,USA,28424.74,22.91,21.13,5.15,0.010,0.023,-0.009,1.71,0.56,0.193,-0.272,-0.258,1.27,2/26/2025 16:30,2119.35,147.2,99.7,-6.87%
-110,NVDA,NVIDIA Corp,"DJIA, NDX, S&P 500",Technology,Semiconductors,USA,2611287.91,36.41,3.24,1.77,0.000,0.050,0.032,0.78,0.13,0.559,-0.236,-0.203,2.09,2/26/2025 16:30,300484.25,169.82,107.02,-6.39%
-111,WHD,Cactus Inc,RUT,Energy,Oil & Gas Equipment & Services,USA,2897.2,13.13,15.72,4.3,0.014,0.002,-0.020,4.08,0.04,0.164,-0.389,-0.378,1.5,2/26/2025 16:30,772.37,54.75,36.33,-7.23%
+109,A,Agilent Technologies Inc,S&P 500,Healthcare,Diagnostics & Research,USA,28424.74,22.91,21.13,5.15,0.01,0.023,-0.009,1.71,0.56,0.193,-0.272,-0.258,1.27,2/26/2025 16:30,2119.35,147.2,99.7,-6.87%
+110,NVDA,NVIDIA Corp,"DJIA, NDX, S&P 500",Technology,Semiconductors,USA,2611287.91,36.41,3.24,1.77,0,0.05,0.032,0.78,0.13,0.559,-0.236,-0.203,2.09,2/26/2025 16:30,300484.25,169.82,107.02,-6.39%
+111,WHD,Cactus Inc,RUT,Energy,Oil & Gas Equipment & Services,USA,2897.2,13.13,15.72,4.3,0.014,0.002,-0.02,4.08,0.04,0.164,-0.389,-0.378,1.5,2/26/2025 16:30,772.37,54.75,36.33,-7.23%
 112,LBRDK,Liberty Broadband Corp,-,Communication Services,Telecom Services,USA,10928.16,12.59,68.35,1.14,,-0.281,0.042,4.11,0.39,0.855,0.003,0.024,1.05,2/27/2025 8:30,880.64,103,76.52,-4.07%
 113,CWT,California Water Service Group,RUT,Utilities,Utilities - Regulated Water,USA,2892.92,14.9,27.49,1.61,0.025,0.365,0.027,1.9,0.85,0.184,0.125,0.074,0.7,2/27/2025 8:30,391.31,57,48.63,1.72%
 114,LBRDA,Liberty Broadband Corp,-,Communication Services,Telecom Services,USA,10929.18,12.39,68.35,1.12,,-0.281,0.042,1.63,0.39,0.855,-0.005,0.012,1.04,2/27/2025 8:30,123.25,103,75.28,-4.07%
 115,OPRA,Opera Ltd ADR,-,Communication Services,Internet Content & Information,Norway,2629.63,16.54,5.31,0.72,0.054,0.422,0.058,3.74,0.01,0.168,-0.165,-0.215,1.01,2/27/2025 8:30,484.8,26.14,14.86,-4.80%
-116,PBA,Pembina Pipeline Corporation,-,Energy,Oil & Gas Midstream,Canada,20379.06,16.05,18.37,0.17,0.056,0.076,0.023,8.2,0.76,0.235,-0.051,-0.050,0.82,2/27/2025 16:30,1490.65,43.16,35.1,-2.66%
-117,MNST,Monster Beverage Corp,"NDX, S&P 500",Consumer Defensive,Beverages - Non-Alcoholic,USA,56185.32,38.91,6.12,1.58,,-0.053,0.010,2.47,0.07,0.201,0.119,0.099,0.63,2/27/2025 16:30,6948.73,57,57.74,-0.88%
+116,PBA,Pembina Pipeline Corporation,-,Energy,Oil & Gas Midstream,Canada,20379.06,16.05,18.37,0.17,0.056,0.076,0.023,8.2,0.76,0.235,-0.051,-0.05,0.82,2/27/2025 16:30,1490.65,43.16,35.1,-2.66%
+117,MNST,Monster Beverage Corp,"NDX, S&P 500",Consumer Defensive,Beverages - Non-Alcoholic,USA,56185.32,38.91,6.12,1.58,,-0.053,0.01,2.47,0.07,0.201,0.119,0.099,0.63,2/27/2025 16:30,6948.73,57,57.74,-0.88%
 118,MAIN,Main Street Capital Corporation,-,Financial,Asset Management,USA,4553.37,8.81,31.65,0.88,0.075,-0.021,-0.007,5.83,0.76,0.833,-0.112,-0.118,0.86,2/27/2025 16:30,583.73,56.75,51.42,-2.88%
-119,BUR,Burford Capital Limited,RUT,Financial,Asset Management,United Kingdom,2668.69,18.7,11.03,2.51,0.010,-1.112,-0.709,4.03,0.74,0.271,-0.046,-0.045,1.05,3/3/2025 8:30,1026.49,20.58,12.18,-5.42%
+119,BUR,Burford Capital Limited,RUT,Financial,Asset Management,United Kingdom,2668.69,18.7,11.03,2.51,0.01,-1.112,-0.709,4.03,0.74,0.271,-0.046,-0.045,1.05,3/3/2025 8:30,1026.49,20.58,12.18,-5.42%
 120,HMY,Harmony Gold Mining Co Ltd ADR,-,Basic Materials,Gold,South Africa,10160.39,17.75,3.9,0.83,0.014,-999,-999,1.25,0.05,0.153,0.897,0.989,1.02,3/4/2025 8:30,7479.87,13.04,16.33,11.17%
 121,YMM,Full Truck Alliance Co Ltd ADR,-,Technology,Software - Application,China,9725,25.36,5.52,3.05,0.014,-0.452,0.057,1.69,0,0.273,-0.024,-0.043,0.25,3/5/2025 8:30,8622.55,16.4,10.35,-1.38%
 122,PAM,Pampa Energia SA ADR,-,Utilities,Utilities - Independent Power Producers,Argentina,3604.97,5.73,60.48,30.7,,6.765,0.076,0.49,0.64,0.333,-0.285,-0.246,1.18,3/5/2025 16:30,253.23,102,66.28,-4.73%
 123,CNQ,Canadian Natural Resources Ltd,-,Energy,Oil & Gas E&P,Canada,54978.26,12.56,13.05,0.04,0.062,0.009,0.037,5.29,0.51,0.171,-0.198,-0.152,1.08,3/6/2025 8:30,7754.33,37.24,26.18,-5.90%
 124,ADBE,Adobe Inc,"NDX, S&P 500",Technology,Software - Application,USA,148029.93,22.87,30.1,17.44,,0.022,0.009,2.72,0.5,0.306,-0.172,-0.219,1.55,3/12/2025 16:30,4021.96,520.71,347.33,-4.75%
 125,FUTU,Futu Holdings Ltd ADR,-,Financial,Capital Markets,Hong Kong,7119.44,15.27,26.53,113.95,,0.147,0.158,1.22,0.31,0.401,-0.016,-0.048,0.72,3/13/2025 8:30,3105.52,142.13,76.16,-5.03%
-126,DOCU,DocuSign Inc,-,Technology,Software - Application,USA,14780.38,14.27,9.89,4.76,,0.010,0.020,2.78,0.06,0.359,-0.185,-0.188,1.21,3/13/2025 16:30,2547.1,94,72.99,-7.12%
-127,TME,Tencent Music Entertainment Group ADR,-,Communication Services,Internet Content & Information,China,8966.78,21.7,5.91,5.33,0.008,0.037,0.030,3.44,0.09,0.234,0.174,0.129,0.47,3/18/2025 8:30,8566.78,16.46,12.81,1.38%
+126,DOCU,DocuSign Inc,-,Technology,Software - Application,USA,14780.38,14.27,9.89,4.76,,0.01,0.02,2.78,0.06,0.359,-0.185,-0.188,1.21,3/13/2025 16:30,2547.1,94,72.99,-7.12%
+127,TME,Tencent Music Entertainment Group ADR,-,Communication Services,Internet Content & Information,China,8966.78,21.7,5.91,5.33,0.008,0.037,0.03,3.44,0.09,0.234,0.174,0.129,0.47,3/18/2025 8:30,8566.78,16.46,12.81,1.38%
 128,ZTO,ZTO Express (Cayman) Inc ADR,-,Industrials,Integrated Freight & Logistics,China,10582.08,12.07,10.74,5.17,0.041,-0.119,0.109,5.44,0.28,0.199,-0.056,-0.086,-0.11,3/18/2025 16:30,2802.34,25.73,17.87,0.17%
-129,PDD,PDD Holdings Inc ADR,NDX,Consumer Cyclical,Internet Retail,China,125274,8.55,28.58,39.46,,0.016,-0.016,2.49,0.03,0.285,-0.101,-0.070,0.61,3/20/2025 8:30,10343.02,152,90.21,-4.19%
-130,FDS,Factset Research Systems Inc,S&P 500,Financial,Financial Data & Stock Exchanges,USA,15789.2,29.57,54.14,7.56,0.010,0.026,0.001,4.35,0.81,0.241,-0.092,-0.134,0.88,3/20/2025 8:30,316.81,450.88,416.08,-2.52%
+129,PDD,PDD Holdings Inc ADR,NDX,Consumer Cyclical,Internet Retail,China,125274,8.55,28.58,39.46,,0.016,-0.016,2.49,0.03,0.285,-0.101,-0.07,0.61,3/20/2025 8:30,10343.02,152,90.21,-4.19%
+130,FDS,Factset Research Systems Inc,S&P 500,Financial,Financial Data & Stock Exchanges,USA,15789.2,29.57,54.14,7.56,0.01,0.026,0.001,4.35,0.81,0.241,-0.092,-0.134,0.88,3/20/2025 8:30,316.81,450.88,416.08,-2.52%
 131,MNSO,MINISO Group Holding Ltd ADR,-,Consumer Cyclical,Specialty Retail,China,4751.05,13.16,4.37,2.97,0.044,0.099,-0.024,4.5,0.3,0.154,-0.381,-0.356,0.22,3/21/2025 8:30,1233.69,23.47,15.39,-3.57%
-132,TLK,Telkom Indonesia (Persero) Tbk PT ADR,-,Communication Services,Telecom Services,Indonesia,13915.24,9.63,9.06,1.82,0.080,0.031,-0.019,2.9,0.54,0.151,-0.138,-0.146,0.56,3/21/2025,809.09,21.41,14.05,-2.52%
+132,TLK,Telkom Indonesia (Persero) Tbk PT ADR,-,Communication Services,Telecom Services,Indonesia,13915.24,9.63,9.06,1.82,0.08,0.031,-0.019,2.9,0.54,0.151,-0.138,-0.146,0.56,3/21/2025 8:30,809.09,21.41,14.05,-2.52%
 133,EPAC,Enerpac Tool Group Corp,RUT,Industrials,Specialty Industrial Machinery,USA,2122.8,23.19,7.48,2.21,0.001,-0.033,0.015,3.55,0.47,0.155,-0.047,-0.045,1.21,3/24/2025 16:30,362.15,56,39.25,-3.56%
-134,ATAT,Atour Lifestyle Holdings Ltd ADR,-,Consumer Cyclical,Lodging,China,2596.3,18.01,2.69,5.92,0.020,0.032,0.050,4.3,0.59,0.176,-0.111,-0.146,0.7,3/25/2025 8:30,1171.6,36.55,22.97,-0.13%
-135,PAYX,Paychex Inc,"NDX, S&P 500",Technology,Software - Application,USA,51295.65,29.62,11.43,4.58,0.027,0.007,0.000,6.28,0.21,0.320,0.015,0.016,0.91,3/26/2025 8:30,2205.65,146.38,142.41,-2.56%
+134,ATAT,Atour Lifestyle Holdings Ltd ADR,-,Consumer Cyclical,Lodging,China,2596.3,18.01,2.69,5.92,0.02,0.032,0.05,4.3,0.59,0.176,-0.111,-0.146,0.7,3/25/2025 8:30,1171.6,36.55,22.97,-0.13%
+135,PAYX,Paychex Inc,"NDX, S&P 500",Technology,Software - Application,USA,51295.65,29.62,11.43,4.58,0.027,0.007,0,6.28,0.21,0.32,0.015,0.016,0.91,3/26/2025 8:30,2205.65,146.38,142.41,-2.56%
 136,SBS,Companhia de Saneamento Basico do Estado de Sao Paulo. ADR,-,Utilities,Utilities - Regulated Water,Brazil,12009.27,6.88,8.75,1.28,0.021,0.373,0.297,3.22,0.68,0.262,0.224,0.226,0.84,3/28/2025 16:30,955.03,21.32,17.57,0.63%
-137,BLK,Blackrock Inc,S&P 500,Financial,Asset Management,USA,132613.81,20.36,306.52,82.32,0.025,0.058,0.020,1.52,0.3,0.305,-0.133,-0.166,1.43,4/11/2025 8:30,965.9,1051.93,855.45,-4.64%
-138,FAST,Fastenal Co,"NDX, S&P 500",Industrials,Industrial Distribution,USA,43049.38,37.47,6.31,0.45,0.023,-0.036,-0.010,3.99,0.13,0.153,0.029,0.044,1.02,4/11/2025 8:30,3566.92,77,75.07,-1.83%
+137,BLK,Blackrock Inc,S&P 500,Financial,Asset Management,USA,132613.81,20.36,306.52,82.32,0.025,0.058,0.02,1.52,0.3,0.305,-0.133,-0.166,1.43,4/11/2025 8:30,965.9,1051.93,855.45,-4.64%
+138,FAST,Fastenal Co,"NDX, S&P 500",Industrials,Industrial Distribution,USA,43049.38,37.47,6.31,0.45,0.023,-0.036,-0.01,3.99,0.13,0.153,0.029,0.044,1.02,4/11/2025 8:30,3566.92,77,75.07,-1.83%
 139,JNJ,Johnson & Johnson,"DJIA, S&P 500",Healthcare,Drug Manufacturers - General,USA,356116.69,25.49,29.7,10.18,0.033,0.024,0.004,1.91,0.53,0.158,0.039,0.022,0.43,4/15/2025 8:30,10041.28,171.58,147.78,-2.12%
 140,ASML,ASML Holding NV,NDX,Technology,Semiconductor Equipment & Materials,Netherlands,251239.07,30.73,48.65,33.55,0.012,0.014,0.012,1.05,0.27,0.268,-0.141,-0.078,1.73,4/16/2025 8:30,1834.35,916.84,638.83,-7.05%
 141,PLD,Prologis Inc,S&P 500,Real Estate,REIT - Industrial,USA,90043.31,24.04,58.18,1.39,0.043,0.935,-0.003,2.98,0.62,0.454,-0.102,-0.104,1.28,4/16/2025 8:30,4549.13,126.55,94.75,-3.53%
@@ -146,43 +146,43 @@ No.,Symbol,Company,Index,Sector,Industry,Country,Market Cap,P/E,Book/sh,Cash/sh,
 145,SNA,"Snap-on, Inc",S&P 500,Industrials,Tools & Accessories,USA,16852.57,16.48,102.98,25.95,0.027,0.003,0.002,5.22,0.24,0.204,-0.046,-0.053,0.76,4/17/2025 8:30,421.77,349.83,321.51,-2.54%
 146,TSM,Taiwan Semiconductor Manufacturing ADR,-,Technology,Semiconductors,Taiwan,779439.28,21.36,25.42,14.25,0.018,-0.001,0.005,1.7,0.24,0.405,-0.274,-0.239,1.22,4/17/2025 8:30,18643.63,242.01,150.3,-5.32%
 147,SCHW,Charles Schwab Corp,S&P 500,Financial,Capital Markets,USA,136832.81,24.57,22.01,38.54,0.015,0.105,0.026,1.46,0.95,0.211,0.005,-0.008,0.91,4/17/2025 8:30,12558.34,85.32,73.39,-2.47%
-148,INFY,Infosys Ltd ADR,-,Technology,Information Technology Services,India,69982.43,21.15,2.49,0.87,0.035,-0.003,-0.002,8.29,0.09,0.173,-0.260,-0.231,0.97,4/17/2025 8:30,11908.49,21.93,16.85,-4.59%
+148,INFY,Infosys Ltd ADR,-,Technology,Information Technology Services,India,69982.43,21.15,2.49,0.87,0.035,-0.003,-0.002,8.29,0.09,0.173,-0.26,-0.231,0.97,4/17/2025 8:30,11908.49,21.93,16.85,-4.59%
 149,PNR,Pentair plc,S&P 500,Industrials,Specialty Industrial Machinery,United Kingdom,13360.89,21.64,21.62,0.72,0.012,0.059,0.001,1.95,0.5,0.153,-0.186,-0.195,1.12,4/22/2025 8:30,1650.42,109.89,80.99,-3.62%
-150,PHM,PulteGroup Inc,S&P 500,Consumer Cyclical,Residential Construction,USA,18812.95,6.34,59.74,8.2,0.009,0.360,0.062,2.41,0.19,0.172,-0.155,-0.143,1.39,4/22/2025 8:30,2380.17,134,93.32,-3.96%
+150,PHM,PulteGroup Inc,S&P 500,Consumer Cyclical,Residential Construction,USA,18812.95,6.34,59.74,8.2,0.009,0.36,0.062,2.41,0.19,0.172,-0.155,-0.143,1.39,4/22/2025 8:30,2380.17,134,93.32,-3.96%
 151,DHR,Danaher Corp,S&P 500,Healthcare,Diagnostics & Research,USA,128344.55,33.92,68.9,2.9,0.007,-0.008,0.014,1.3,0.35,0.163,-0.247,-0.219,0.82,4/22/2025 8:30,4654,258.48,179.39,-6.51%
-152,SYF,Synchrony Financial,S&P 500,Financial,Credit Services,USA,18076.86,5.45,39.56,37.84,0.023,-0.010,-0.007,2.58,0.93,0.165,-0.293,-0.285,1.42,4/22/2025 8:30,4779.26,68.52,46.5,-7.88%
-153,CHKP,Check Point Software Technologies Ltd,-,Technology,Software - Infrastructure,Israel,23176.78,28.69,25.74,12.66,,0.017,0.007,2.95,0.01,0.330,0.168,0.146,0.67,4/23/2025 8:30,1018.19,242.43,213.87,-2.52%
-154,CME,CME Group Inc,S&P 500,Financial,Financial Data & Stock Exchanges,USA,93346.33,26.78,73.66,8.36,0.040,0.030,0.007,2.32,0.14,0.568,0.130,0.115,0.47,4/23/2025 8:30,2448.94,268.18,259.02,1.92%
-155,APH,Amphenol Corp,S&P 500,Technology,Electronic Components,USA,77487.48,33.34,8.1,2.75,0.010,0.096,0.060,1.69,0.74,0.159,-0.110,-0.079,1.12,4/23/2025 8:30,8751.39,82.2,63.94,-3.38%
-156,GGG,Graco Inc,-,Industrials,Specialty Industrial Machinery,USA,13022.17,27.47,15.26,4.02,0.015,-0.163,-0.015,2.35,0.02,0.230,-0.059,-0.081,1.1,4/23/2025 16:30,888.93,90.86,77.45,-1.96%
+152,SYF,Synchrony Financial,S&P 500,Financial,Credit Services,USA,18076.86,5.45,39.56,37.84,0.023,-0.01,-0.007,2.58,0.93,0.165,-0.293,-0.285,1.42,4/22/2025 8:30,4779.26,68.52,46.5,-7.88%
+153,CHKP,Check Point Software Technologies Ltd,-,Technology,Software - Infrastructure,Israel,23176.78,28.69,25.74,12.66,,0.017,0.007,2.95,0.01,0.33,0.168,0.146,0.67,4/23/2025 8:30,1018.19,242.43,213.87,-2.52%
+154,CME,CME Group Inc,S&P 500,Financial,Financial Data & Stock Exchanges,USA,93346.33,26.78,73.66,8.36,0.04,0.03,0.007,2.32,0.14,0.568,0.13,0.115,0.47,4/23/2025 8:30,2448.94,268.18,259.02,1.92%
+155,APH,Amphenol Corp,S&P 500,Technology,Electronic Components,USA,77487.48,33.34,8.1,2.75,0.01,0.096,0.06,1.69,0.74,0.159,-0.11,-0.079,1.12,4/23/2025 8:30,8751.39,82.2,63.94,-3.38%
+156,GGG,Graco Inc,-,Industrials,Specialty Industrial Machinery,USA,13022.17,27.47,15.26,4.02,0.015,-0.163,-0.015,2.35,0.02,0.23,-0.059,-0.081,1.1,4/23/2025 16:30,888.93,90.86,77.45,-1.96%
 157,NEU,NewMarket Corp,-,Basic Materials,Specialty Chemicals,USA,5185.58,11.34,153.45,8.17,0.019,-999,-999,2.19,0.73,0.165,0.116,0.035,0.44,4/23/2025 16:30,48.92,651,546.65,-0.55%
-158,EW,Edwards Lifesciences Corp,S&P 500,Healthcare,Medical Devices,USA,40015.01,27.89,16.99,6.79,,0.071,0.020,2.01,0.07,0.256,-0.079,-0.077,1.13,4/23/2025 16:30,4739.45,79.55,68.31,-2.27%
+158,EW,Edwards Lifesciences Corp,S&P 500,Healthcare,Medical Devices,USA,40015.01,27.89,16.99,6.79,,0.071,0.02,2.01,0.07,0.256,-0.079,-0.077,1.13,4/23/2025 16:30,4739.45,79.55,68.31,-2.27%
 159,LRCX,Lam Research Corp,"NDX, S&P 500",Technology,Semiconductor Equipment & Materials,USA,83938.65,19.87,6.85,4.41,0.014,0.036,0.014,1.75,0.57,0.265,-0.151,-0.095,1.65,4/23/2025 16:30,13502.73,96.88,65.39,-8.04%
-160,TXN,Texas Instruments Inc,"NDX, S&P 500",Technology,Semiconductors,USA,139836.15,29.57,18.55,8.33,0.036,0.076,0.032,2.25,0.85,0.305,-0.198,-0.180,0.95,4/23/2025 16:30,7413.35,203.52,153.68,-9.33%
-161,NEM,Newmont Corp,S&P 500,Basic Materials,Gold,USA,57433.77,17.44,26.56,3.23,0.020,0.293,0.098,1.83,0.3,0.179,0.302,0.369,0.33,4/23/2025 16:30,11271.8,55.64,50.95,4.51%
-162,DFS,Discover Financial Services,S&P 500,Financial,Credit Services,USA,39807.73,10.16,67.12,,0.018,0.417,0.085,2.27,0.91,0.165,-0.100,-0.087,1.15,4/23/2025 16:30,2219.71,196.38,158.21,-7.40%
-163,EGP,"Eastgroup Properties, Inc",-,Real Estate,REIT - Industrial,USA,7894.12,32.58,63.52,0.34,0.038,0.010,-0.014,3.45,0.48,0.354,-0.044,-0.055,1.08,4/23/2025 16:30,506.45,195.53,151.74,-2.92%
-164,SEIC,SEI Investments Co,-,Financial,Asset Management,USA,8985.91,16.04,17.76,6.85,0.014,-0.010,0.005,4.49,0.01,0.273,-0.131,-0.142,0.92,4/23/2025 16:30,726.66,81,70.78,-3.08%
-165,NDAQ,Nasdaq Inc,S&P 500,Financial,Financial Data & Stock Exchanges,USA,40447.09,36.47,19.46,1.08,0.015,0.017,0.001,1.95,0.89,0.151,-0.099,-0.090,1.02,4/24/2025 8:30,3119.34,85.29,70.32,-2.31%
+160,TXN,Texas Instruments Inc,"NDX, S&P 500",Technology,Semiconductors,USA,139836.15,29.57,18.55,8.33,0.036,0.076,0.032,2.25,0.85,0.305,-0.198,-0.18,0.95,4/23/2025 16:30,7413.35,203.52,153.68,-9.33%
+161,NEM,Newmont Corp,S&P 500,Basic Materials,Gold,USA,57433.77,17.44,26.56,3.23,0.02,0.293,0.098,1.83,0.3,0.179,0.302,0.369,0.33,4/23/2025 16:30,11271.8,55.64,50.95,4.51%
+162,DFS,Discover Financial Services,S&P 500,Financial,Credit Services,USA,39807.73,10.16,67.12,,0.018,0.417,0.085,2.27,0.91,0.165,-0.1,-0.087,1.15,4/23/2025 16:30,2219.71,196.38,158.21,-7.40%
+163,EGP,"Eastgroup Properties, Inc",-,Real Estate,REIT - Industrial,USA,7894.12,32.58,63.52,0.34,0.038,0.01,-0.014,3.45,0.48,0.354,-0.044,-0.055,1.08,4/23/2025 16:30,506.45,195.53,151.74,-2.92%
+164,SEIC,SEI Investments Co,-,Financial,Asset Management,USA,8985.91,16.04,17.76,6.85,0.014,-0.01,0.005,4.49,0.01,0.273,-0.131,-0.142,0.92,4/23/2025 16:30,726.66,81,70.78,-3.08%
+165,NDAQ,Nasdaq Inc,S&P 500,Financial,Financial Data & Stock Exchanges,USA,40447.09,36.47,19.46,1.08,0.015,0.017,0.001,1.95,0.89,0.151,-0.099,-0.09,1.02,4/24/2025 8:30,3119.34,85.29,70.32,-2.31%
 166,MRK,Merck & Co Inc,"DJIA, S&P 500",Healthcare,Drug Manufacturers - General,USA,194504.78,11.43,18.32,5.45,0.043,0.069,0.009,2.24,0.83,0.268,-0.229,-0.226,0.46,4/24/2025 8:30,16956.36,112.53,77,-5.99%
-167,PG,Procter & Gamble Co,"DJIA, S&P 500",Consumer Defensive,Household & Personal Products,USA,382773.62,26.01,21.49,4.36,0.025,0.012,0.014,2.08,0.68,0.180,0.007,-0.026,0.42,4/24/2025 8:30,8218.55,180.67,163.24,0.57%
-168,AEM,Agnico Eagle Mines Ltd,-,Basic Materials,Gold,Canada,56731.7,29.69,41.52,1.85,0.013,0.076,-0.020,2.78,0.06,0.229,0.346,0.435,0.55,4/24/2025 16:30,2737.91,119.33,112.22,6.07%
-169,MGRC,McGrath Rentcorp,RUT,Industrials,Rental & Leasing Services,USA,2497.84,10.79,45.76,0.03,0.019,0.063,-0.013,2.42,0.54,0.254,-0.089,-0.090,0.66,4/24/2025 16:30,153.55,145,101.74,-5.11%
-170,FHI,Federated Hermes Inc,-,Financial,Asset Management,USA,2972.77,11.46,13.39,7.92,0.035,0.070,0.012,2.83,0.42,0.155,-0.070,-0.111,0.77,4/24/2025 16:30,916.5,40,36.56,-3.15%
+167,PG,Procter & Gamble Co,"DJIA, S&P 500",Consumer Defensive,Household & Personal Products,USA,382773.62,26.01,21.49,4.36,0.025,0.012,0.014,2.08,0.68,0.18,0.007,-0.026,0.42,4/24/2025 8:30,8218.55,180.67,163.24,0.57%
+168,AEM,Agnico Eagle Mines Ltd,-,Basic Materials,Gold,Canada,56731.7,29.69,41.52,1.85,0.013,0.076,-0.02,2.78,0.06,0.229,0.346,0.435,0.55,4/24/2025 16:30,2737.91,119.33,112.22,6.07%
+169,MGRC,McGrath Rentcorp,RUT,Industrials,Rental & Leasing Services,USA,2497.84,10.79,45.76,0.03,0.019,0.063,-0.013,2.42,0.54,0.254,-0.089,-0.09,0.66,4/24/2025 16:30,153.55,145,101.74,-5.11%
+170,FHI,Federated Hermes Inc,-,Financial,Asset Management,USA,2972.77,11.46,13.39,7.92,0.035,0.07,0.012,2.83,0.42,0.155,-0.07,-0.111,0.77,4/24/2025 16:30,916.5,40,36.56,-3.15%
 171,GNTX,Gentex Corp,-,Consumer Cyclical,Auto Parts,USA,4718.69,11.89,10.86,1.13,0.023,-0.197,-0.098,3.18,0,0.172,-0.233,-0.274,0.85,4/25/2025 8:30,2353.6,28.28,20.85,-4.33%
-172,ROP,Roper Technologies Inc,"NDX, S&P 500",Technology,Software - Application,USA,58425.07,37.93,175.84,1.75,0.006,0.017,0.022,1.93,0.41,0.220,0.066,0.047,1.08,4/28/2025 8:30,672.36,636.92,544.07,-1.75%
+172,ROP,Roper Technologies Inc,"NDX, S&P 500",Technology,Software - Application,USA,58425.07,37.93,175.84,1.75,0.006,0.017,0.022,1.93,0.41,0.22,0.066,0.047,1.08,4/28/2025 8:30,672.36,636.92,544.07,-1.75%
 173,SPGI,S&P Global Inc,S&P 500,Financial,Financial Data & Stock Exchanges,USA,143723.31,37.08,105.27,5.37,0.008,0.087,0.027,1.81,0.36,0.271,-0.077,-0.081,1.24,4/29/2025 8:30,1465.47,593.68,457.95,-3.38%
-174,REGN,"Regeneron Pharmaceuticals, Inc","NDX, S&P 500",Healthcare,Biotechnology,USA,59638.81,14.25,267.82,82.44,0.005,0.070,0.013,2.77,0.1,0.311,-0.256,-0.234,0.44,4/29/2025 8:30,1006.95,922.82,545.52,-5.41%
+174,REGN,"Regeneron Pharmaceuticals, Inc","NDX, S&P 500",Healthcare,Biotechnology,USA,59638.81,14.25,267.82,82.44,0.005,0.07,0.013,2.77,0.1,0.311,-0.256,-0.234,0.44,4/29/2025 8:30,1006.95,922.82,545.52,-5.41%
 175,CVLT,Commvault Systems Inc,RUT,Technology,Software - Application,USA,6654.9,39.71,6.54,5.54,,0.078,0.069,3.69,0.04,0.181,-0.042,0.002,0.72,4/29/2025 8:30,503.04,180.71,151.26,-4.10%
-176,STAG,STAG Industrial Inc,-,Real Estate,REIT - Industrial,USA,5810.71,29.46,18.54,0.2,0.050,0.412,0.029,3.18,0.9,0.246,-0.084,-0.098,0.94,4/29/2025 16:30,1564.05,38.92,30.52,-5.07%
+176,STAG,STAG Industrial Inc,-,Real Estate,REIT - Industrial,USA,5810.71,29.46,18.54,0.2,0.05,0.412,0.029,3.18,0.9,0.246,-0.084,-0.098,0.94,4/29/2025 16:30,1564.05,38.92,30.52,-5.07%
 177,EXR,Extra Space Storage Inc,S&P 500,Real Estate,REIT - Industrial,USA,29077.85,32.55,65.79,0.62,0.051,0.151,-0.007,2.62,0.94,0.262,-0.113,-0.123,1.17,4/29/2025 16:30,1369.9,162.72,131.23,-3.29%
 178,GRMN,Garmin Ltd,S&P 500,Technology,Scientific & Technical Instruments,Switzerland,35934.77,25.57,40.78,13,0.018,0.178,0.073,2.77,0.02,0.224,-0.117,-0.095,1.01,4/30/2025 8:30,1077.17,195.5,186.77,-3.08%
-179,ADP,Automatic Data Processing Inc,"NDX, S&P 500",Technology,Software - Application,USA,117942.53,30.24,12.48,5.45,0.020,0.025,0.016,2.99,0.86,0.198,-0.007,-0.010,0.78,4/30/2025 8:30,1938.82,313,289.88,-1.63%
+179,ADP,Automatic Data Processing Inc,"NDX, S&P 500",Technology,Software - Application,USA,117942.53,30.24,12.48,5.45,0.02,0.025,0.016,2.99,0.86,0.198,-0.007,-0.01,0.78,4/30/2025 8:30,1938.82,313,289.88,-1.63%
 180,META,Meta Platforms Inc,"NDX, S&P 500",Communication Services,Internet Content & Information,USA,1387469.82,22.89,72.07,30.85,0.003,0.187,0.029,1.5,0.27,0.379,-0.103,-0.065,1.22,4/30/2025 16:30,18105.42,742.44,547.61,-6.51%
-181,QCOM,"Qualcomm, Inc","NDX, S&P 500",Technology,Semiconductors,USA,147429.81,14.25,24.3,12.93,0.027,0.153,0.070,1.95,0.54,0.259,-0.162,-0.132,1.3,4/30/2025 16:30,8562.84,197.17,133.3,-7.17%
+181,QCOM,"Qualcomm, Inc","NDX, S&P 500",Technology,Semiconductors,USA,147429.81,14.25,24.3,12.93,0.027,0.153,0.07,1.95,0.54,0.259,-0.162,-0.132,1.3,4/30/2025 16:30,8562.84,197.17,133.3,-7.17%
 182,TS,Tenaris S.A. ADR,-,Energy,Oil & Gas Equipment & Services,Luxembourg,17146.73,8.63,30.61,5.53,0.053,0.371,0.047,2.85,0.04,0.163,-0.198,-0.177,1.25,4/30/2025 16:30,1670.02,43.11,31.12,-4.69%
 183,MORN,Morningstar Inc,-,Financial,Financial Data & Stock Exchanges,USA,11471.22,31.26,37.76,12.88,0.007,0.038,0.018,1.42,0.56,0.163,-0.168,-0.204,1,4/30/2025 16:30,173.13,346.67,268.19,-3.66%
 184,AVB,Avalonbay Communities Inc,S&P 500,Real Estate,REIT - Residential,USA,27393.15,25.35,83.94,1.88,0.037,0.523,-0.096,3.77,0.69,0.365,-0.094,-0.125,0.89,4/30/2025 16:30,750.6,236.7,192.41,-3.98%
 185,VICI,VICI Properties Inc,S&P 500,Real Estate,REIT - Diversified,USA,31842.67,11.78,25.12,0.5,0.059,-0.142,0.006,4.13,0.67,0.696,0.045,0.032,0.78,4/30/2025 16:30,7389.1,36.19,30.13,-2.13%
-186,BNL,Broadstone Net Lease Inc,RUT,Real Estate,REIT - Diversified,USA,2796.07,17.35,15.92,0.08,0.079,-0.271,0.029,3.74,0.66,0.367,-0.050,-0.068,1.07,4/30/2025 16:30,1358.67,18.78,14.79,-3.71%
-187,MAA,"Mid-America Apartment Communities, Inc",S&P 500,Real Estate,REIT - Residential,USA,18385.19,34.17,51.03,0.47,0.040,0.441,-0.003,4.5,0.84,0.239,0.026,-0.009,0.81,4/30/2025 16:30,871,168.19,153.24,-2.92%
+186,BNL,Broadstone Net Lease Inc,RUT,Real Estate,REIT - Diversified,USA,2796.07,17.35,15.92,0.08,0.079,-0.271,0.029,3.74,0.66,0.367,-0.05,-0.068,1.07,4/30/2025 16:30,1358.67,18.78,14.79,-3.71%
+187,MAA,"Mid-America Apartment Communities, Inc",S&P 500,Real Estate,REIT - Residential,USA,18385.19,34.17,51.03,0.47,0.04,0.441,-0.003,4.5,0.84,0.239,0.026,-0.009,0.81,4/30/2025 16:30,871,168.19,153.24,-2.92%
