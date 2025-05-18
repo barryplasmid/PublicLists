@@ -1,291 +1,291 @@
 Ticker,Company,Sector,Industry,Earnings Date,Time,Date,Purchase date,Sell Date
-CALM,"Cal-Maine Foods, Inc",Consumer Defensive,Farm Products,4/8/2025 16:30,16:30,04/08//2025,4/8/25,4/9/25
-BLK,Blackrock Inc,Financial,Asset Management,4/11/2025 8:30,08:30,04/11//2025,4/10/25,4/11/25
-MTB,M & T Bank Corp,Financial,Banks - Regional,4/14/2025 8:30,08:30,04/14//2025,4/11/25,4/14/25
-FBK,FB Financial Corp,Financial,Banks - Regional,4/14/2025 16:30,16:30,04/14//2025,4/14/25,4/15/25
-PNFP,Pinnacle Financial Partners Inc,Financial,Banks - Regional,4/14/2025 16:30,16:30,04/14//2025,4/14/25,4/15/25
-JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,4/15/2025 8:30,08:30,04/15//2025,4/14/25,4/15/25
-FULT,Fulton Financial Corp,Financial,Banks - Regional,4/15/2025 16:30,16:30,04/15//2025,4/15/25,4/16/25
-HWC,Hancock Whitney Corp,Financial,Banks - Regional,4/15/2025 16:30,16:30,04/15//2025,4/15/25,4/16/25
-ABT,Abbott Laboratories,Healthcare,Medical Devices,4/16/2025 8:30,08:30,04/16//2025,4/15/25,4/16/25
-ASML,ASML Holding NV,Technology,Semiconductor Equipment & Materials,4/16/2025 8:30,08:30,04/16//2025,4/15/25,4/16/25
-CBSH,"Commerce Bancshares, Inc",Financial,Banks - Regional,4/16/2025 8:30,08:30,04/16//2025,4/15/25,4/16/25
-FHN,First Horizon Corporation,Financial,Banks - Regional,4/16/2025 8:30,08:30,04/16//2025,4/15/25,4/16/25
-PLD,Prologis Inc,Real Estate,REIT - Industrial,4/16/2025 8:30,08:30,04/16//2025,4/15/25,4/16/25
-BANR,Banner Corp,Financial,Banks - Regional,4/16/2025 16:30,16:30,04/16//2025,4/16/25,4/17/25
-CNS,Cohen & Steers Inc,Financial,Asset Management,4/16/2025 16:30,16:30,04/16//2025,4/16/25,4/17/25
-FNB,F.N.B. Corp,Financial,Banks - Regional,4/16/2025 16:30,16:30,04/16//2025,4/16/25,4/17/25
-FR,"First Industrial Realty Trust, Inc",Real Estate,REIT - Industrial,4/16/2025 16:30,16:30,04/16//2025,4/16/25,4/17/25
-HOMB,Home Bancshares Inc,Financial,Banks - Regional,4/16/2025 16:30,16:30,04/16//2025,4/16/25,4/17/25
-OZK,Bank OZK,Financial,Banks - Regional,4/16/2025 16:30,16:30,04/16//2025,4/16/25,4/17/25
-REXR,Rexford Industrial Realty Inc,Real Estate,REIT - Industrial,4/16/2025 16:30,16:30,04/16//2025,4/16/25,4/17/25
-FITB,Fifth Third Bancorp,Financial,Banks - Regional,4/17/2025 8:30,08:30,04/17//2025,4/16/25,4/17/25
-HBAN,"Huntington Bancshares, Inc",Financial,Banks - Regional,4/17/2025 8:30,08:30,04/17//2025,4/16/25,4/17/25
-RF,Regions Financial Corp,Financial,Banks - Regional,4/17/2025 8:30,08:30,04/17//2025,4/16/25,4/17/25
-SCHW,Charles Schwab Corp,Financial,Capital Markets,4/17/2025 8:30,08:30,04/17//2025,4/16/25,4/17/25
-SNA,"Snap-on, Inc",Industrials,Tools & Accessories,4/17/2025 8:30,08:30,04/17//2025,4/16/25,4/17/25
-TFC,Truist Financial Corporation,Financial,Banks - Regional,4/17/2025 8:30,08:30,04/17//2025,4/16/25,4/17/25
-BANF,Bancfirst Corp,Financial,Banks - Regional,4/17/2025 16:30,16:30,04/17//2025,4/17/25,4/21/25
-FFIN,"First Financial Bankshares, Inc",Financial,Banks - Regional,4/17/2025 16:30,16:30,04/17//2025,4/17/25,4/21/25
-INDB,Independent Bank Corp,Financial,Banks - Regional,4/17/2025 16:30,16:30,04/17//2025,4/17/25,4/21/25
-INFY,Infosys Ltd ADR,Technology,Information Technology Services,4/17/2025 16:30,16:30,04/17//2025,4/17/25,4/21/25
-TSM,Taiwan Semiconductor Manufacturing ADR,Technology,Semiconductors,4/17/2025 16:30,16:30,04/17//2025,4/17/25,4/21/25
-IBN,ICICI Bank Ltd. ADR,Financial,Banks - Regional,4/19/2025 16:30,16:30,04/19//2025,4/17/25,4/21/25
-TLK,Telkom Indonesia (Persero) Tbk PT ADR,Communication Services,Telecom Services,4/21/2025,00:00,04/21//2025,4/21/25,4/22/25
-BOKF,BOK Financial Corp,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/25,4/22/25
-CADE,Cadence Bank,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/25,4/22/25
-CATY,Cathay General Bancorp,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/25,4/22/25
-MEDP,Medpace Holdings Inc,Healthcare,Diagnostics & Research,4/21/2025 16:30,16:30,04/21//2025,4/21/25,4/22/25
-WAL,Western Alliance Bancorp,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/25,4/22/25
-WTFC,Wintrust Financial Corp,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/25,4/22/25
-ZION,Zions Bancorporation N.A,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/25,4/22/25
-DHR,Danaher Corp,Healthcare,Diagnostics & Research,4/22/2025 8:30,08:30,04/22//2025,4/21/25,4/22/25
-MLI,"Mueller Industries, Inc",Industrials,Metal Fabrication,4/22/2025 8:30,08:30,04/22//2025,4/21/25,4/22/25
-NVR,NVR Inc,Consumer Cyclical,Residential Construction,4/22/2025 8:30,08:30,04/22//2025,4/21/25,4/22/25
-ONB,Old National Bancorp,Financial,Banks - Regional,4/22/2025 8:30,08:30,04/22//2025,4/21/25,4/22/25
-PHM,PulteGroup Inc,Consumer Cyclical,Residential Construction,4/22/2025 8:30,08:30,04/22//2025,4/21/25,4/22/25
-PNR,Pentair plc,Industrials,Specialty Industrial Machinery,4/22/2025 8:30,08:30,04/22//2025,4/21/25,4/22/25
-UCB,United Community Banks Inc,Financial,Banks - Regional,4/22/2025 8:30,08:30,04/22//2025,4/21/25,4/22/25
-ASR,Grupo Aeroportuario Del Sureste S.A. ADR,Industrials,Airports & Air Services,4/22/2025 16:30,16:30,04/22//2025,4/22/25,4/23/25
-EWBC,"East West Bancorp, Inc",Financial,Banks - Regional,4/22/2025 16:30,16:30,04/22//2025,4/22/25,4/23/25
-RNST,Renasant Corp,Financial,Banks - Regional,4/22/2025 16:30,16:30,04/22//2025,4/22/25,4/23/25
-APH,Amphenol Corp,Technology,Electronic Components,4/23/2025 8:30,08:30,04/23//2025,4/22/25,4/23/25
-BPOP,Popular Inc,Financial,Banks - Regional,4/23/2025 8:30,08:30,04/23//2025,4/22/25,4/23/25
-CME,CME Group Inc,Financial,Financial Data & Stock Exchanges,4/23/2025 8:30,08:30,04/23//2025,4/22/25,4/23/25
-FHB,First Hawaiian INC,Financial,Banks - Regional,4/23/2025 8:30,08:30,04/23//2025,4/22/25,4/23/25
-ODFL,"Old Dominion Freight Line, Inc",Industrials,Trucking,4/23/2025 8:30,08:30,04/23//2025,4/22/25,4/23/25
-PB,Prosperity Bancshares Inc,Financial,Banks - Regional,4/23/2025 8:30,08:30,04/23//2025,4/22/25,4/23/25
-TMO,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research,4/23/2025 8:30,08:30,04/23//2025,4/22/25,4/23/25
-VTMX,Corporacion Inmobiliaria Vesta Sab ADR,Real Estate,Real Estate - Development,4/23/2025 8:30,08:30,04/23//2025,4/22/25,4/23/25
-CSL,Carlisle Companies Inc,Industrials,Building Products & Equipment,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-DFS,Discover Financial Services,Financial,Credit Services,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-EGP,"Eastgroup Properties, Inc",Real Estate,REIT - Industrial,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-EPRT,Essential Properties Realty Trust Inc,Real Estate,REIT - Retail,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-EW,Edwards Lifesciences Corp,Healthcare,Medical Devices,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-GGG,Graco Inc,Industrials,Specialty Industrial Machinery,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-JOE,St. Joe Co,Real Estate,Real Estate - Diversified,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-LRCX,Lam Research Corp,Technology,Semiconductor Equipment & Materials,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-MTDR,Matador Resources Co,Energy,Oil & Gas E&P,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-NEM,Newmont Corp,Basic Materials,Gold,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-NEU,NewMarket Corp,Basic Materials,Specialty Chemicals,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-RLI,RLI Corp,Financial,Insurance - Property & Casualty,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-RMD,Resmed Inc,Healthcare,Medical Instruments & Supplies,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-SEIC,SEI Investments Co,Financial,Asset Management,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-TOWN,Townebank Portsmouth VA,Financial,Banks - Regional,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-TXN,Texas Instruments Inc,Technology,Semiconductors,4/23/2025 16:30,16:30,04/23//2025,4/23/25,4/24/25
-DOV,Dover Corp,Industrials,Specialty Industrial Machinery,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-FBP,First Bancorp PR,Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-FRME,First Merchants Corp,Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-MRK,Merck & Co Inc,Healthcare,Drug Manufacturers - General,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-NDAQ,Nasdaq Inc,Financial,Financial Data & Stock Exchanges,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-PG,Procter & Gamble Co,Consumer Defensive,Household & Personal Products,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-PPBI,"Pacific Premier Bancorp, Inc",Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-UBSI,"United Bankshares, Inc",Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-WBS,Webster Financial Corp,Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-WST,"West Pharmaceutical Services, Inc",Healthcare,Medical Instruments & Supplies,4/24/2025 8:30,08:30,04/24//2025,4/23/25,4/24/25
-AEM,Agnico Eagle Mines Ltd,Basic Materials,Gold,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-APPF,Appfolio Inc,Technology,Software - Application,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-COLB,"Columbia Banking System, Inc",Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-ERIE,Erie Indemnity Co,Financial,Insurance Brokers,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-FFBC,First Financial Bancorp,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-FHI,Federated Hermes Inc,Financial,Asset Management,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-GOOG,Alphabet Inc,Communication Services,Internet Content & Information,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-GOOGL,Alphabet Inc,Communication Services,Internet Content & Information,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-MGRC,McGrath Rentcorp,Industrials,Rental & Leasing Services,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-NBTB,NBT Bancorp. Inc,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-SBCF,Seacoast Banking Corp. Of Florida,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-SSB,SouthState Corporation,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-TBBK,Bancorp Inc,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-WSFS,WSFS Financial Corp,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/25,4/25/25
-GNTX,Gentex Corp,Consumer Cyclical,Auto Parts,4/25/2025 8:30,08:30,04/25//2025,4/24/25,4/25/25
-SCCO,Southern Copper Corporation,Basic Materials,Copper,4/25/2025 8:30,08:30,04/25//2025,4/24/25,4/25/25
-PRK,Park National Corp,Financial,Banks - Regional,4/25/2025 16:30,16:30,04/25//2025,4/25/25,4/28/25
-ABCB,Ameris Bancorp,Financial,Banks - Regional,4/28/2025 16:30,16:30,04/28//2025,4/28/25,4/29/25
-BRO,"Brown & Brown, Inc",Financial,Insurance Brokers,4/28/2025 16:30,16:30,04/28//2025,4/28/25,4/29/25
-FFIV,F5 Inc,Technology,Software - Infrastructure,4/28/2025 16:30,16:30,04/28//2025,4/28/25,4/29/25
-OMAB,Grupo Aeroportuario del Centro Norte S.A.B de C.V. ADR,Industrials,Airports & Air Services,4/28/2025 16:30,16:30,04/28//2025,4/28/25,4/29/25
-PDD,PDD Holdings Inc ADR,Consumer Cyclical,Internet Retail,4/28/2025 16:30,16:30,04/28//2025,4/28/25,4/29/25
-RMBS,Rambus Inc,Technology,Semiconductors,4/28/2025 16:30,16:30,04/28//2025,4/28/25,4/29/25
-TER,"Teradyne, Inc",Technology,Semiconductor Equipment & Materials,4/28/2025 16:30,16:30,04/28//2025,4/28/25,4/29/25
-AWI,Armstrong World Industries Inc,Industrials,Building Products & Equipment,4/29/2025 8:30,08:30,04/29//2025,4/28/25,4/29/25
-CBU,Community Financial System Inc,Financial,Banks - Regional,4/29/2025 8:30,08:30,04/29//2025,4/28/25,4/29/25
-NVS,Novartis AG ADR,Healthcare,Drug Manufacturers - General,4/29/2025 8:30,08:30,04/29//2025,4/28/25,4/29/25
-REGN,"Regeneron Pharmaceuticals, Inc",Healthcare,Biotechnology,4/29/2025 8:30,08:30,04/29//2025,4/28/25,4/29/25
-SPGI,S&P Global Inc,Financial,Financial Data & Stock Exchanges,4/29/2025 8:30,08:30,04/29//2025,4/28/25,4/29/25
-ACGL,Arch Capital Group Ltd,Financial,Insurance - Diversified,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-APAM,Artisan Partners Asset Management Inc,Financial,Asset Management,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-EQR,Equity Residential Properties Trust,Real Estate,REIT - Residential,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-EXR,Extra Space Storage Inc,Real Estate,REIT - Industrial,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-FIBK,First Interstate BancSystem Inc,Financial,Banks - Regional,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-FSLR,First Solar Inc,Technology,Solar,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-MSA,MSA Safety Inc,Industrials,Security & Protection Services,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-NMIH,NMI Holdings Inc,Financial,Insurance - Specialty,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-NOG,Northern Oil and Gas Inc,Energy,Oil & Gas E&P,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-REG,Regency Centers Corporation,Real Estate,REIT - Retail,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-STAG,STAG Industrial Inc,Real Estate,REIT - Industrial,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-V,Visa Inc,Financial,Credit Services,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-WPC,W. P. Carey Inc,Real Estate,REIT - Diversified,4/29/2025 16:30,16:30,04/29//2025,4/29/25,4/30/25
-ADP,Automatic Data Processing Inc,Technology,Software - Application,4/30/2025 8:30,08:30,04/30//2025,4/29/25,4/30/25
-DTM,DT Midstream Inc,Energy,Oil & Gas Midstream,4/30/2025 8:30,08:30,04/30//2025,4/29/25,4/30/25
-GRMN,Garmin Ltd,Technology,Scientific & Technical Instruments,4/30/2025 8:30,08:30,04/30//2025,4/29/25,4/30/25
-HES,Hess Corporation,Energy,Oil & Gas E&P,4/30/2025 8:30,08:30,04/30//2025,4/29/25,4/30/25
-MLM,"Martin Marietta Materials, Inc",Basic Materials,Building Materials,4/30/2025 8:30,08:30,04/30//2025,4/29/25,4/30/25
-UTHR,United Therapeutics Corp,Healthcare,Drug Manufacturers - Specialty & Generic,4/30/2025 8:30,08:30,04/30//2025,4/29/25,4/30/25
-ACT,Enact Holdings Inc,Financial,Insurance - Specialty,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-AFL,Aflac Inc,Financial,Insurance - Life,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-AGI,Alamos Gold Inc,Basic Materials,Gold,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-AVB,Avalonbay Communities Inc,Real Estate,REIT - Residential,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-AX,Axos Financial Inc,Financial,Banks - Regional,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-BNL,Broadstone Net Lease Inc,Real Estate,REIT - Diversified,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-CP,Canadian Pacific Kansas City Limited,Industrials,Railroads,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-CWAN,Clearwater Analytics Holdings Inc,Technology,Software - Application,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-FCPT,Four Corners Property Trust Inc,Real Estate,REIT - Retail,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-GFL,GFL Environmental Inc,Industrials,Waste Management,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-GL,Globe Life Inc,Financial,Insurance - Life,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-GRBK,Green Brick Partners Inc,Consumer Cyclical,Residential Construction,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-MAA,"Mid-America Apartment Communities, Inc",Real Estate,REIT - Residential,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-META,Meta Platforms Inc,Communication Services,Internet Content & Information,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-MORN,Morningstar Inc,Financial,Financial Data & Stock Exchanges,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-MSFT,Microsoft Corporation,Technology,Software - Infrastructure,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-MTG,MGIC Investment Corp,Financial,Insurance - Specialty,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-PSA,Public Storage,Real Estate,REIT - Industrial,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-QCOM,"Qualcomm, Inc",Technology,Semiconductors,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-RDN,"Radian Group, Inc",Financial,Insurance - Specialty,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-RYN,Rayonier Inc,Real Estate,REIT - Specialty,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-TS,Tenaris S.A. ADR,Energy,Oil & Gas Equipment & Services,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-USLM,United States Lime & Minerals Inc,Basic Materials,Building Materials,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-VICI,VICI Properties Inc,Real Estate,REIT - Diversified,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-WHD,Cactus Inc,Energy,Oil & Gas Equipment & Services,4/30/2025 16:30,16:30,04/30//2025,4/30/25,5/1/25
-ALKS,Alkermes plc,Healthcare,Drug Manufacturers - Specialty & Generic,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-AME,Ametek Inc,Industrials,Specialty Industrial Machinery,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-BIIB,Biogen Inc,Healthcare,Drug Manufacturers - General,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-BVN,Compania de Minas Buenaventura S.A. ADR,Basic Materials,Other Precious Metals & Mining,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-CARR,Carrier Global Corp,Industrials,Building Products & Equipment,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-ICE,Intercontinental Exchange Inc,Financial,Financial Data & Stock Exchanges,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-IDCC,Interdigital Inc,Technology,Software - Application,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-JHG,Janus Henderson Group plc,Financial,Asset Management,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-KIM,Kimco Realty Corporation,Real Estate,REIT - Retail,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-LAUR,Laureate Education Inc,Consumer Defensive,Education & Training Services,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-LIN,Linde Plc,Basic Materials,Specialty Chemicals,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-MGY,Magnolia Oil & Gas Corp,Energy,Oil & Gas E&P,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-PH,Parker-Hannifin Corp,Industrials,Specialty Industrial Machinery,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-STNG,Scorpio Tankers Inc,Energy,Oil & Gas Midstream,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-TRI,Thomson-Reuters Corp,Industrials,Specialty Business Services,5/1/2025 8:30,08:30,05/01//2025,4/30/25,5/1/25
-ABNB,Airbnb Inc,Consumer Cyclical,Travel Services,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-AMH,American Homes 4 Rent,Real Estate,REIT - Residential,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-BMRN,Biomarin Pharmaceutical Inc,Healthcare,Biotechnology,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-CNI,Canadian National Railway Co,Industrials,Railroads,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-CTRE,CareTrust REIT Inc,Real Estate,REIT - Healthcare Facilities,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-DLB,Dolby Laboratories Inc,Industrials,Specialty Business Services,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-EGO,Eldorado Gold Corp,Basic Materials,Gold,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-EXPO,Exponent Inc,Industrials,Engineering & Construction,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-MPWR,Monolithic Power System Inc,Technology,Semiconductors,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-OHI,"Omega Healthcare Investors, Inc",Real Estate,REIT - Healthcare Facilities,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-OLED,Universal Display Corp,Technology,Electronic Components,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-PRDO,Perdoceo Education Corporation,Consumer Defensive,Education & Training Services,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-SM,SM Energy Co,Energy,Oil & Gas E&P,5/1/2025 16:30,16:30,05/01//2025,5/1/25,5/2/25
-CBOE,Cboe Global Markets Inc,Financial,Financial Data & Stock Exchanges,5/2/2025 8:30,08:30,05/02//2025,5/1/25,5/2/25
-EOG,"EOG Resources, Inc",Energy,Oil & Gas E&P,5/2/2025 8:30,08:30,05/02//2025,5/1/25,5/2/25
-ETN,Eaton Corporation plc,Industrials,Specialty Industrial Machinery,5/2/2025 8:30,08:30,05/02//2025,5/1/25,5/2/25
-NVT,nVent Electric plc,Industrials,Electrical Equipment & Parts,5/2/2025 8:30,08:30,05/02//2025,5/1/25,5/2/25
-TROW,T. Rowe Price Group Inc,Financial,Asset Management,5/2/2025 8:30,08:30,05/02//2025,5/1/25,5/2/25
-BRK.A,Berkshire Hathaway Inc,Financial,Insurance - Diversified,5/3/2025 16:30,16:30,05/03//2025,5/2/25,5/5/25
-BRK.B,Berkshire Hathaway Inc,Financial,Insurance - Diversified,5/5/2025 8:30,08:30,05/05//2025,5/2/25,5/5/25
-IBOC,International Bancshares Corp,Financial,Banks - Regional,5/5/2025 8:30,08:30,05/05//2025,5/2/25,5/5/25
-BSM,Black Stone Minerals L.P,Energy,Oil & Gas E&P,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-CTRA,Coterra Energy Inc,Energy,Oil & Gas E&P,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-FANG,Diamondback Energy Inc,Energy,Oil & Gas E&P,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-KRC,Kilroy Realty Corp,Real Estate,REIT - Office,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-NHI,"National Health Investors, Inc",Real Estate,REIT - Healthcare Facilities,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-OTTR,Otter Tail Corporation,Industrials,Conglomerates,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-PLMR,Palomar Holdings Inc,Financial,Insurance - Property & Casualty,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-SBRA,Sabra Healthcare REIT Inc,Real Estate,REIT - Healthcare Facilities,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-UPWK,Upwork Inc,Communication Services,Internet Content & Information,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-VNOM,Viper Energy Inc,Energy,Oil & Gas Midstream,5/5/2025 16:30,16:30,05/05//2025,5/5/25,5/6/25
-ACLS,Axcelis Technologies Inc,Technology,Semiconductor Equipment & Materials,5/6/2025 8:30,08:30,05/06//2025,5/5/25,5/6/25
-GPN,"Global Payments, Inc",Technology,Software - Infrastructure,5/6/2025 8:30,08:30,05/06//2025,5/5/25,5/6/25
-KRYS,Krystal Biotech Inc,Healthcare,Biotechnology,5/6/2025 8:30,08:30,05/06//2025,5/5/25,5/6/25
-WAT,Waters Corp,Healthcare,Diagnostics & Research,5/6/2025 8:30,08:30,05/06//2025,5/5/25,5/6/25
-CHRD,Chord Energy Corp,Energy,Oil & Gas E&P,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-CRC,California Resources Corporation,Energy,Oil & Gas E&P,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-CRUS,"Cirrus Logic, Inc",Technology,Semiconductors,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-DVN,Devon Energy Corp,Energy,Oil & Gas E&P,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-EA,"Electronic Arts, Inc",Communication Services,Electronic Gaming & Multimedia,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-JKHY,"Jack Henry & Associates, Inc",Technology,Information Technology Services,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-KGC,Kinross Gold Corp,Basic Materials,Gold,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-LOPE,Grand Canyon Education Inc,Consumer Defensive,Education & Training Services,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-POWL,"Powell Industries, Inc",Industrials,Electrical Equipment & Parts,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-QLYS,Qualys Inc,Technology,Software - Infrastructure,5/6/2025 16:30,16:30,05/06//2025,5/6/25,5/7/25
-B,Barrick Mining Corp,Basic Materials,Gold,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-BUR,Burford Capital Limited,Financial,Asset Management,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-LBRDA,Liberty Broadband Corp,Communication Services,Telecom Services,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-LBRDK,Liberty Broadband Corp,Communication Services,Telecom Services,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-LNTH,Lantheus Holdings Inc,Healthcare,Drug Manufacturers - Specialty & Generic,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-MGEE,"MGE Energy, Inc",Utilities,Utilities - Regulated Electric,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-MKTX,MarketAxess Holdings Inc,Financial,Capital Markets,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-NVO,Novo Nordisk ADR,Healthcare,Drug Manufacturers - General,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-TRMB,Trimble Inc,Technology,Scientific & Technical Instruments,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-UBER,Uber Technologies Inc,Technology,Software - Application,5/7/2025 8:30,08:30,05/07//2025,5/6/25,5/7/25
-ACAD,Acadia Pharmaceuticals Inc,Healthcare,Biotechnology,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-ADMA,Adma Biologics Inc,Healthcare,Biotechnology,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-ATO,Atmos Energy Corp,Utilities,Utilities - Regulated Gas,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-AWR,American States Water Co,Utilities,Utilities - Regulated Water,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-CF,CF Industries Holdings Inc,Basic Materials,Agricultural Inputs,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-CIVI,Civitas Resources Inc,Energy,Oil & Gas E&P,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-CPRX,Catalyst Pharmaceuticals Inc,Healthcare,Biotechnology,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-HLI,Houlihan Lokey Inc,Financial,Capital Markets,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-PAYC,Paycom Software Inc,Technology,Software - Application,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-PR,Permian Resources Corp,Energy,Oil & Gas E&P,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-PRI,Primerica Inc,Financial,Insurance - Life,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-RGLD,"Royal Gold, Inc",Basic Materials,Gold,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-SEZL,Sezzle Inc,Financial,Credit Services,5/7/2025 16:30,16:30,05/07//2025,5/7/25,5/8/25
-ACIW,ACI Worldwide Inc,Technology,Software - Infrastructure,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-AMG,Affiliated Managers Group Inc,Financial,Asset Management,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-ATHM,Autohome Inc ADR,Communication Services,Internet Content & Information,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-CHT,Chunghwa Telecom ADR,Communication Services,Telecom Services,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-CNQ,Canadian Natural Resources Ltd,Energy,Oil & Gas E&P,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-COP,Conoco Phillips,Energy,Oil & Gas E&P,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-CROX,Crocs Inc,Consumer Cyclical,Footwear & Accessories,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-PBH,Prestige Consumer Healthcare Inc,Healthcare,Drug Manufacturers - Specialty & Generic,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-TGLS,Tecnoglass Inc,Basic Materials,Building Materials,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-TGS,Transportadora de Gas del Sur ADR,Energy,Oil & Gas Integrated,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-TRNO,Terreno Realty Corp,Real Estate,REIT - Industrial,5/8/2025 8:30,08:30,05/08//2025,5/7/25,5/8/25
-AGO,Assured Guaranty Ltd,Financial,Insurance - Specialty,5/8/2025 16:30,16:30,05/08//2025,5/8/25,5/9/25
-GMAB,Genmab ADR,Healthcare,Biotechnology,5/8/2025 16:30,16:30,05/08//2025,5/8/25,5/9/25
-ONTO,Onto Innovation Inc,Technology,Semiconductor Equipment & Materials,5/8/2025 16:30,16:30,05/08//2025,5/8/25,5/9/25
-PBA,Pembina Pipeline Corporation,Energy,Oil & Gas Midstream,5/8/2025 16:30,16:30,05/08//2025,5/8/25,5/9/25
-PINS,Pinterest Inc,Communication Services,Internet Content & Information,5/8/2025 16:30,16:30,05/08//2025,5/8/25,5/9/25
-SYNA,Synaptics Inc,Technology,Semiconductors,5/8/2025 16:30,16:30,05/08//2025,5/8/25,5/9/25
-TREX,"TREX Co., Inc",Industrials,Building Products & Equipment,5/8/2025 16:30,16:30,05/08//2025,5/8/25,5/9/25
-VCTR,Victory Capital Holdings Inc,Financial,Asset Management,5/8/2025 16:30,16:30,05/08//2025,5/8/25,5/9/25
-ESNT,Essent Group Ltd,Financial,Insurance - Specialty,5/9/2025 8:30,08:30,05/09//2025,5/8/25,5/9/25
-RDY,Dr. Reddy's Laboratories Ltd. ADR,Healthcare,Drug Manufacturers - Specialty & Generic,5/9/2025 16:30,16:30,05/09//2025,5/9/25,5/12/25
-KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,5/12/2025 8:30,08:30,05/12//2025,5/9/25,5/12/25
-PAM,Pampa Energia SA ADR,Utilities,Utilities - Independent Power Producers,5/12/2025 16:30,16:30,05/12//2025,5/12/25,5/13/25
-SBS,Companhia de Saneamento Basico do Estado de Sao Paulo. ADR,Utilities,Utilities - Regulated Water,5/12/2025 16:30,16:30,05/12//2025,5/12/25,5/13/25
-TME,Tencent Music Entertainment Group ADR,Communication Services,Internet Content & Information,5/13/2025 8:30,08:30,05/13//2025,5/12/25,5/13/25
-EXEL,Exelixis Inc,Healthcare,Biotechnology,5/13/2025 16:30,16:30,05/13//2025,5/13/25,5/14/25
-NU,Nu Holdings Ltd,Financial,Banks - Regional,5/13/2025 16:30,16:30,05/13//2025,5/13/25,5/14/25
-DT,Dynatrace Inc,Technology,Software - Application,5/14/2025 8:30,08:30,05/14//2025,5/13/25,5/14/25
-CSCO,"Cisco Systems, Inc",Technology,Communication Equipment,5/14/2025 16:30,16:30,05/14//2025,5/14/25,5/15/25
-DLO,DLocal Limited,Technology,Software - Infrastructure,5/14/2025 16:30,16:30,05/14//2025,5/14/25,5/15/25
-NXT,Nextracker Inc,Technology,Solar,5/14/2025 16:30,16:30,05/14//2025,5/14/25,5/15/25
-NTES,NetEase Inc ADR,Communication Services,Electronic Gaming & Multimedia,5/15/2025 8:30,08:30,05/15//2025,5/14/25,5/15/25
-WMS,Advanced Drainage Systems Inc,Industrials,Building Products & Equipment,5/15/2025 8:30,08:30,05/15//2025,5/14/25,5/15/25
-AMAT,Applied Materials Inc,Technology,Semiconductor Equipment & Materials,5/15/2025 16:30,16:30,05/15//2025,5/15/25,5/16/25
-QFIN,Qifu Technology Inc. ADR,Financial,Credit Services,5/19/2025 16:30,16:30,05/19//2025,5/19/25,5/20/25
-TCOM,Trip.com Group Ltd ADR,Consumer Cyclical,Travel Services,5/19/2025 16:30,16:30,05/19//2025,5/19/25,5/20/25
-EXP,Eagle Materials Inc,Basic Materials,Building Materials,5/20/2025 8:30,08:30,05/20//2025,5/19/25,5/20/25
-ZTO,ZTO Express (Cayman) Inc ADR,Industrials,Integrated Freight & Logistics,5/20/2025 16:30,16:30,05/20//2025,5/20/25,5/21/25
-BIDU,Baidu Inc ADR,Communication Services,Internet Content & Information,5/21/2025 8:30,08:30,05/21//2025,5/20/25,5/21/25
-YMM,Full Truck Alliance Co Ltd ADR,Technology,Software - Application,5/21/2025 8:30,08:30,05/21//2025,5/20/25,5/21/25
-ZM,Zoom Communications Inc,Technology,Software - Application,5/21/2025 16:30,16:30,05/21//2025,5/21/25,5/22/25
-ATAT,Atour Lifestyle Holdings Ltd ADR,Consumer Cyclical,Lodging,5/22/2025 8:30,08:30,05/22//2025,5/21/25,5/22/25
-DECK,Deckers Outdoor Corp,Consumer Cyclical,Footwear & Accessories,5/22/2025 16:30,16:30,05/22//2025,5/22/25,5/23/25
-BKE,"Buckle, Inc",Consumer Cyclical,Apparel Retail,5/23/2025 8:30,08:30,05/23//2025,5/22/25,5/23/25
-AU,AngloGold Ashanti Plc,Basic Materials,Gold,5/27/2025 8:30,08:30,05/27//2025,5/26/25,5/27/25
-A,Agilent Technologies Inc,Healthcare,Diagnostics & Research,5/28/2025 16:30,16:30,05/28//2025,5/28/25,5/29/25
-NDSN,Nordson Corp,Industrials,Specialty Industrial Machinery,5/28/2025 16:30,16:30,05/28//2025,5/28/25,5/29/25
-SNPS,"Synopsys, Inc",Technology,Software - Infrastructure,5/28/2025 16:30,16:30,05/28//2025,5/28/25,5/29/25
-HLNE,Hamilton Lane Inc,Financial,Asset Management,5/29/2025 8:30,08:30,05/29//2025,5/28/25,5/29/25
+CALM,"Cal-Maine Foods, Inc",Consumer Defensive,Farm Products,4/8/2025 16:30,16:30,04/08//2025,4/8/2025,4/9/2025
+BLK,Blackrock Inc,Financial,Asset Management,4/11/2025 8:30,08:30,04/11//2025,4/10/2025,4/11/2025
+MTB,M & T Bank Corp,Financial,Banks - Regional,4/14/2025 8:30,08:30,04/14//2025,4/11/2025,4/14/2025
+FBK,FB Financial Corp,Financial,Banks - Regional,4/14/2025 16:30,16:30,04/14//2025,4/14/2025,4/15/2025
+PNFP,Pinnacle Financial Partners Inc,Financial,Banks - Regional,4/14/2025 16:30,16:30,04/14//2025,4/14/2025,4/15/2025
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,4/15/2025 8:30,08:30,04/15//2025,4/14/2025,4/15/2025
+FULT,Fulton Financial Corp,Financial,Banks - Regional,4/15/2025 16:30,16:30,04/15//2025,4/15/2025,4/16/2025
+HWC,Hancock Whitney Corp,Financial,Banks - Regional,4/15/2025 16:30,16:30,04/15//2025,4/15/2025,4/16/2025
+ABT,Abbott Laboratories,Healthcare,Medical Devices,4/16/2025 8:30,08:30,04/16//2025,4/15/2025,4/16/2025
+ASML,ASML Holding NV,Technology,Semiconductor Equipment & Materials,4/16/2025 8:30,08:30,04/16//2025,4/15/2025,4/16/2025
+CBSH,"Commerce Bancshares, Inc",Financial,Banks - Regional,4/16/2025 8:30,08:30,04/16//2025,4/15/2025,4/16/2025
+FHN,First Horizon Corporation,Financial,Banks - Regional,4/16/2025 8:30,08:30,04/16//2025,4/15/2025,4/16/2025
+PLD,Prologis Inc,Real Estate,REIT - Industrial,4/16/2025 8:30,08:30,04/16//2025,4/15/2025,4/16/2025
+BANR,Banner Corp,Financial,Banks - Regional,4/16/2025 16:30,16:30,04/16//2025,4/16/2025,4/17/2025
+CNS,Cohen & Steers Inc,Financial,Asset Management,4/16/2025 16:30,16:30,04/16//2025,4/16/2025,4/17/2025
+FNB,F.N.B. Corp,Financial,Banks - Regional,4/16/2025 16:30,16:30,04/16//2025,4/16/2025,4/17/2025
+FR,"First Industrial Realty Trust, Inc",Real Estate,REIT - Industrial,4/16/2025 16:30,16:30,04/16//2025,4/16/2025,4/17/2025
+HOMB,Home Bancshares Inc,Financial,Banks - Regional,4/16/2025 16:30,16:30,04/16//2025,4/16/2025,4/17/2025
+OZK,Bank OZK,Financial,Banks - Regional,4/16/2025 16:30,16:30,04/16//2025,4/16/2025,4/17/2025
+REXR,Rexford Industrial Realty Inc,Real Estate,REIT - Industrial,4/16/2025 16:30,16:30,04/16//2025,4/16/2025,4/17/2025
+FITB,Fifth Third Bancorp,Financial,Banks - Regional,4/17/2025 8:30,08:30,04/17//2025,4/16/2025,4/17/2025
+HBAN,"Huntington Bancshares, Inc",Financial,Banks - Regional,4/17/2025 8:30,08:30,04/17//2025,4/16/2025,4/17/2025
+RF,Regions Financial Corp,Financial,Banks - Regional,4/17/2025 8:30,08:30,04/17//2025,4/16/2025,4/17/2025
+SCHW,Charles Schwab Corp,Financial,Capital Markets,4/17/2025 8:30,08:30,04/17//2025,4/16/2025,4/17/2025
+SNA,"Snap-on, Inc",Industrials,Tools & Accessories,4/17/2025 8:30,08:30,04/17//2025,4/16/2025,4/17/2025
+TFC,Truist Financial Corporation,Financial,Banks - Regional,4/17/2025 8:30,08:30,04/17//2025,4/16/2025,4/17/2025
+BANF,Bancfirst Corp,Financial,Banks - Regional,4/17/2025 16:30,16:30,04/17//2025,4/17/2025,4/21/2025
+FFIN,"First Financial Bankshares, Inc",Financial,Banks - Regional,4/17/2025 16:30,16:30,04/17//2025,4/17/2025,4/21/2025
+INDB,Independent Bank Corp,Financial,Banks - Regional,4/17/2025 16:30,16:30,04/17//2025,4/17/2025,4/21/2025
+INFY,Infosys Ltd ADR,Technology,Information Technology Services,4/17/2025 16:30,16:30,04/17//2025,4/17/2025,4/21/2025
+TSM,Taiwan Semiconductor Manufacturing ADR,Technology,Semiconductors,4/17/2025 16:30,16:30,04/17//2025,4/17/2025,4/21/2025
+IBN,ICICI Bank Ltd. ADR,Financial,Banks - Regional,4/19/2025 16:30,16:30,04/19//2025,4/18/2025,4/21/2025
+TLK,Telkom Indonesia (Persero) Tbk PT ADR,Communication Services,Telecom Services,4/21/2025,00:00,04/21//2025,4/21/2025,4/22/2025
+BOKF,BOK Financial Corp,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/2025,4/22/2025
+CADE,Cadence Bank,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/2025,4/22/2025
+CATY,Cathay General Bancorp,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/2025,4/22/2025
+MEDP,Medpace Holdings Inc,Healthcare,Diagnostics & Research,4/21/2025 16:30,16:30,04/21//2025,4/21/2025,4/22/2025
+WAL,Western Alliance Bancorp,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/2025,4/22/2025
+WTFC,Wintrust Financial Corp,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/2025,4/22/2025
+ZION,Zions Bancorporation N.A,Financial,Banks - Regional,4/21/2025 16:30,16:30,04/21//2025,4/21/2025,4/22/2025
+DHR,Danaher Corp,Healthcare,Diagnostics & Research,4/22/2025 8:30,08:30,04/22//2025,4/21/2025,4/22/2025
+MLI,"Mueller Industries, Inc",Industrials,Metal Fabrication,4/22/2025 8:30,08:30,04/22//2025,4/21/2025,4/22/2025
+NVR,NVR Inc,Consumer Cyclical,Residential Construction,4/22/2025 8:30,08:30,04/22//2025,4/21/2025,4/22/2025
+ONB,Old National Bancorp,Financial,Banks - Regional,4/22/2025 8:30,08:30,04/22//2025,4/21/2025,4/22/2025
+PHM,PulteGroup Inc,Consumer Cyclical,Residential Construction,4/22/2025 8:30,08:30,04/22//2025,4/21/2025,4/22/2025
+PNR,Pentair plc,Industrials,Specialty Industrial Machinery,4/22/2025 8:30,08:30,04/22//2025,4/21/2025,4/22/2025
+UCB,United Community Banks Inc,Financial,Banks - Regional,4/22/2025 8:30,08:30,04/22//2025,4/21/2025,4/22/2025
+ASR,Grupo Aeroportuario Del Sureste S.A. ADR,Industrials,Airports & Air Services,4/22/2025 16:30,16:30,04/22//2025,4/22/2025,4/23/2025
+EWBC,"East West Bancorp, Inc",Financial,Banks - Regional,4/22/2025 16:30,16:30,04/22//2025,4/22/2025,4/23/2025
+RNST,Renasant Corp,Financial,Banks - Regional,4/22/2025 16:30,16:30,04/22//2025,4/22/2025,4/23/2025
+APH,Amphenol Corp,Technology,Electronic Components,4/23/2025 8:30,08:30,04/23//2025,4/22/2025,4/23/2025
+BPOP,Popular Inc,Financial,Banks - Regional,4/23/2025 8:30,08:30,04/23//2025,4/22/2025,4/23/2025
+CME,CME Group Inc,Financial,Financial Data & Stock Exchanges,4/23/2025 8:30,08:30,04/23//2025,4/22/2025,4/23/2025
+FHB,First Hawaiian INC,Financial,Banks - Regional,4/23/2025 8:30,08:30,04/23//2025,4/22/2025,4/23/2025
+ODFL,"Old Dominion Freight Line, Inc",Industrials,Trucking,4/23/2025 8:30,08:30,04/23//2025,4/22/2025,4/23/2025
+PB,Prosperity Bancshares Inc,Financial,Banks - Regional,4/23/2025 8:30,08:30,04/23//2025,4/22/2025,4/23/2025
+TMO,Thermo Fisher Scientific Inc,Healthcare,Diagnostics & Research,4/23/2025 8:30,08:30,04/23//2025,4/22/2025,4/23/2025
+VTMX,Corporacion Inmobiliaria Vesta Sab ADR,Real Estate,Real Estate - Development,4/23/2025 8:30,08:30,04/23//2025,4/22/2025,4/23/2025
+CSL,Carlisle Companies Inc,Industrials,Building Products & Equipment,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+DFS,Discover Financial Services,Financial,Credit Services,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+EGP,"Eastgroup Properties, Inc",Real Estate,REIT - Industrial,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+EPRT,Essential Properties Realty Trust Inc,Real Estate,REIT - Retail,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+EW,Edwards Lifesciences Corp,Healthcare,Medical Devices,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+GGG,Graco Inc,Industrials,Specialty Industrial Machinery,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+JOE,St. Joe Co,Real Estate,Real Estate - Diversified,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+LRCX,Lam Research Corp,Technology,Semiconductor Equipment & Materials,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+MTDR,Matador Resources Co,Energy,Oil & Gas E&P,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+NEM,Newmont Corp,Basic Materials,Gold,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+NEU,NewMarket Corp,Basic Materials,Specialty Chemicals,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+RLI,RLI Corp,Financial,Insurance - Property & Casualty,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+RMD,Resmed Inc,Healthcare,Medical Instruments & Supplies,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+SEIC,SEI Investments Co,Financial,Asset Management,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+TOWN,Townebank Portsmouth VA,Financial,Banks - Regional,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+TXN,Texas Instruments Inc,Technology,Semiconductors,4/23/2025 16:30,16:30,04/23//2025,4/23/2025,4/24/2025
+DOV,Dover Corp,Industrials,Specialty Industrial Machinery,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+FBP,First Bancorp PR,Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+FRME,First Merchants Corp,Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+MRK,Merck & Co Inc,Healthcare,Drug Manufacturers - General,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+NDAQ,Nasdaq Inc,Financial,Financial Data & Stock Exchanges,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+PG,Procter & Gamble Co,Consumer Defensive,Household & Personal Products,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+PPBI,"Pacific Premier Bancorp, Inc",Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+UBSI,"United Bankshares, Inc",Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+WBS,Webster Financial Corp,Financial,Banks - Regional,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+WST,"West Pharmaceutical Services, Inc",Healthcare,Medical Instruments & Supplies,4/24/2025 8:30,08:30,04/24//2025,4/23/2025,4/24/2025
+AEM,Agnico Eagle Mines Ltd,Basic Materials,Gold,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+APPF,Appfolio Inc,Technology,Software - Application,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+COLB,"Columbia Banking System, Inc",Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+ERIE,Erie Indemnity Co,Financial,Insurance Brokers,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+FFBC,First Financial Bancorp,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+FHI,Federated Hermes Inc,Financial,Asset Management,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+GOOG,Alphabet Inc,Communication Services,Internet Content & Information,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+GOOGL,Alphabet Inc,Communication Services,Internet Content & Information,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+KNSL,Kinsale Capital Group Inc,Financial,Insurance - Property & Casualty,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+MGRC,McGrath Rentcorp,Industrials,Rental & Leasing Services,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+NBTB,NBT Bancorp. Inc,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+SBCF,Seacoast Banking Corp. Of Florida,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+SSB,SouthState Corporation,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+TBBK,Bancorp Inc,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+WSFS,WSFS Financial Corp,Financial,Banks - Regional,4/24/2025 16:30,16:30,04/24//2025,4/24/2025,4/25/2025
+GNTX,Gentex Corp,Consumer Cyclical,Auto Parts,4/25/2025 8:30,08:30,04/25//2025,4/24/2025,4/25/2025
+SCCO,Southern Copper Corporation,Basic Materials,Copper,4/25/2025 8:30,08:30,04/25//2025,4/24/2025,4/25/2025
+PRK,Park National Corp,Financial,Banks - Regional,4/25/2025 16:30,16:30,04/25//2025,4/25/2025,4/28/2025
+ABCB,Ameris Bancorp,Financial,Banks - Regional,4/28/2025 16:30,16:30,04/28//2025,4/28/2025,4/29/2025
+BRO,"Brown & Brown, Inc",Financial,Insurance Brokers,4/28/2025 16:30,16:30,04/28//2025,4/28/2025,4/29/2025
+FFIV,F5 Inc,Technology,Software - Infrastructure,4/28/2025 16:30,16:30,04/28//2025,4/28/2025,4/29/2025
+OMAB,Grupo Aeroportuario del Centro Norte S.A.B de C.V. ADR,Industrials,Airports & Air Services,4/28/2025 16:30,16:30,04/28//2025,4/28/2025,4/29/2025
+PDD,PDD Holdings Inc ADR,Consumer Cyclical,Internet Retail,4/28/2025 16:30,16:30,04/28//2025,4/28/2025,4/29/2025
+RMBS,Rambus Inc,Technology,Semiconductors,4/28/2025 16:30,16:30,04/28//2025,4/28/2025,4/29/2025
+TER,"Teradyne, Inc",Technology,Semiconductor Equipment & Materials,4/28/2025 16:30,16:30,04/28//2025,4/28/2025,4/29/2025
+AWI,Armstrong World Industries Inc,Industrials,Building Products & Equipment,4/29/2025 8:30,08:30,04/29//2025,4/28/2025,4/29/2025
+CBU,Community Financial System Inc,Financial,Banks - Regional,4/29/2025 8:30,08:30,04/29//2025,4/28/2025,4/29/2025
+NVS,Novartis AG ADR,Healthcare,Drug Manufacturers - General,4/29/2025 8:30,08:30,04/29//2025,4/28/2025,4/29/2025
+REGN,"Regeneron Pharmaceuticals, Inc",Healthcare,Biotechnology,4/29/2025 8:30,08:30,04/29//2025,4/28/2025,4/29/2025
+SPGI,S&P Global Inc,Financial,Financial Data & Stock Exchanges,4/29/2025 8:30,08:30,04/29//2025,4/28/2025,4/29/2025
+ACGL,Arch Capital Group Ltd,Financial,Insurance - Diversified,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+APAM,Artisan Partners Asset Management Inc,Financial,Asset Management,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+EQR,Equity Residential Properties Trust,Real Estate,REIT - Residential,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+EXR,Extra Space Storage Inc,Real Estate,REIT - Industrial,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+FIBK,First Interstate BancSystem Inc,Financial,Banks - Regional,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+FSLR,First Solar Inc,Technology,Solar,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+MSA,MSA Safety Inc,Industrials,Security & Protection Services,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+NMIH,NMI Holdings Inc,Financial,Insurance - Specialty,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+NOG,Northern Oil and Gas Inc,Energy,Oil & Gas E&P,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+REG,Regency Centers Corporation,Real Estate,REIT - Retail,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+STAG,STAG Industrial Inc,Real Estate,REIT - Industrial,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+V,Visa Inc,Financial,Credit Services,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+WPC,W. P. Carey Inc,Real Estate,REIT - Diversified,4/29/2025 16:30,16:30,04/29//2025,4/29/2025,4/30/2025
+ADP,Automatic Data Processing Inc,Technology,Software - Application,4/30/2025 8:30,08:30,04/30//2025,4/29/2025,4/30/2025
+DTM,DT Midstream Inc,Energy,Oil & Gas Midstream,4/30/2025 8:30,08:30,04/30//2025,4/29/2025,4/30/2025
+GRMN,Garmin Ltd,Technology,Scientific & Technical Instruments,4/30/2025 8:30,08:30,04/30//2025,4/29/2025,4/30/2025
+HES,Hess Corporation,Energy,Oil & Gas E&P,4/30/2025 8:30,08:30,04/30//2025,4/29/2025,4/30/2025
+MLM,"Martin Marietta Materials, Inc",Basic Materials,Building Materials,4/30/2025 8:30,08:30,04/30//2025,4/29/2025,4/30/2025
+UTHR,United Therapeutics Corp,Healthcare,Drug Manufacturers - Specialty & Generic,4/30/2025 8:30,08:30,04/30//2025,4/29/2025,4/30/2025
+ACT,Enact Holdings Inc,Financial,Insurance - Specialty,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+AFL,Aflac Inc,Financial,Insurance - Life,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+AGI,Alamos Gold Inc,Basic Materials,Gold,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+AVB,Avalonbay Communities Inc,Real Estate,REIT - Residential,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+AX,Axos Financial Inc,Financial,Banks - Regional,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+BNL,Broadstone Net Lease Inc,Real Estate,REIT - Diversified,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+CP,Canadian Pacific Kansas City Limited,Industrials,Railroads,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+CWAN,Clearwater Analytics Holdings Inc,Technology,Software - Application,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+FCPT,Four Corners Property Trust Inc,Real Estate,REIT - Retail,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+GFL,GFL Environmental Inc,Industrials,Waste Management,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+GL,Globe Life Inc,Financial,Insurance - Life,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+GRBK,Green Brick Partners Inc,Consumer Cyclical,Residential Construction,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+MAA,"Mid-America Apartment Communities, Inc",Real Estate,REIT - Residential,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+META,Meta Platforms Inc,Communication Services,Internet Content & Information,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+MORN,Morningstar Inc,Financial,Financial Data & Stock Exchanges,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+MTG,MGIC Investment Corp,Financial,Insurance - Specialty,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+PSA,Public Storage,Real Estate,REIT - Industrial,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+QCOM,"Qualcomm, Inc",Technology,Semiconductors,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+RDN,"Radian Group, Inc",Financial,Insurance - Specialty,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+RYN,Rayonier Inc,Real Estate,REIT - Specialty,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+TS,Tenaris S.A. ADR,Energy,Oil & Gas Equipment & Services,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+USLM,United States Lime & Minerals Inc,Basic Materials,Building Materials,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+VICI,VICI Properties Inc,Real Estate,REIT - Diversified,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+WHD,Cactus Inc,Energy,Oil & Gas Equipment & Services,4/30/2025 16:30,16:30,04/30//2025,4/30/2025,5/1/2025
+ALKS,Alkermes plc,Healthcare,Drug Manufacturers - Specialty & Generic,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+AME,Ametek Inc,Industrials,Specialty Industrial Machinery,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+BIIB,Biogen Inc,Healthcare,Drug Manufacturers - General,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+BVN,Compania de Minas Buenaventura S.A. ADR,Basic Materials,Other Precious Metals & Mining,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+CARR,Carrier Global Corp,Industrials,Building Products & Equipment,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+ICE,Intercontinental Exchange Inc,Financial,Financial Data & Stock Exchanges,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+IDCC,Interdigital Inc,Technology,Software - Application,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+JHG,Janus Henderson Group plc,Financial,Asset Management,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+KIM,Kimco Realty Corporation,Real Estate,REIT - Retail,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+LAUR,Laureate Education Inc,Consumer Defensive,Education & Training Services,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+LIN,Linde Plc,Basic Materials,Specialty Chemicals,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+MGY,Magnolia Oil & Gas Corp,Energy,Oil & Gas E&P,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+PH,Parker-Hannifin Corp,Industrials,Specialty Industrial Machinery,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+STNG,Scorpio Tankers Inc,Energy,Oil & Gas Midstream,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+TRI,Thomson-Reuters Corp,Industrials,Specialty Business Services,5/1/2025 8:30,08:30,05/01//2025,4/30/2025,5/1/2025
+ABNB,Airbnb Inc,Consumer Cyclical,Travel Services,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+AMH,American Homes 4 Rent,Real Estate,REIT - Residential,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+BMRN,Biomarin Pharmaceutical Inc,Healthcare,Biotechnology,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+CNI,Canadian National Railway Co,Industrials,Railroads,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+CTRE,CareTrust REIT Inc,Real Estate,REIT - Healthcare Facilities,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+DLB,Dolby Laboratories Inc,Industrials,Specialty Business Services,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+EGO,Eldorado Gold Corp,Basic Materials,Gold,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+EXPO,Exponent Inc,Industrials,Engineering & Construction,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+MPWR,Monolithic Power System Inc,Technology,Semiconductors,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+OHI,"Omega Healthcare Investors, Inc",Real Estate,REIT - Healthcare Facilities,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+OLED,Universal Display Corp,Technology,Electronic Components,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+PRDO,Perdoceo Education Corporation,Consumer Defensive,Education & Training Services,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+SM,SM Energy Co,Energy,Oil & Gas E&P,5/1/2025 16:30,16:30,05/01//2025,5/1/2025,5/2/2025
+CBOE,Cboe Global Markets Inc,Financial,Financial Data & Stock Exchanges,5/2/2025 8:30,08:30,05/02//2025,5/1/2025,5/2/2025
+EOG,"EOG Resources, Inc",Energy,Oil & Gas E&P,5/2/2025 8:30,08:30,05/02//2025,5/1/2025,5/2/2025
+ETN,Eaton Corporation plc,Industrials,Specialty Industrial Machinery,5/2/2025 8:30,08:30,05/02//2025,5/1/2025,5/2/2025
+NVT,nVent Electric plc,Industrials,Electrical Equipment & Parts,5/2/2025 8:30,08:30,05/02//2025,5/1/2025,5/2/2025
+TROW,T. Rowe Price Group Inc,Financial,Asset Management,5/2/2025 8:30,08:30,05/02//2025,5/1/2025,5/2/2025
+BRK.A,Berkshire Hathaway Inc,Financial,Insurance - Diversified,5/3/2025 16:30,16:30,05/03//2025,5/2/2025,5/5/2025
+BRK.B,Berkshire Hathaway Inc,Financial,Insurance - Diversified,5/5/2025 8:30,08:30,05/05//2025,5/2/2025,5/5/2025
+IBOC,International Bancshares Corp,Financial,Banks - Regional,5/5/2025 8:30,08:30,05/05//2025,5/2/2025,5/5/2025
+BSM,Black Stone Minerals L.P,Energy,Oil & Gas E&P,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+CTRA,Coterra Energy Inc,Energy,Oil & Gas E&P,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+FANG,Diamondback Energy Inc,Energy,Oil & Gas E&P,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+KRC,Kilroy Realty Corp,Real Estate,REIT - Office,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+NHI,"National Health Investors, Inc",Real Estate,REIT - Healthcare Facilities,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+OTTR,Otter Tail Corporation,Industrials,Conglomerates,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+PLMR,Palomar Holdings Inc,Financial,Insurance - Property & Casualty,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+SBRA,Sabra Healthcare REIT Inc,Real Estate,REIT - Healthcare Facilities,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+UPWK,Upwork Inc,Communication Services,Internet Content & Information,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+VNOM,Viper Energy Inc,Energy,Oil & Gas Midstream,5/5/2025 16:30,16:30,05/05//2025,5/5/2025,5/6/2025
+ACLS,Axcelis Technologies Inc,Technology,Semiconductor Equipment & Materials,5/6/2025 8:30,08:30,05/06//2025,5/5/2025,5/6/2025
+GPN,"Global Payments, Inc",Technology,Software - Infrastructure,5/6/2025 8:30,08:30,05/06//2025,5/5/2025,5/6/2025
+KRYS,Krystal Biotech Inc,Healthcare,Biotechnology,5/6/2025 8:30,08:30,05/06//2025,5/5/2025,5/6/2025
+WAT,Waters Corp,Healthcare,Diagnostics & Research,5/6/2025 8:30,08:30,05/06//2025,5/5/2025,5/6/2025
+CHRD,Chord Energy Corp,Energy,Oil & Gas E&P,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+CRC,California Resources Corporation,Energy,Oil & Gas E&P,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+CRUS,"Cirrus Logic, Inc",Technology,Semiconductors,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+DVN,Devon Energy Corp,Energy,Oil & Gas E&P,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+EA,"Electronic Arts, Inc",Communication Services,Electronic Gaming & Multimedia,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+JKHY,"Jack Henry & Associates, Inc",Technology,Information Technology Services,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+KGC,Kinross Gold Corp,Basic Materials,Gold,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+LOPE,Grand Canyon Education Inc,Consumer Defensive,Education & Training Services,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+POWL,"Powell Industries, Inc",Industrials,Electrical Equipment & Parts,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+QLYS,Qualys Inc,Technology,Software - Infrastructure,5/6/2025 16:30,16:30,05/06//2025,5/6/2025,5/7/2025
+B,Barrick Mining Corp,Basic Materials,Gold,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+BUR,Burford Capital Limited,Financial,Asset Management,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+LBRDA,Liberty Broadband Corp,Communication Services,Telecom Services,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+LBRDK,Liberty Broadband Corp,Communication Services,Telecom Services,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+LNTH,Lantheus Holdings Inc,Healthcare,Drug Manufacturers - Specialty & Generic,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+MGEE,"MGE Energy, Inc",Utilities,Utilities - Regulated Electric,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+MKTX,MarketAxess Holdings Inc,Financial,Capital Markets,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+NVO,Novo Nordisk ADR,Healthcare,Drug Manufacturers - General,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+TRMB,Trimble Inc,Technology,Scientific & Technical Instruments,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+UBER,Uber Technologies Inc,Technology,Software - Application,5/7/2025 8:30,08:30,05/07//2025,5/6/2025,5/7/2025
+ACAD,Acadia Pharmaceuticals Inc,Healthcare,Biotechnology,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+ADMA,Adma Biologics Inc,Healthcare,Biotechnology,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+ATO,Atmos Energy Corp,Utilities,Utilities - Regulated Gas,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+AWR,American States Water Co,Utilities,Utilities - Regulated Water,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+CF,CF Industries Holdings Inc,Basic Materials,Agricultural Inputs,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+CIVI,Civitas Resources Inc,Energy,Oil & Gas E&P,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+CPRX,Catalyst Pharmaceuticals Inc,Healthcare,Biotechnology,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+HLI,Houlihan Lokey Inc,Financial,Capital Markets,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+PAYC,Paycom Software Inc,Technology,Software - Application,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+PR,Permian Resources Corp,Energy,Oil & Gas E&P,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+PRI,Primerica Inc,Financial,Insurance - Life,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+RGLD,"Royal Gold, Inc",Basic Materials,Gold,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+SEZL,Sezzle Inc,Financial,Credit Services,5/7/2025 16:30,16:30,05/07//2025,5/7/2025,5/8/2025
+ACIW,ACI Worldwide Inc,Technology,Software - Infrastructure,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+AMG,Affiliated Managers Group Inc,Financial,Asset Management,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+ATHM,Autohome Inc ADR,Communication Services,Internet Content & Information,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+CHT,Chunghwa Telecom ADR,Communication Services,Telecom Services,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+CNQ,Canadian Natural Resources Ltd,Energy,Oil & Gas E&P,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+COP,Conoco Phillips,Energy,Oil & Gas E&P,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+CROX,Crocs Inc,Consumer Cyclical,Footwear & Accessories,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+PBH,Prestige Consumer Healthcare Inc,Healthcare,Drug Manufacturers - Specialty & Generic,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+TGLS,Tecnoglass Inc,Basic Materials,Building Materials,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+TGS,Transportadora de Gas del Sur ADR,Energy,Oil & Gas Integrated,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+TRNO,Terreno Realty Corp,Real Estate,REIT - Industrial,5/8/2025 8:30,08:30,05/08//2025,5/7/2025,5/8/2025
+AGO,Assured Guaranty Ltd,Financial,Insurance - Specialty,5/8/2025 16:30,16:30,05/08//2025,5/8/2025,5/9/2025
+GMAB,Genmab ADR,Healthcare,Biotechnology,5/8/2025 16:30,16:30,05/08//2025,5/8/2025,5/9/2025
+ONTO,Onto Innovation Inc,Technology,Semiconductor Equipment & Materials,5/8/2025 16:30,16:30,05/08//2025,5/8/2025,5/9/2025
+PBA,Pembina Pipeline Corporation,Energy,Oil & Gas Midstream,5/8/2025 16:30,16:30,05/08//2025,5/8/2025,5/9/2025
+PINS,Pinterest Inc,Communication Services,Internet Content & Information,5/8/2025 16:30,16:30,05/08//2025,5/8/2025,5/9/2025
+SYNA,Synaptics Inc,Technology,Semiconductors,5/8/2025 16:30,16:30,05/08//2025,5/8/2025,5/9/2025
+TREX,"TREX Co., Inc",Industrials,Building Products & Equipment,5/8/2025 16:30,16:30,05/08//2025,5/8/2025,5/9/2025
+VCTR,Victory Capital Holdings Inc,Financial,Asset Management,5/8/2025 16:30,16:30,05/08//2025,5/8/2025,5/9/2025
+ESNT,Essent Group Ltd,Financial,Insurance - Specialty,5/9/2025 8:30,08:30,05/09//2025,5/8/2025,5/9/2025
+RDY,Dr. Reddy's Laboratories Ltd. ADR,Healthcare,Drug Manufacturers - Specialty & Generic,5/9/2025 16:30,16:30,05/09//2025,5/9/2025,5/12/2025
+KSPI,Kaspi.kz JSC ADR,Technology,Software - Infrastructure,5/12/2025 8:30,08:30,05/12//2025,5/9/2025,5/12/2025
+PAM,Pampa Energia SA ADR,Utilities,Utilities - Independent Power Producers,5/12/2025 16:30,16:30,05/12//2025,5/12/2025,5/13/2025
+SBS,Companhia de Saneamento Basico do Estado de Sao Paulo. ADR,Utilities,Utilities - Regulated Water,5/12/2025 16:30,16:30,05/12//2025,5/12/2025,5/13/2025
+TME,Tencent Music Entertainment Group ADR,Communication Services,Internet Content & Information,5/13/2025 8:30,08:30,05/13//2025,5/12/2025,5/13/2025
+EXEL,Exelixis Inc,Healthcare,Biotechnology,5/13/2025 16:30,16:30,05/13//2025,5/13/2025,5/14/2025
+NU,Nu Holdings Ltd,Financial,Banks - Regional,5/13/2025 16:30,16:30,05/13//2025,5/13/2025,5/14/2025
+DT,Dynatrace Inc,Technology,Software - Application,5/14/2025 8:30,08:30,05/14//2025,5/13/2025,5/14/2025
+CSCO,"Cisco Systems, Inc",Technology,Communication Equipment,5/14/2025 16:30,16:30,05/14//2025,5/14/2025,5/15/2025
+DLO,DLocal Limited,Technology,Software - Infrastructure,5/14/2025 16:30,16:30,05/14//2025,5/14/2025,5/15/2025
+NXT,Nextracker Inc,Technology,Solar,5/14/2025 16:30,16:30,05/14//2025,5/14/2025,5/15/2025
+NTES,NetEase Inc ADR,Communication Services,Electronic Gaming & Multimedia,5/15/2025 8:30,08:30,05/15//2025,5/14/2025,5/15/2025
+WMS,Advanced Drainage Systems Inc,Industrials,Building Products & Equipment,5/15/2025 8:30,08:30,05/15//2025,5/14/2025,5/15/2025
+AMAT,Applied Materials Inc,Technology,Semiconductor Equipment & Materials,5/15/2025 16:30,16:30,05/15//2025,5/15/2025,5/16/2025
+QFIN,Qifu Technology Inc. ADR,Financial,Credit Services,5/19/2025 16:30,16:30,05/19//2025,5/19/2025,5/20/2025
+TCOM,Trip.com Group Ltd ADR,Consumer Cyclical,Travel Services,5/19/2025 16:30,16:30,05/19//2025,5/19/2025,5/20/2025
+EXP,Eagle Materials Inc,Basic Materials,Building Materials,5/20/2025 8:30,08:30,05/20//2025,5/19/2025,5/20/2025
+ZTO,ZTO Express (Cayman) Inc ADR,Industrials,Integrated Freight & Logistics,5/20/2025 16:30,16:30,05/20//2025,5/20/2025,5/21/2025
+BIDU,Baidu Inc ADR,Communication Services,Internet Content & Information,5/21/2025 8:30,08:30,05/21//2025,5/20/2025,5/21/2025
+YMM,Full Truck Alliance Co Ltd ADR,Technology,Software - Application,5/21/2025 8:30,08:30,05/21//2025,5/20/2025,5/21/2025
+ZM,Zoom Communications Inc,Technology,Software - Application,5/21/2025 16:30,16:30,05/21//2025,5/21/2025,5/22/2025
+ATAT,Atour Lifestyle Holdings Ltd ADR,Consumer Cyclical,Lodging,5/22/2025 8:30,08:30,05/22//2025,5/21/2025,5/22/2025
+DECK,Deckers Outdoor Corp,Consumer Cyclical,Footwear & Accessories,5/22/2025 16:30,16:30,05/22//2025,5/22/2025,5/23/2025
+BKE,"Buckle, Inc",Consumer Cyclical,Apparel Retail,5/23/2025 8:30,08:30,05/23//2025,5/22/2025,5/23/2025
+AU,AngloGold Ashanti Plc,Basic Materials,Gold,5/27/2025 8:30,08:30,05/27//2025,5/26/2025,5/27/2025
+A,Agilent Technologies Inc,Healthcare,Diagnostics & Research,5/28/2025 16:30,16:30,05/28//2025,5/28/2025,5/29/2025
+NDSN,Nordson Corp,Industrials,Specialty Industrial Machinery,5/28/2025 16:30,16:30,05/28//2025,5/28/2025,5/29/2025
+SNPS,"Synopsys, Inc",Technology,Software - Infrastructure,5/28/2025 16:30,16:30,05/28//2025,5/28/2025,5/29/2025
+HLNE,Hamilton Lane Inc,Financial,Asset Management,5/29/2025 8:30,08:30,05/29//2025,5/28/2025,5/29/2025
