@@ -48,7 +48,7 @@ AXP,American Express Co,Financial,Credit Services,4/17/2025 8:30,4/17/2025,8:30,
 BX,Blackstone Inc,Financial,Asset Management,4/17/2025 8:30,4/17/2025,8:30,4/16/2025,4/17/2025
 INFY,Infosys Ltd ADR,Technology,Information Technology Services,4/17/2025 16:30,4/17/2025,16:30,4/17/2025,4/21/2025
 TSM,Taiwan Semiconductor Manufacturing ADR,Technology,Semiconductors,4/17/2025 16:30,4/17/2025,16:30,4/17/2025,4/21/2025
-TLK,Telkom Indonesia (Persero) Tbk PT ADR,Communication Services,Telecom Services,4/21/2025,4/21/2025,0:00,4/21/2025,4/22/2025
+TLK,Telkom Indonesia (Persero) Tbk PT ADR,Communication Services,Telecom Services,4/21/2025,4/21/2025,8:30,4/21/2025,4/22/2025
 HXL,Hexcel Corp,Industrials,Aerospace & Defense,4/21/2025 16:30,4/21/2025,16:30,4/21/2025,4/22/2025
 MEDP,Medpace Holdings Inc,Healthcare,Diagnostics & Research,4/21/2025 16:30,4/21/2025,16:30,4/21/2025,4/22/2025
 CALX,Calix Inc,Technology,Software - Infrastructure,4/21/2025 16:30,4/21/2025,16:30,4/21/2025,4/22/2025
@@ -97,7 +97,7 @@ EQT,EQT Corp,Energy,Oil & Gas E&P,4/22/2025 16:30,4/22/2025,16:30,4/22/2025,4/23
 ADC,Agree Realty Corp,Real Estate,REIT - Retail,4/22/2025 16:30,4/22/2025,16:30,4/22/2025,4/23/2025
 ASR,Grupo Aeroportuario Del Sureste S.A. ADR,Industrials,Airports & Air Services,4/22/2025 16:30,4/22/2025,16:30,4/22/2025,4/23/2025
 BKR,Baker Hughes Co,Energy,Oil & Gas Equipment & Services,4/22/2025 16:30,4/22/2025,16:30,4/22/2025,4/23/2025
-AKO-B,Embotelladora Andina S.A. ADR,Consumer Defensive,Beverages - Non-Alcoholic,4/23/2025,4/23/2025,0:00,4/23/2025,4/24/2025
+AKO-B,Embotelladora Andina S.A. ADR,Consumer Defensive,Beverages - Non-Alcoholic,4/23/2025,4/23/2025,8:30,4/23/2025,4/24/2025
 BA,Boeing Co,Industrials,Aerospace & Defense,4/23/2025 8:30,4/23/2025,8:30,4/22/2025,4/23/2025
 AVY,Avery Dennison Corp,Consumer Cyclical,Packaging & Containers,4/23/2025 8:30,4/23/2025,8:30,4/22/2025,4/23/2025
 BSX,Boston Scientific Corp,Healthcare,Medical Devices,4/23/2025 8:30,4/23/2025,8:30,4/22/2025,4/23/2025
@@ -424,7 +424,7 @@ MIR,Mirion Technologies Inc,Industrials,Specialty Industrial Machinery,4/29/2025
 PPG,"PPG Industries, Inc",Basic Materials,Specialty Chemicals,4/29/2025 16:30,4/29/2025,16:30,4/29/2025,4/30/2025
 QRVO,Qorvo Inc,Technology,Semiconductors,4/29/2025 16:30,4/29/2025,16:30,4/29/2025,4/30/2025
 REG,Regency Centers Corporation,Real Estate,REIT - Retail,4/29/2025 16:30,4/29/2025,16:30,4/29/2025,4/30/2025
-PTGX,Protagonist Therapeutics Inc,Healthcare,Biotechnology,4/30/2025,4/30/2025,0:00,4/30/2025,5/1/2025
+PTGX,Protagonist Therapeutics Inc,Healthcare,Biotechnology,4/30/2025,4/30/2025,8:30,4/30/2025,5/1/2025
 REYN,Reynolds Consumer Products Inc,Consumer Cyclical,Packaging & Containers,4/30/2025 8:30,4/30/2025,8:30,4/29/2025,4/30/2025
 PPL,PPL Corp,Utilities,Utilities - Regulated Electric,4/30/2025 8:30,4/30/2025,8:30,4/29/2025,4/30/2025
 PSN,Parsons Corp,Technology,Information Technology Services,4/30/2025 8:30,4/30/2025,8:30,4/29/2025,4/30/2025
@@ -564,7 +564,7 @@ VTR,Ventas Inc,Real Estate,REIT - Healthcare Facilities,4/30/2025 16:30,4/30/202
 WH,Wyndham Hotels & Resorts Inc,Consumer Cyclical,Lodging,4/30/2025 16:30,4/30/2025,16:30,4/30/2025,5/1/2025
 WHD,Cactus Inc,Energy,Oil & Gas Equipment & Services,4/30/2025 16:30,4/30/2025,16:30,4/30/2025,5/1/2025
 WEX,WEX Inc,Technology,Software - Infrastructure,4/30/2025 16:30,4/30/2025,16:30,4/30/2025,5/1/2025
-SWTX,SpringWorks Therapeutics Inc,Healthcare,Biotechnology,5/1/2025,5/1/2025,0:00,5/1/2025,5/2/2025
+SWTX,SpringWorks Therapeutics Inc,Healthcare,Biotechnology,5/1/2025,5/1/2025,8:30,5/1/2025,5/2/2025
 W,Wayfair Inc,Consumer Cyclical,Internet Retail,5/1/2025 8:30,5/1/2025,8:30,4/30/2025,5/1/2025
 WCC,"Wesco International, Inc",Industrials,Industrial Distribution,5/1/2025 8:30,5/1/2025,8:30,4/30/2025,5/1/2025
 VAL,Valaris Ltd,Energy,Oil & Gas Equipment & Services,5/1/2025 8:30,5/1/2025,8:30,4/30/2025,5/1/2025
@@ -1457,7 +1457,7 @@ BOX,Box Inc,Technology,Software - Infrastructure,5/27/2025 16:30,5/27/2025,16:30
 OKTA,Okta Inc,Technology,Software - Infrastructure,5/27/2025 16:30,5/27/2025,16:30,5/27/2025,5/28/2025
 HEI,Heico Corp,Industrials,Aerospace & Defense,5/27/2025 16:30,5/27/2025,16:30,5/27/2025,5/28/2025
 HEI-A,Heico Corp,Industrials,Aerospace & Defense,5/27/2025 16:30,5/27/2025,16:30,5/27/2025,5/28/2025
-NEXT,NextDecade Corporation,Energy,Oil & Gas Equipment & Services,5/28/2025,5/28/2025,0:00,5/28/2025,5/29/2025
+NEXT,NextDecade Corporation,Energy,Oil & Gas Equipment & Services,5/28/2025,5/28/2025,8:30,5/28/2025,5/29/2025
 M,Macy's Inc,Consumer Cyclical,Department Stores,5/28/2025 8:30,5/28/2025,8:30,5/27/2025,5/28/2025
 KC,Kingsoft Cloud Holdings Ltd ADR,Technology,Software - Application,5/28/2025 8:30,5/28/2025,8:30,5/27/2025,5/28/2025
 ANF,Abercrombie & Fitch Co,Consumer Cyclical,Apparel Retail,5/28/2025 8:30,5/28/2025,8:30,5/27/2025,5/28/2025
@@ -1538,7 +1538,7 @@ MTN,Vail Resorts Inc,Consumer Cyclical,Resorts & Casinos,6/5/2025 16:30,6/5/2025
 RBRK,Rubrik Inc,Technology,Software - Infrastructure,6/5/2025 16:30,6/5/2025,16:30,6/5/2025,6/6/2025
 TTAN,ServiceTitan Inc,Technology,Software - Application,6/5/2025 16:30,6/5/2025,16:30,6/5/2025,6/6/2025
 ABM,ABM Industries Inc,Industrials,Specialty Business Services,6/6/2025 8:30,6/6/2025,8:30,6/5/2025,6/6/2025
-VFS,VinFast Auto Ltd,Consumer Cyclical,Auto Manufacturers,6/9/2025 8:30,06/09/2025,08:30,6/6/2025,6/9/2025
+VFS,VinFast Auto Ltd,Consumer Cyclical,Auto Manufacturers,6/9/2025 8:30,6/9/2025,8:30,6/6/2025,6/9/2025
 CASY,"Casey's General Stores, Inc",Consumer Cyclical,Specialty Retail,6/9/2025 16:30,6/9/2025,16:30,6/9/2025,6/10/2025
 ASO,Academy Sports and Outdoors Inc,Consumer Cyclical,Specialty Retail,6/10/2025 8:30,6/10/2025,8:30,6/9/2025,6/10/2025
 CNM,Core & Main Inc,Industrials,Industrial Distribution,6/10/2025 8:30,6/10/2025,8:30,6/9/2025,6/10/2025
@@ -1549,34 +1549,34 @@ CHWY,Chewy Inc,Consumer Cyclical,Internet Retail,6/11/2025 8:30,6/11/2025,8:30,6
 SAIL,Sailpoint Inc,Technology,Software - Infrastructure,6/11/2025 8:30,6/11/2025,8:30,6/10/2025,6/11/2025
 ORCL,Oracle Corp,Technology,Software - Infrastructure,6/11/2025 16:30,6/11/2025,16:30,6/11/2025,6/12/2025
 ADBE,Adobe Inc,Technology,Software - Application,6/12/2025 16:30,6/12/2025,16:30,6/12/2025,6/13/2025
-RH,RH,Consumer Cyclical,Specialty Retail,6/12/2025 16:30,06/12/2025,16:30,6/12/2025,6/13/2025
-RNW,ReNew Energy Global plc,Utilities,Utilities - Renewable,6/16/2025 8:30,06/16/2025,08:30,6/13/2025,6/16/2025
+RH,RH,Consumer Cyclical,Specialty Retail,6/12/2025 16:30,6/12/2025,16:30,6/12/2025,6/13/2025
+RNW,ReNew Energy Global plc,Utilities,Utilities - Renewable,6/16/2025 8:30,6/16/2025,8:30,6/13/2025,6/16/2025
 LEN,Lennar Corp,Consumer Cyclical,Residential Construction,6/16/2025 16:30,6/16/2025,16:30,6/16/2025,6/17/2025
-BRFS,BRF S.A. ADR,Consumer Defensive,Packaged Foods,6/16/2025 16:30,06/16/2025,16:30,6/16/2025,6/17/2025
+BRFS,BRF S.A. ADR,Consumer Defensive,Packaged Foods,6/16/2025 16:30,6/16/2025,16:30,6/16/2025,6/17/2025
 JBL,Jabil Inc,Technology,Electronic Components,6/17/2025 8:30,6/17/2025,8:30,6/16/2025,6/17/2025
-WLY,John Wiley & Sons Inc,Communication Services,Publishing,6/17/2025 8:30,06/17/2025,08:30,6/16/2025,6/17/2025
+WLY,John Wiley & Sons Inc,Communication Services,Publishing,6/17/2025 8:30,6/17/2025,8:30,6/16/2025,6/17/2025
 GMS,GMS Inc,Industrials,Building Products & Equipment,6/18/2025 8:30,6/18/2025,8:30,6/17/2025,6/18/2025
-KFY,Korn Ferry,Industrials,Staffing & Employment Services,6/18/2025 8:30,06/18/2025,08:30,6/17/2025,6/18/2025
+KFY,Korn Ferry,Industrials,Staffing & Employment Services,6/18/2025 8:30,6/18/2025,8:30,6/17/2025,6/18/2025
 ACN,Accenture plc,Technology,Information Technology Services,6/20/2025 8:30,6/20/2025,8:30,6/19/2025,6/20/2025
 KMX,Carmax Inc,Consumer Cyclical,Auto & Truck Dealerships,6/20/2025 8:30,6/20/2025,8:30,6/19/2025,6/20/2025
-KR,Kroger Co,Consumer Defensive,Grocery Stores,6/20/2025 8:30,06/20/2025,08:30,6/19/2025,6/20/2025
+KR,Kroger Co,Consumer Defensive,Grocery Stores,6/20/2025 8:30,6/20/2025,8:30,6/19/2025,6/20/2025
 CMC,Commercial Metals Co,Basic Materials,Steel,6/23/2025 8:30,6/23/2025,8:30,6/20/2025,6/23/2025
 FDS,Factset Research Systems Inc,Financial,Financial Data & Stock Exchanges,6/23/2025 8:30,6/23/2025,8:30,6/20/2025,6/23/2025
-KBH,KB Home,Consumer Cyclical,Residential Construction,6/23/2025 16:30,06/23/2025,16:30,6/23/2025,6/24/2025
-CCL,Carnival Corp,Consumer Cyclical,Travel Services,6/24/2025 8:30,06/24/2025,08:30,6/23/2025,6/24/2025
-SNX,TD Synnex Corp,Technology,Electronics & Computer Distribution,6/24/2025 8:30,06/24/2025,08:30,6/23/2025,6/24/2025
+KBH,KB Home,Consumer Cyclical,Residential Construction,6/23/2025 16:30,6/23/2025,16:30,6/23/2025,6/24/2025
+CCL,Carnival Corp,Consumer Cyclical,Travel Services,6/24/2025 8:30,6/24/2025,8:30,6/23/2025,6/24/2025
+SNX,TD Synnex Corp,Technology,Electronics & Computer Distribution,6/24/2025 8:30,6/24/2025,8:30,6/23/2025,6/24/2025
 BB,BlackBerry Ltd,Technology,Software - Infrastructure,6/24/2025 16:30,6/24/2025,16:30,6/24/2025,6/25/2025
 FDX,Fedex Corp,Industrials,Integrated Freight & Logistics,6/24/2025 16:30,6/24/2025,16:30,6/24/2025,6/25/2025
-WOR,Worthington Enterprises Inc,Industrials,Metal Fabrication,6/24/2025 16:30,06/24/2025,16:30,6/24/2025,6/25/2025
-GIS,"General Mills, Inc",Consumer Defensive,Packaged Foods,6/25/2025 8:30,06/25/2025,08:30,6/24/2025,6/25/2025
-PAYX,Paychex Inc,Technology,Software - Application,6/25/2025 8:30,06/25/2025,08:30,6/24/2025,6/25/2025
+WOR,Worthington Enterprises Inc,Industrials,Metal Fabrication,6/24/2025 16:30,6/24/2025,16:30,6/24/2025,6/25/2025
+GIS,"General Mills, Inc",Consumer Defensive,Packaged Foods,6/25/2025 8:30,6/25/2025,8:30,6/24/2025,6/25/2025
+PAYX,Paychex Inc,Technology,Software - Application,6/25/2025 8:30,6/25/2025,8:30,6/24/2025,6/25/2025
 MU,Micron Technology Inc,Technology,Semiconductors,6/25/2025 16:30,6/25/2025,16:30,6/25/2025,6/26/2025
-FUL,H.B. Fuller Company,Basic Materials,Specialty Chemicals,6/25/2025 16:30,06/25/2025,16:30,6/25/2025,6/26/2025
-JEF,Jefferies Financial Group Inc,Financial,Capital Markets,6/25/2025 16:30,06/25/2025,16:30,6/25/2025,6/26/2025
+FUL,H.B. Fuller Company,Basic Materials,Specialty Chemicals,6/25/2025 16:30,6/25/2025,16:30,6/25/2025,6/26/2025
+JEF,Jefferies Financial Group Inc,Financial,Capital Markets,6/25/2025 16:30,6/25/2025,16:30,6/25/2025,6/26/2025
 AYI,Acuity Inc,Industrials,Electrical Equipment & Parts,6/26/2025 8:30,6/26/2025,8:30,6/25/2025,6/26/2025
 MKC,"McCormick & Co., Inc",Consumer Defensive,Packaged Foods,6/26/2025 8:30,6/26/2025,8:30,6/25/2025,6/26/2025
-WBA,Walgreens Boots Alliance Inc,Healthcare,Pharmaceutical Retailers,6/26/2025 8:30,06/26/2025,08:30,6/25/2025,6/26/2025
-CNXC,Concentrix Corp,Technology,Information Technology Services,6/26/2025 16:30,06/26/2025,16:30,6/26/2025,6/27/2025
-EPAC,Enerpac Tool Group Corp,Industrials,Specialty Industrial Machinery,6/26/2025 16:30,06/26/2025,16:30,6/26/2025,6/27/2025
-NKE,"Nike, Inc",Consumer Cyclical,Footwear & Accessories,6/26/2025 16:30,06/26/2025,16:30,6/26/2025,6/27/2025
-PRGS,Progress Software Corp,Technology,Software - Infrastructure,6/30/2025 16:30,06/30/2025,16:30,6/30/2025,7/1/2025
+WBA,Walgreens Boots Alliance Inc,Healthcare,Pharmaceutical Retailers,6/26/2025 8:30,6/26/2025,8:30,6/25/2025,6/26/2025
+CNXC,Concentrix Corp,Technology,Information Technology Services,6/26/2025 16:30,6/26/2025,16:30,6/26/2025,6/27/2025
+EPAC,Enerpac Tool Group Corp,Industrials,Specialty Industrial Machinery,6/26/2025 16:30,6/26/2025,16:30,6/26/2025,6/27/2025
+NKE,"Nike, Inc",Consumer Cyclical,Footwear & Accessories,6/26/2025 16:30,6/26/2025,16:30,6/26/2025,6/27/2025
+PRGS,Progress Software Corp,Technology,Software - Infrastructure,6/30/2025 16:30,6/30/2025,16:30,6/30/2025,7/1/2025
