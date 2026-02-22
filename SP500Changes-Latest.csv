@@ -1,4 +1,14 @@
 Date,Action,Symbol,Company,Reason,Reason2
+9-Feb-26,Added,CIEN,Ciena,Spot fill for DAY,Dayforce acquired by Thoma Bravo for $12.3B.
+9-Feb-26,Removed,DAY,Dayforce,Acquired,Acquired by Thoma Bravo.
+22-Dec-25,Added,CRH,CRH,Quarterly rebalance,Market capitalization change.
+22-Dec-25,Added,CVNA,Carvana,Quarterly rebalance,Market capitalization change.
+22-Dec-25,Added,FIX,Comfort Systems USA,Quarterly rebalance,Market capitalization change.
+22-Dec-25,Removed,LKQ,LKQ,Quarterly rebalance,Market capitalization change.
+22-Dec-25,Removed,SOLS,Solstice Advanced Materials,Quarterly rebalance,Market capitalization change.
+22-Dec-25,Removed,MHK,Mohawk Industries,Quarterly rebalance,Market capitalization change.
+11-Dec-25,Added,ARES,Ares Management,Spot fill for K,Kellanova acquired by Mars Inc.
+11-Dec-25,Removed,K,Kellanova,Acquired,Acquired by Mars Inc.
 4-Nov-25,Removed,EMN,Eastman Chemical Co.,To make room for a new spinoff,Market capitalization change.[6]
 3-Nov-25,Added,Q,Qnity Electronics,New qualifying spin off,"S&P 500 constituent Dupont de Nemours, Inc. spun off Qnity Electronics.[6]"
 31-Oct-25,Removed,KMX,CarMax,To make room for a new spinoff,Market capitalization change.[6]
